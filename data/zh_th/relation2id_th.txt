@@ -1,0 +1,299 @@
+http://th.dbpedia.org/property/ยศทหาร	0
+http://th.dbpedia.org/property/related category	1
+http://th.dbpedia.org/property/ผู้ดำรงค์ตำแหน่ง	2
+http://th.dbpedia.org/property/topic's main template	3
+http://th.dbpedia.org/property/category for employees of the organization	4
+http://th.dbpedia.org/property/territory claimed by	5
+http://th.dbpedia.org/property/located in the statistical territorial entity	6
+http://th.dbpedia.org/property/Köppen climate classification	7
+http://th.dbpedia.org/property/parent peak	8
+http://th.dbpedia.org/property/taxonomic type	9
+http://th.dbpedia.org/property/ภาษาที่บุคคลนี้ใช้เขียน	10
+http://th.dbpedia.org/property/หมวดหมู่สำหรับคนเสียชีวิตที่นี่	11
+http://th.dbpedia.org/property/ถัดไป	12
+http://th.dbpedia.org/property/ancestral home	13
+http://th.dbpedia.org/property/กีฬา	14
+http://th.dbpedia.org/property/ปฏิบัติโดย	15
+http://th.dbpedia.org/property/cause of destruction	16
+http://th.dbpedia.org/property/แหล่งน้ำใกล้เคียง	17
+http://th.dbpedia.org/property/name day	18
+http://th.dbpedia.org/property/worshipped by	19
+http://th.dbpedia.org/property/on focus list of Wikimedia project	20
+http://th.dbpedia.org/property/office held by head of the organization	21
+http://th.dbpedia.org/property/coextensive with	22
+http://th.dbpedia.org/property/currency symbol description	23
+http://th.dbpedia.org/property/ปริญญา	24
+http://th.dbpedia.org/property/เป็นพลเมืองของประเทศ	25
+http://th.dbpedia.org/property/เหตุการณ์สำคัญ	26
+http://th.dbpedia.org/property/authority	27
+http://th.dbpedia.org/property/อาชีพ	28
+http://th.dbpedia.org/property/หน้าที่ของประธานของประพจน์	29
+http://th.dbpedia.org/property/ผู้สร้าง	30
+http://th.dbpedia.org/property/บริษัทแม่	31
+http://th.dbpedia.org/property/วันที่เกิด	32
+http://th.dbpedia.org/property/ดำรงตำแหน่ง	33
+http://th.dbpedia.org/property/victim	34
+http://th.dbpedia.org/property/ศิลปินนักร้อง/นักดนตรี	35
+http://th.dbpedia.org/property/tributary	36
+http://th.dbpedia.org/property/ยาที่ใช้ในการรักษา	37
+http://th.dbpedia.org/property/connects with	38
+http://th.dbpedia.org/property/สถานที่เกิด	39
+http://th.dbpedia.org/property/หมวดหมู่ประกอบด้วย	40
+http://th.dbpedia.org/property/immediate cause of	41
+http://th.dbpedia.org/property/ศึกษาที่	42
+http://th.dbpedia.org/property/ธนาคารกลาง	43
+http://th.dbpedia.org/property/เมืองพี่น้อง	44
+http://th.dbpedia.org/property/located in the ecclesiastical territorial entity	45
+http://th.dbpedia.org/property/signatory	46
+http://th.dbpedia.org/property/patron saint	47
+http://th.dbpedia.org/property/dialect of	48
+http://th.dbpedia.org/property/coat of arms	49
+http://th.dbpedia.org/property/คติพจน์	50
+http://th.dbpedia.org/property/ทวีป	51
+http://th.dbpedia.org/property/สมาชิกของพรรคการเมือง	52
+http://th.dbpedia.org/property/Wikimedia outline	53
+http://th.dbpedia.org/property/demographics of topic	54
+http://th.dbpedia.org/property/depositary	55
+http://th.dbpedia.org/property/เพลงสดุดี	56
+http://th.dbpedia.org/property/เข้ามาแทน	57
+http://th.dbpedia.org/property/ประมุขแห่งรัฐ	58
+http://th.dbpedia.org/property/ต่างจาก	59
+http://th.dbpedia.org/property/medical condition	60
+http://th.dbpedia.org/property/สัญลักษณ์ทางการ	61
+http://th.dbpedia.org/property/ปริมาณทางกายภาพที่วัด	62
+http://th.dbpedia.org/property/religious order	63
+http://th.dbpedia.org/property/does not have part	64
+http://th.dbpedia.org/property/การนำไปใช้	65
+http://th.dbpedia.org/property/doctoral student	66
+http://th.dbpedia.org/property/occupant	67
+http://th.dbpedia.org/property/right to vote	68
+http://th.dbpedia.org/property/has contributing factor	69
+http://th.dbpedia.org/property/ผู้จัดการ/ผู้อำนวยการ	70
+http://th.dbpedia.org/property/noble title	71
+http://th.dbpedia.org/property/uses capitalization for	72
+http://th.dbpedia.org/property/educational stage	73
+http://th.dbpedia.org/property/separated from	74
+http://th.dbpedia.org/property/วัสดุที่ใช้	75
+http://th.dbpedia.org/property/contains	76
+http://th.dbpedia.org/property/ผลงานที่มีชื่อเสียง	77
+http://th.dbpedia.org/property/ประธาน	78
+http://th.dbpedia.org/property/doctoral advisor	79
+http://th.dbpedia.org/property/inflows	80
+http://th.dbpedia.org/property/เพศ	81
+http://th.dbpedia.org/property/ใช้โดย	82
+http://th.dbpedia.org/property/ชนิดของการเสียชีวิต	83
+http://th.dbpedia.org/property/ระบบการเขียน	84
+http://th.dbpedia.org/property/ผู้อุปถัมป์	85
+http://th.dbpedia.org/property/participant	86
+http://th.dbpedia.org/property/อธิบายโดยแหล่งที่มา	87
+http://th.dbpedia.org/property/ประกอบไปด้วยส่วนที่อยู่ในกลุ่มของ	88
+http://th.dbpedia.org/property/ที่ตั้งสำนักงานใหญ่	89
+http://th.dbpedia.org/property/เผยแพร่ที่	90
+http://th.dbpedia.org/property/military branch	91
+http://th.dbpedia.org/property/สถานะทางมรดก	92
+http://th.dbpedia.org/property/สาเหตุการเสียชีวิต	93
+http://th.dbpedia.org/property/located in present-day administrative territorial entity	94
+http://th.dbpedia.org/property/ประกอบไปด้วย	95
+http://th.dbpedia.org/property/charge	96
+http://th.dbpedia.org/property/risk factor	97
+http://th.dbpedia.org/property/เป็นศิษย์ของ	98
+http://th.dbpedia.org/property/lake outflow	99
+http://th.dbpedia.org/property/ผู้จัดงาน	100
+http://th.dbpedia.org/property/อยู่ในเขตการปกครองของ	101
+http://th.dbpedia.org/property/หัวหน้ารัฐบาล	102
+http://th.dbpedia.org/property/organization directed by the office or position	103
+http://th.dbpedia.org/property/จุดลึกสุด	104
+http://th.dbpedia.org/property/เชื้อชาติ	105
+http://th.dbpedia.org/property/ผลิตภัณฑ์	106
+http://th.dbpedia.org/property/ภาษาที่ใช้พูด, เขียน หรือ ลงลายมือชื่อ	107
+http://th.dbpedia.org/property/place of detention	108
+http://th.dbpedia.org/property/Wikimedia portal's main topic	109
+http://th.dbpedia.org/property/ความสัมพันธ์ทางการทูต	110
+http://th.dbpedia.org/property/ภาษาแม่	111
+http://th.dbpedia.org/property/สถานที่ดำเนินเรื่อง	112
+http://th.dbpedia.org/property/time period	113
+http://th.dbpedia.org/property/เป็นเจ้าของ	114
+http://th.dbpedia.org/property/ถูกฆ่าโดย	115
+http://th.dbpedia.org/property/has seal, badge, or sigil	116
+http://th.dbpedia.org/property/foundational text	117
+http://th.dbpedia.org/property/historic county	118
+http://th.dbpedia.org/property/secretary general	119
+http://th.dbpedia.org/property/voice type	120
+http://th.dbpedia.org/property/เป็น	121
+http://th.dbpedia.org/property/participant in	122
+http://th.dbpedia.org/property/เป็นส่วนหนึ่งของ	123
+http://th.dbpedia.org/property/afflicts	124
+http://th.dbpedia.org/property/public holiday	125
+http://th.dbpedia.org/property/has immediate cause	126
+http://th.dbpedia.org/property/category for films shot at this location	127
+http://th.dbpedia.org/property/category for films in this language	128
+http://th.dbpedia.org/property/ผู้ดำเนินการ	129
+http://th.dbpedia.org/property/partially coincident with	130
+http://th.dbpedia.org/property/ศึกษาเกี่ยวกับ	131
+http://th.dbpedia.org/property/หน่วยย่อยการปกครอง	132
+http://th.dbpedia.org/property/วันของสัปดาห์	133
+http://th.dbpedia.org/property/indigenous to	134
+http://th.dbpedia.org/property/พี่น้อง	135
+http://th.dbpedia.org/property/influenced by	136
+http://th.dbpedia.org/property/ไหลลงสู่	137
+http://th.dbpedia.org/property/physically interacts with	138
+http://th.dbpedia.org/property/ค่ายเพลง	139
+http://th.dbpedia.org/property/คู่สมรส	140
+http://th.dbpedia.org/property/unmarried partner	141
+http://th.dbpedia.org/property/ศัตรูของ	142
+http://th.dbpedia.org/property/board member	143
+http://th.dbpedia.org/property/anatomical location	144
+http://th.dbpedia.org/property/สถานะลิขสิทธิ์	145
+http://th.dbpedia.org/property/ที่อยู่อาศัย	146
+http://th.dbpedia.org/property/allegiance	147
+http://th.dbpedia.org/property/สายอาชีพ	148
+http://th.dbpedia.org/property/ประเภท	149
+http://th.dbpedia.org/property/ศาสนา	150
+http://th.dbpedia.org/property/รูปแบบงานสร้างสรรค์	151
+http://th.dbpedia.org/property/vehicle normally used	152
+http://th.dbpedia.org/property/field of work	153
+http://th.dbpedia.org/property/เมืองหลวง	154
+http://th.dbpedia.org/property/has works in the collection	155
+http://th.dbpedia.org/property/house publication	156
+http://th.dbpedia.org/property/บำรุงรักษาโดยโครงการวิกิ	157
+http://th.dbpedia.org/property/แทนที่โดย	158
+http://th.dbpedia.org/property/conflict	159
+http://th.dbpedia.org/property/basic form of government	160
+http://th.dbpedia.org/property/origin of the watercourse	161
+http://th.dbpedia.org/property/substitute/deputy/replacement of office/officeholder	162
+http://th.dbpedia.org/property/operating area	163
+http://th.dbpedia.org/property/website account on	164
+http://th.dbpedia.org/property/สาเหตุ	165
+http://th.dbpedia.org/property/โดเมนระดับบนสุด	166
+http://th.dbpedia.org/property/commanded by	167
+http://th.dbpedia.org/property/family	168
+http://th.dbpedia.org/property/วัฒนธรรม	169
+http://th.dbpedia.org/property/มอบให้โดย	170
+http://th.dbpedia.org/property/penalty	171
+http://th.dbpedia.org/property/สถานที่ตั้ง	172
+http://th.dbpedia.org/property/health specialty	173
+http://th.dbpedia.org/property/candidacy in election	174
+http://th.dbpedia.org/property/ก่อนหน้า	175
+http://th.dbpedia.org/property/day in year for periodic occurrence	176
+http://th.dbpedia.org/property/main regulatory text	177
+http://th.dbpedia.org/property/ศิษย์	178
+http://th.dbpedia.org/property/honorific suffix	179
+http://th.dbpedia.org/property/economy of topic	180
+http://th.dbpedia.org/property/has grammatical case	181
+http://th.dbpedia.org/property/feast day	182
+http://th.dbpedia.org/property/executive body	183
+http://th.dbpedia.org/property/depicted by	184
+http://th.dbpedia.org/property/ผู้ถือกรรมสิทธิ์	185
+http://th.dbpedia.org/property/appointed by	186
+http://th.dbpedia.org/property/item disputed by	187
+http://th.dbpedia.org/property/history of topic	188
+http://th.dbpedia.org/property/ผู้ค้นพบ/ผู้ประดิษฐ์	189
+http://th.dbpedia.org/property/อุตสาหกรรม	190
+http://th.dbpedia.org/property/ระดับชั้นถัดไปที่ต่ำกว่า	191
+http://th.dbpedia.org/property/convicted of	192
+http://th.dbpedia.org/property/รางวัลที่ได้รับ	193
+http://th.dbpedia.org/property/production statistics	194
+http://th.dbpedia.org/property/ประเทศ	195
+http://th.dbpedia.org/property/เป็นภาพหนึ่งของ	196
+http://th.dbpedia.org/property/ในแบบฉบับอื่น	197
+http://th.dbpedia.org/property/สถานที่ก่อตั้ง	198
+http://th.dbpedia.org/property/official color	199
+http://th.dbpedia.org/property/in opposition to	200
+http://th.dbpedia.org/property/จดหมายเหตุอยู่ที่	201
+http://th.dbpedia.org/property/template has topic	202
+http://th.dbpedia.org/property/ผู้ประพันธ์	203
+http://th.dbpedia.org/property/legal form	204
+http://th.dbpedia.org/property/เขตเวลา	205
+http://th.dbpedia.org/property/หมวดหมู่ประสานหัวข้อ	206
+http://th.dbpedia.org/property/ธง	207
+http://th.dbpedia.org/property/drafted by	208
+http://th.dbpedia.org/property/ภาษาของงานหรือชื่อ	209
+http://th.dbpedia.org/property/ประกอบด้วย	210
+http://th.dbpedia.org/property/railway traffic side	211
+http://th.dbpedia.org/property/บริษัทลูก	212
+http://th.dbpedia.org/property/ภาษาทางการ	213
+http://th.dbpedia.org/property/movement	214
+http://th.dbpedia.org/property/กลุ่มย่อยของ	215
+http://th.dbpedia.org/property/มีรายการรายชื่อ	216
+http://th.dbpedia.org/property/possible treatment	217
+http://th.dbpedia.org/property/contains settlement	218
+http://th.dbpedia.org/property/อาการ	219
+http://th.dbpedia.org/property/lifestyle	220
+http://th.dbpedia.org/property/template or module that populates category	221
+http://th.dbpedia.org/property/medical examinations	222
+http://th.dbpedia.org/property/language used	223
+http://th.dbpedia.org/property/เงินตรา	224
+http://th.dbpedia.org/property/ชื่อต้น	225
+http://th.dbpedia.org/property/เครื่องดนตรี	226
+http://th.dbpedia.org/property/has natural reservoir	227
+http://th.dbpedia.org/property/legislative body	228
+http://th.dbpedia.org/property/ผู้สนับสนุน	229
+http://th.dbpedia.org/property/บริเวณลุ่มน้ำ	230
+http://th.dbpedia.org/property/ประเทศต้นกำเนิด	231
+http://th.dbpedia.org/property/หมวดหมู่สำหรับคนเกิดที่นี่	232
+http://th.dbpedia.org/property/objective of project or action	233
+http://th.dbpedia.org/property/central bank/issuer	234
+http://th.dbpedia.org/property/อนุมัติโดย	235
+http://th.dbpedia.org/property/sexual orientation	236
+http://th.dbpedia.org/property/เมืองหลวงของ	237
+http://th.dbpedia.org/property/applies to jurisdiction	238
+http://th.dbpedia.org/property/official residence	239
+http://th.dbpedia.org/property/present in work	240
+http://th.dbpedia.org/property/honorific prefix	241
+http://th.dbpedia.org/property/มีคุณลักษณะ	242
+http://th.dbpedia.org/property/commemorates	243
+http://th.dbpedia.org/property/enclave within	244
+http://th.dbpedia.org/property/taxon found at location	245
+http://th.dbpedia.org/property/UNESCO language status	246
+http://th.dbpedia.org/property/foods traditionally associated	247
+http://th.dbpedia.org/property/สำนักพิมพ์/ผู้เผยแพร่	248
+http://th.dbpedia.org/property/ตรงข้ามกันกับ	249
+http://th.dbpedia.org/property/ด้านที่ขับรถ	250
+http://th.dbpedia.org/property/หมวดหมู่หลักของหัวข้อ	251
+http://th.dbpedia.org/property/สถานที่เสียชีวิต	252
+http://th.dbpedia.org/property/เป้าหมาย	253
+http://th.dbpedia.org/property/ไอเท็มต้นแบบ	254
+http://th.dbpedia.org/property/basin country	255
+http://th.dbpedia.org/property/บทความหลักในหมวดหมู่	256
+http://th.dbpedia.org/property/ใช้กับ	257
+http://th.dbpedia.org/property/highest judicial authority	258
+http://th.dbpedia.org/property/ratified by	259
+http://th.dbpedia.org/property/perpetrator	260
+http://th.dbpedia.org/property/นายจ้าง	261
+http://th.dbpedia.org/property/designed to carry	262
+http://th.dbpedia.org/property/ตั้งชื่อตาม	263
+http://th.dbpedia.org/property/ญาติ	264
+http://th.dbpedia.org/property/สถานที่ทำงาน	265
+http://th.dbpedia.org/property/category of associated people	266
+http://th.dbpedia.org/property/office held by head of government	267
+http://th.dbpedia.org/property/topic's main Wikimedia portal	268
+http://th.dbpedia.org/property/มักกล่าวได้ว่าเหมือนกันกับ	269
+http://th.dbpedia.org/property/จุดสูงสุด	270
+http://th.dbpedia.org/property/child astronomical body	271
+http://th.dbpedia.org/property/ผู้ก่อตั้ง	272
+http://th.dbpedia.org/property/ทำให้เกิด	273
+http://th.dbpedia.org/property/สุสาน	274
+http://th.dbpedia.org/property/อุดมการณ์ทางการเมือง	275
+http://th.dbpedia.org/property/กรรมการผู้จัดการ	276
+http://th.dbpedia.org/property/ลูก	277
+http://th.dbpedia.org/property/สี	278
+http://th.dbpedia.org/property/ถูกศึกษาโดย	279
+http://th.dbpedia.org/property/category for eponymous categories	280
+http://th.dbpedia.org/property/located in/on physical feature	281
+http://th.dbpedia.org/property/office held by head of state	282
+http://th.dbpedia.org/property/รูปแบบสถาปัตยกรรม	283
+http://th.dbpedia.org/property/หัวข้อหลัก	284
+http://th.dbpedia.org/property/exclave of	285
+http://th.dbpedia.org/property/geography of topic	286
+http://th.dbpedia.org/property/official religion	287
+http://th.dbpedia.org/property/มีอาณาเขตติดกับ	288
+http://th.dbpedia.org/property/linguistic typology	289
+http://th.dbpedia.org/property/บิดา	290
+http://th.dbpedia.org/property/armament	291
+http://th.dbpedia.org/property/political alignment	292
+http://th.dbpedia.org/property/ดัดแปลงจาก	293
+http://th.dbpedia.org/property/interested in	294
+http://th.dbpedia.org/property/มารดา	295
+http://th.dbpedia.org/property/language regulatory body	296
+http://th.dbpedia.org/property/สมาชิกของ	297
+http://th.dbpedia.org/property/manifestation of	298

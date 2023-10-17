@@ -1,0 +1,298 @@
+0	หัวหน้ารัฐบาล
+1	foundational text
+2	ไหลลงสู่
+3	ธง
+4	inflows
+5	สถานะลิขสิทธิ์
+6	มาสคอต
+7	ด้านที่ขับรถ
+8	ลูก
+9	ที่ตั้งสำนักงานใหญ่
+10	honorific suffix
+11	category for films in this language
+12	has grammatical gender
+13	officially opened by
+14	หัวข้อหลัก
+15	หน้าที่ของประธานของประพจน์
+16	ดัดแปลงจาก
+17	emergency phone number
+18	parent taxon
+19	ประมุขแห่งรัฐ
+20	territory overlaps
+21	ศิลปินนักร้อง/นักดนตรี
+22	อุดมการณ์ทางการเมือง
+23	official color
+24	package management system
+25	manifestation of
+26	มารดา
+27	organization directed by the office or position
+28	หมวดหมู่ประสานหัวข้อ
+29	นามสกุล
+30	located in protected area
+31	ถูกศึกษาโดย
+32	category of associated people
+33	บริษัทลูก
+34	สัญญาอนุญาต
+35	canonization status
+36	dialect of
+37	has works in the collection
+38	standards body
+39	จุดลึกสุด
+40	ระบบปฏิบัติการ
+41	เป้าหมาย
+42	เป็นส่วนหนึ่งของ
+43	อุตสาหกรรม
+44	สถานที่ก่อตั้ง
+45	ดำรงตำแหน่ง
+46	lifestyle
+47	อาชีพ
+48	เงินตรา
+49	ตลาดหลักทรัพย์
+50	related category
+51	participating team
+52	ประเทศต้นกำเนิด
+53	worshipped by
+54	ประธาน
+55	ภาษาแม่
+56	คู่สมรส
+57	งานสืบเนื่อง
+58	เชื้อชาติ
+59	เขตเวลา
+60	เผยแพร่ที่
+61	category for eponymous categories
+62	ภาษาทางการ
+63	applies to jurisdiction
+64	ตัวแทนจำหน่าย
+65	ประกอบไปด้วยส่วนที่อยู่ในกลุ่มของ
+66	convicted of
+67	exclave of
+68	เมืองหลวง
+69	เมืองหลวงของ
+70	ออกอากาศโดย
+71	หน่วยย่อยการปกครอง
+72	บำรุงรักษาโดยโครงการวิกิ
+73	payment types accepted
+74	Wikimedia portal's main topic
+75	สถานที่ตั้ง
+76	สถานที่ทำงาน
+77	สัญลักษณ์ทางการ
+78	member category
+79	allegiance
+80	มีรายการรายชื่อ
+81	military branch
+82	uses capitalization for
+83	GUI toolkit or framework
+84	ใช้กับ
+85	ที่อยู่อาศัย
+86	family
+87	religious order
+88	honorific prefix
+89	ผู้สร้าง
+90	สำนักพิมพ์/ผู้เผยแพร่
+91	stepparent
+92	ผู้ดำรงค์ตำแหน่ง
+93	ทำให้เกิด
+94	หมวดหมู่หลักของหัวข้อ
+95	ซีรีส์
+96	location of first performance
+97	วัฒนธรรม
+98	ไอเท็มต้นแบบ
+99	medical condition
+100	topic's main template
+101	day in year for periodic occurrence
+102	interested in
+103	domain of saint or deity
+104	ผู้สนับสนุน
+105	has immediate cause
+106	การนำไปใช้
+107	signatory
+108	ผู้ดำเนินการ
+109	ถัดไป
+110	สุสาน
+111	office held by head of government
+112	แหล่งน้ำใกล้เคียง
+113	official residence
+114	main regulatory text
+115	ประกอบไปด้วย
+116	field of work
+117	appointed by
+118	tributary
+119	parent peak
+120	รูปแบบสถาปัตยกรรม
+121	ทวีป
+122	สาเหตุ
+123	central bank/issuer
+124	participant
+125	diocese
+126	ผู้อุปถัมป์
+127	ธนาคารกลาง
+128	coat of arms
+129	has seal, badge, or sigil
+130	voice type
+131	ต่างจาก
+132	inspired by
+133	ผลิตภัณฑ์
+134	ประเภท
+135	game artist
+136	ผู้จัดการ/ผู้อำนวยการ
+137	หมวดหมู่ประกอบด้วย
+138	สายอาชีพ
+139	นายจ้าง
+140	ปริญญา
+141	แทนที่โดย
+142	ตั้งชื่อตาม
+143	noble title
+144	does not have part
+145	กลุ่มย่อยของ
+146	template has topic
+147	railway traffic side
+148	language regulatory body
+149	ผู้พัฒนา
+150	conflict
+151	ชื่อต้น
+152	iconographic symbol
+153	อนุมัติโดย
+154	taxon found at location
+155	สาเหตุการเสียชีวิต
+156	sexual orientation
+157	ยศทหาร
+158	ผู้ชนะ
+159	โดเมนระดับบนสุด
+160	ถูกเผยแพร่ใน
+161	เครื่องดนตรี
+162	พี่น้อง
+163	ปรับปรุงหรือแปลมาจาก
+164	legal form
+165	territory claimed by
+166	physically interacts with
+167	country for sport
+168	merged into
+169	history of topic
+170	ศึกษาที่
+171	วันของสัปดาห์
+172	ผู้ประพันธ์เพลง
+173	partially coincident with
+174	public holiday
+175	ผู้ถือกรรมสิทธิ์
+176	คติพจน์
+177	currency symbol description
+178	ratified by
+179	ผู้จัดงาน
+180	สถานะทางมรดก
+181	ภาษาของงานหรือชื่อ
+182	สถานที่เกิด
+183	language used
+184	intended public
+185	demographics of topic
+186	time period
+187	ประเทศ
+188	indigenous to
+189	supported sports team
+190	ในแบบฉบับอื่น
+191	copyright representative
+192	right to vote
+193	มีอาณาเขตติดกับ
+194	กีฬา
+195	เป็น
+196	ผู้ประพันธ์เนื้อร้อง
+197	has contributing factor
+198	สีผม
+199	รางวัลที่ถูกเสนอชื่อเข้าชิง
+200	สี
+201	Köppen climate classification
+202	เป็นรายชื่อของ
+203	located in present-day administrative territorial entity
+204	coextensive with
+205	commanded by
+206	ผู้ค้นพบ/ผู้ประดิษฐ์
+207	เป็นพลเมืองของประเทศ
+208	separated from
+209	ระดับชั้นถัดไปที่ต่ำกว่า
+210	ถูกทำลาย
+211	กรรมการผู้จัดการ
+212	depositary
+213	located in/on physical feature
+214	board member
+215	สมาชิกของ
+216	update method
+217	production statistics
+218	basic form of government
+219	เป็นเจ้าของ
+220	ศึกษาเกี่ยวกับ
+221	feast day
+222	ประกอบด้วย
+223	ความสัมพันธ์ทางการทูต
+224	movement
+225	category for films shot at this location
+226	office held by head of state
+227	ชนิดของการเสียชีวิต
+228	commemorates
+229	เข้ามาแทน
+230	เป็นภาพหนึ่งของ
+231	อธิบายโดยแหล่งที่มา
+232	ภาษาที่ใช้พูด, เขียน หรือ ลงลายมือชื่อ
+233	highest judicial authority
+234	patron saint
+235	รูปแบบงานสร้างสรรค์
+236	นักออกแบบ
+237	ญาติ
+238	บิดา
+239	enclave within
+240	เพศ
+241	ผู้ประพันธ์
+242	child astronomical body
+243	แพลตฟอร์ม
+244	political coalition
+245	candidacy in election
+246	วัสดุที่ใช้
+247	commander of (DEPRECATED)
+248	ภาษาโปรแกรม
+249	economy of topic
+250	ค่ายเพลง
+251	รางวัลที่ได้รับ
+252	สมาชิกของพรรคการเมือง
+253	เพลงสดุดี
+254	office held by head of the organization
+255	ปฏิบัติโดย
+256	present in work
+257	อยู่ในเขตการปกครองของ
+258	ระบบการเขียน
+259	ก่อนหน้า
+260	era name
+261	cause of destruction
+262	เจ้าของลิขสิทธิ์
+263	manufacturer
+264	geography of topic
+265	has grammatical case
+266	topic's main Wikimedia portal
+267	ผลงานที่มีชื่อเสียง
+268	immediate cause of
+269	executive body
+270	สถานที่เสียชีวิต
+271	เหตุการณ์สำคัญ
+272	official religion
+273	influenced by
+274	มอบให้โดย
+275	มีคุณลักษณะ
+276	taxonomic type
+277	on focus list of Wikimedia project
+278	ภาษาที่บุคคลนี้ใช้เขียน
+279	มักกล่าวได้ว่าเหมือนกันกับ
+280	บทความหลักในหมวดหมู่
+281	ศาสนา
+282	occupant
+283	ตรงข้ามกันกับ
+284	จุดสูงสุด
+285	peak bagging classification
+286	linguistic typology
+287	secretary general
+288	operating area
+289	basin country
+290	foods traditionally associated
+291	ปริมาณทางกายภาพที่วัด
+292	ผู้ก่อตั้ง
+293	ancestral home
+294	legislative body
+295	เมืองพี่น้อง
+296	บริษัทแม่
+297	participant in

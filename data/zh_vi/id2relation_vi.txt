@@ -1,0 +1,342 @@
+0	chính quyền
+1	voice actor
+2	bài hát chính thức
+3	vị trí trụ sở
+4	giải thưởng
+5	substitute/deputy/replacement of office/officeholder
+6	domain of saint or deity
+7	nơi công tác
+8	sử dụng ngôn ngữ
+9	next higher rank
+10	chức danh người đứng đầu đất nước
+11	lãnh thổ nội địa ở trong
+12	ngày trong năm của chu kỳ xảy ra
+13	significant drug interaction
+14	thành phố kết nghĩa
+15	nhân vật quan trọng
+16	lake outflow
+17	thể loại cho các nhân vật qua đời ở địa điểm này
+18	phương tiện phân phối
+19	sinh viên của
+20	medical condition treated
+21	có trong danh sách chú trọng của dự án Wikimedia
+22	symptoms and signs
+23	tonality
+24	phỏng theo
+25	union of
+26	territory overlaps
+27	cơ sở pháp lý
+28	đại lượng vật lý được đo
+29	trường học
+30	hệ điều hành
+31	ngày lễ công cộng
+32	trên đường
+33	thành viên của
+34	họ
+35	thể loại bản đồ
+36	associated electoral district
+37	found in taxon
+38	side effect
+39	tác phẩm chính
+40	phần kế trước của
+41	ngân hàng trung ương/cơ quan phát hành tiền
+42	tổng bí thư
+43	economy of topic
+44	honorific prefix
+45	tác phẩm phái sinh
+46	cách dùng
+47	có phần của lớp
+48	nguyên nhân
+49	professorship
+50	phong cách kiến trúc
+51	tọa lạc trong hoặc bên cạnh khu vực mặt nước
+52	thời kỳ
+53	các ấn bản
+54	khía cạnh của
+55	vị trí thành lập
+56	nơi sinh
+57	dân tộc
+58	located in present-day administrative territorial entity
+59	fabrication method
+60	phần tiếp theo của
+61	anatomical location
+62	official color
+63	tên miền cấp cao nhất
+64	hiến chương
+65	lục địa
+66	chức vụ lãnh đạo
+67	thiên hướng tình dục
+68	supported sports team
+69	nhạc cụ
+70	dòng tu
+71	kit supplier
+72	nơi phát hiện thiên thể
+73	liên đoàn thể thao
+74	nhóm máu
+75	là tập hợp con của
+76	ngôn ngữ chính thức
+77	valid in place
+78	giáo phận
+79	khẩu hiệu
+80	miêu tả trong
+81	người sáng lập
+82	người quản lý/giám đốc
+83	next lower rank
+84	dạng luật pháp
+85	thủ đô / thủ phủ / tỉnh lỵ / quận lỵ
+86	lái xe bên
+87	có lưu trữ tại
+88	medical examinations
+89	nền tảng
+90	tiêu biểu cho
+91	tham gia
+92	người thắng cuộc
+93	tổ chức con
+94	chứa
+95	allegiance
+96	genetic association
+97	được phê chuẩn bởi
+98	thiên thể con
+99	organization directed by the office or position
+100	tổ chức mẹ
+101	kiến trúc sư
+102	bản mẫu chính của chủ đề
+103	sân vận động
+104	hướng từ vị trí
+105	danh sách về
+106	form of creative work
+107	tác giả
+108	dialect of
+109	nghiên cứu sinh
+110	cuộc xung đột
+111	phạm nhân
+112	sinh viên
+113	giới tính
+114	cơ quan hành pháp
+115	liên kết với
+116	nằm trong phạm vi của khu vực hành chính
+117	quân hàm
+118	quan tâm
+119	biểu thị
+120	môn học
+121	thể loại người được chôn cất ở đây
+122	category for eponymous categories
+123	khu vực hoạt động
+124	hình thái chết
+125	godparent
+126	geography of topic
+127	lyrics by
+128	has tense
+129	thể loại các nhân viên tổ chức
+130	bảo quản bởi
+131	linguistic typology
+132	sử dụng
+133	được coi là đồng nghĩa với
+134	thể loại cho các nhân vật sinh ở địa điểm này
+135	sáng tác
+136	feast day
+137	afflicts
+138	lối sống
+139	thiên hướng chính trị
+140	ảnh hưởng bởi
+141	địa vị xã hội
+142	convicted of
+143	quê hương
+144	điểm sâu nhất
+145	day of week
+146	trùng với
+147	người tình
+148	name day
+149	khoản mục mẫu
+150	cơ quan kiểm soát ngôn ngữ
+151	sản xuất
+152	thay thế cho
+153	chủ sở hữu
+154	xếp hạng di sản
+155	thể loại chính của đề tài
+156	thể loại các thành viên
+157	nằm trên hoặc ven bờ
+158	phong trào
+159	quốc gia
+160	quốc tịch
+161	immediate cause of
+162	closed on
+163	người tham gia
+164	thánh quan thầy
+165	mang đặc tính
+166	occupant
+167	đạo diễn
+168	huấn luyện viên trưởng
+169	người phối ngẫu
+170	active ingredient in
+171	mục tiêu
+172	một phần của
+173	mô tả
+174	ký bởi
+175	lịch sử của đề tài
+176	nơi xuất bản
+177	bài miêu tả ấn chương
+178	has grammatical person
+179	production statistics
+180	học vị
+181	là ấn bản hoặc bản dịch của
+182	coextensive with
+183	category for films shot at this location
+184	có tác phẩm trong bộ sưu tập
+185	cha
+186	vị trí
+187	đảng viên của đảng chính trị
+188	tôn giáo
+189	ngôn ngữ mẹ đẻ
+190	tổ chức bởi
+191	thực hành bởi
+192	sở hữu
+193	quân chủng
+194	Köppen climate classification
+195	là một
+196	consecrator
+197	has immediate cause
+198	handedness
+199	có giống ngữ pháp
+200	thể loại cựu học sinh
+201	anh chị em
+202	nối liền
+203	risk factor
+204	tình trạng sức khỏe
+205	nói, viết hoặc ký bằng các ngôn ngữ
+206	dạng phân loại
+207	người đứng đầu chính quyền
+208	lĩnh vực làm việc
+209	thể loại cho nhóm người
+210	tương tác vật lý với
+211	charge
+212	subdivision of this unit
+213	được bổ nhiệm bởi
+214	múi giờ
+215	chủ làm việc
+216	uses capitalization for
+217	xuất hiện trong tác phẩm
+218	môn học của chuyên ngành
+219	thượng nguồn sông
+220	khai mạc bởi
+221	bầu cử chọn ứng viên
+222	chủ thể là
+223	commemorates
+224	thể loại nghệ thuật
+225	tư tưởng chính trị
+226	chủ đề chính của bản mẫu
+227	sponsor
+228	bí thư ủy ban nhân dân
+229	bài miêu tả ký hiệu tiền tệ
+230	tình trạng bản quyền
+231	danh sách
+232	chủ tịch
+233	thể loại lưu vực sông
+234	khác với
+235	taxon found at location
+236	hãng sản xuất
+237	official symbol
+238	quốc gia trong lưu vực
+239	chuyên khoa
+240	thể loại kết hợp các chủ đề
+241	tòa án tối cao
+242	nơi cư trú chính thức
+243	lãnh thổ bên ngoài của
+244	bước trong tuyến trình tuyên thánh
+245	nhà
+246	dẫn đến
+247	màu sắc
+248	bài chính thể loại
+249	dam
+250	inflows
+251	con cái
+252	được phát hiện bởi
+253	hệ thống chữ viết
+254	nội dung thể loại
+255	quan hệ ngoại giao
+256	người biểu diễn
+257	railway traffic side
+258	được trao bởi
+259	ngân hàng trung ương
+260	chức vụ
+261	chức vụ đứng đầu chính quyền
+262	mẹ
+263	nguyên thủ quốc gia
+264	chế độ chính phủ
+265	parent peak
+266	trái nghĩa với
+267	given name version for other gender
+268	indigenous to
+269	loại phích cắm điện
+270	sự kiện quan trọng
+271	right to vote
+272	có cách ngữ pháp
+273	template or module that populates category
+274	ủy viên ban giám đốc
+275	nhà phân phối
+276	môn thể thao
+277	World Heritage criteria
+278	bài miêu tả huy hiệu
+279	họ hàng
+280	ngành kinh doanh
+281	chính quyền tuyên bố chủ quyền
+282	tôn giáo chính thức
+283	được thay thế bởi
+284	nơi mất
+285	danh hiệu quý tộc
+286	ngôn ngữ của tên gọi hoặc tác phẩm
+287	place served by transport hub
+288	các phân cấp hành chính
+289	nơi chôn cất
+290	chất liệu
+291	ngôn ngữ viết
+292	foods traditionally associated
+293	thủ đô / thủ phủ / tỉnh lỵ / quận lỵ của
+294	gồm các phần
+295	người đặt làm
+296	quốc gia xuất xứ
+297	cửa sông
+298	maintained by WikiProject
+299	chủ đề
+300	nhận các phương thức thanh toán
+301	vehicle normally used
+302	nghề nghiệp
+303	có lối ngữ pháp
+304	tổng giám đốc điều hành
+305	nguyên nhân chết
+306	điểm cao nhất
+307	tiếp giáp với
+308	nhân vật
+309	nguyên nhân phá hủy
+310	depicted by
+311	được đặt tên theo
+312	được tách ra khỏi
+313	lá cờ
+314	người giữ chức vụ
+315	drug or therapy used for treatment
+316	không gồm các phần
+317	cơ quan lập pháp
+318	số điện thoại khẩn cấp
+319	historical region
+320	phụ lưu
+321	nơi cư trú
+322	cố vấn tiến sĩ
+323	nhà quản lý
+324	đơn vị phân loại mẹ
+325	văn hóa
+326	nhà xuất bản
+327	thông qua cơ quan lập pháp
+328	người giết
+329	category for films in this language
+330	tên riêng
+331	bộ sưu tập
+332	học về
+333	demographics of topic
+334	thuộc quyền tài phán
+335	chủ đề chính
+336	nominated for
+337	possible treatment
+338	commander of (DEPRECATED)
+339	đơn vị tiền tệ
+340	has facility
+341	có vật cưng

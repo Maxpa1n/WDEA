@@ -1,0 +1,310 @@
+0	lá cờ
+1	inflows
+2	tình trạng bản quyền
+3	organization directed by the office or position
+4	tư tưởng chính trị
+5	biểu thị
+6	official color
+7	mẹ
+8	bước trong tuyến trình tuyên thánh
+9	mục tiêu
+10	chức vụ
+11	đơn vị tiền tệ
+12	location of creation
+13	house publication
+14	vị trí
+15	quân chủng
+16	nhà
+17	thể loại dành cho người nhận giải
+18	narrative location
+19	nhà xuất bản
+20	thể loại chính của đề tài
+21	có lưu trữ tại
+22	ngày trong năm của chu kỳ xảy ra
+23	người giết
+24	chức vụ đứng đầu chính quyền
+25	gồm các phần
+26	lục địa
+27	nguyên nhân
+28	ngân hàng trung ương/cơ quan phát hành tiền
+29	danh hiệu quý tộc
+30	học vị
+31	nguyên nhân chết
+32	anh chị em
+33	là ấn bản hoặc bản dịch của
+34	tương tác vật lý với
+35	contributing factor of
+36	ngày trong tuần
+37	ngày lễ công cộng
+38	has facility
+39	thời kỳ
+40	has contributing factor
+41	màu tóc
+42	cầu thủ của đội thể thao
+43	located in present-day administrative territorial entity
+44	commanded by
+45	tổng giám đốc điều hành
+46	nằm trên hoặc ven bờ
+47	anatomical location
+48	thay thế cho
+49	form of creative work
+50	nói, viết hoặc ký bằng các ngôn ngữ
+51	tòa án tối cao
+52	thánh quan thầy
+53	consecrator
+54	giải thưởng
+55	thực hành bởi
+56	nằm trong phạm vi của khu vực hành chính
+57	phần tiếp theo của
+58	nguyên nhân phá hủy
+59	hãng sản xuất
+60	tác phẩm chính
+61	immediate cause of
+62	elector
+63	bài chính thể loại
+64	quốc gia trong lưu vực
+65	hiến chương
+66	nơi khám phá
+67	cửa sông
+68	hồ trên sông
+69	con cái
+70	khai mạc bởi
+71	chủ đề
+72	thể loại kết hợp các chủ đề
+73	môn học
+74	thể loại cho nhóm người
+75	dialect of
+76	vị trí thành lập
+77	lối sống
+78	được phê chuẩn bởi
+79	location of landing
+80	múi giờ
+81	nơi xuất bản
+82	đã viết bài cho
+83	có phần của lớp
+84	thủ đô / thủ phủ / tỉnh lỵ / quận lỵ
+85	thủ đô / thủ phủ / tỉnh lỵ / quận lỵ của
+86	đề tài chính của trang chủ đề
+87	maintained by WikiProject
+88	nơi công tác
+89	người tình
+90	allegiance
+91	sử dụng
+92	nơi cư trú
+93	lake outflow
+94	has immediate cause
+95	cách dùng
+96	nơi chôn cất
+97	phần kế trước của
+98	lĩnh vực làm việc
+99	phạm nhân
+100	được đặt tên theo
+101	không gồm các phần
+102	chủ đề chính của bản mẫu
+103	tên riêng
+104	thiên hướng tình dục
+105	medical examinations
+106	lịch sử của đề tài
+107	vehicle normally used
+108	bí thư ủy ban nhân dân
+109	ứng cử viên đắc cử
+110	ratified by
+111	xếp hạng di sản
+112	nơi sinh
+113	sử dụng ngôn ngữ
+114	demographics of topic
+115	historical region
+116	nominated for
+117	chức vụ được bầu
+118	Köppen climate classification
+119	quốc tịch
+120	ủy viên ban giám đốc
+121	sở hữu
+122	học về
+123	mô tả
+124	quan hệ ngoại giao
+125	hình thái chết
+126	category for films shot at this location
+127	khía cạnh của
+128	người thiết kế
+129	thiên hướng chính trị
+130	lãnh thổ nội địa ở trong
+131	nền tảng
+132	bài hát chính thức
+133	hệ thống chữ viết
+134	có cách ngữ pháp
+135	nơi mất
+136	tôn giáo chính thức
+137	được trao bởi
+138	mang đặc tính
+139	ngôn ngữ viết
+140	occupant
+141	trái nghĩa với
+142	khu vực hoạt động
+143	đại lượng vật lý được đo
+144	cơ quan lập pháp
+145	thành phố kết nghĩa
+146	chủ làm việc
+147	tham gia
+148	người đứng đầu chính quyền
+149	vị trí trụ sở
+150	category for films in this language
+151	nominated by
+152	chủ thể là
+153	symptoms and signs
+154	production statistics
+155	số điện thoại khẩn cấp
+156	người biểu diễn
+157	họ
+158	tổ chức con
+159	drug or therapy used for treatment
+160	một phần của
+161	armament
+162	ngôn ngữ mẹ đẻ
+163	quốc gia xuất xứ
+164	người phối ngẫu
+165	category for eponymous categories
+166	ngôn ngữ chính thức
+167	thuộc quyền tài phán
+168	nhà phân phối
+169	ứng cử viên
+170	lãnh thổ bên ngoài của
+171	official symbol
+172	uses capitalization for
+173	honorific prefix
+174	has boundary
+175	người giữ chức vụ
+176	văn hóa
+177	bản mẫu chính của chủ đề
+178	quan tâm
+179	located in the statistical territorial entity
+180	tọa lạc trong hoặc bên cạnh khu vực mặt nước
+181	nơi cư trú chính thức
+182	được bổ nhiệm bởi
+183	phụ lưu
+184	phong cách kiến trúc
+185	giáo phận
+186	người đỡ đầu
+187	bài miêu tả ấn chương
+188	khác với
+189	thể loại nghệ thuật
+190	người quản lý/giám đốc
+191	dãy núi
+192	được thay thế bởi
+193	là tập hợp con của
+194	railway traffic side
+195	cơ quan kiểm soát ngôn ngữ
+196	cuộc xung đột
+197	phương tiện phân phối
+198	iconographic symbol
+199	is metaclass for
+200	taxon found at location
+201	người thắng cuộc
+202	tên miền cấp cao nhất
+203	chính quyền tuyên bố chủ quyền
+204	trùng với
+205	chủ sở hữu
+206	depicted by
+207	professorship
+208	tổ chức bởi
+209	ngôn ngữ của tên gọi hoặc tác phẩm
+210	substitute/deputy/replacement of office/officeholder
+211	indigenous to
+212	tiếp giáp với
+213	là một
+214	màu sắc
+215	được phát hiện bởi
+216	được tách ra khỏi
+217	thứ hạng kề dưới
+218	historic county
+219	chuyên khoa
+220	possible treatment
+221	phong trào
+222	chức danh người đứng đầu đất nước
+223	miêu tả trong
+224	tiêu biểu cho
+225	họ hàng
+226	cha
+227	giới tính
+228	liên minh chính trị
+229	bầu cử chọn ứng viên
+230	chất liệu
+231	economy of topic
+232	đảng viên của đảng chính trị
+233	xuất hiện trong tác phẩm
+234	geography of topic
+235	chủ đề chính
+236	sự kiện quan trọng
+237	có trong danh sách chú trọng của dự án Wikimedia
+238	nhân vật quan trọng
+239	được coi là đồng nghĩa với
+240	tôn giáo
+241	điểm cao nhất
+242	tổng bí thư
+243	linguistic typology
+244	món ăn truyền thống
+245	educational stage
+246	người sáng lập
+247	tổ chức mẹ
+248	trường học
+249	lái xe bên
+250	có giống ngữ pháp
+251	nguyên thủ quốc gia
+252	lãnh thổ trùng với
+253	có tác phẩm trong bộ sưu tập
+254	điểm sâu nhất
+255	chứa
+256	ngành kinh doanh
+257	nghề nghiệp
+258	thần của
+259	chủ tịch
+260	advertises
+261	dân tộc
+262	convicted of
+263	bao gồm khu dân cư
+264	các phân cấp hành chính
+265	danh sách
+266	dòng tu
+267	dẫn đến
+268	khoản mục mẫu
+269	tình trạng sức khỏe
+270	domain of saint or deity
+271	ký bởi
+272	nhà quản lý
+273	cơ sở pháp lý
+274	người đặt làm
+275	người tham gia
+276	ngân hàng trung ương
+277	bài miêu tả huy hiệu
+278	inspired by
+279	sản xuất
+280	nội dung thể loại
+281	môn học của chuyên ngành
+282	key col
+283	quân hàm
+284	merged into
+285	nhạc cụ
+286	nhân vật
+287	người soạn nhạc
+288	khẩu hiệu
+289	bài miêu tả ký hiệu tiền tệ
+290	partnership with
+291	found in taxon
+292	quốc gia
+293	supported sports team
+294	right to vote
+295	môn thể thao
+296	risk factor
+297	coextensive with
+298	thành viên của
+299	chế độ chính phủ
+300	lễ bổn mạng
+301	commemorates
+302	tác giả
+303	thiên thể con
+304	chức vụ lãnh đạo
+305	cơ quan hành pháp
+306	ảnh hưởng bởi
+307	depositary
+308	vị trí trong đội
+309	chính quyền

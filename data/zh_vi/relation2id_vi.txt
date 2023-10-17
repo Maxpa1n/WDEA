@@ -1,0 +1,342 @@
+http://vi.dbpedia.org/property/chính quyền	0
+http://vi.dbpedia.org/property/voice actor	1
+http://vi.dbpedia.org/property/bài hát chính thức	2
+http://vi.dbpedia.org/property/vị trí trụ sở	3
+http://vi.dbpedia.org/property/giải thưởng	4
+http://vi.dbpedia.org/property/substitute/deputy/replacement of office/officeholder	5
+http://vi.dbpedia.org/property/domain of saint or deity	6
+http://vi.dbpedia.org/property/nơi công tác	7
+http://vi.dbpedia.org/property/sử dụng ngôn ngữ	8
+http://vi.dbpedia.org/property/next higher rank	9
+http://vi.dbpedia.org/property/chức danh người đứng đầu đất nước	10
+http://vi.dbpedia.org/property/lãnh thổ nội địa ở trong	11
+http://vi.dbpedia.org/property/ngày trong năm của chu kỳ xảy ra	12
+http://vi.dbpedia.org/property/significant drug interaction	13
+http://vi.dbpedia.org/property/thành phố kết nghĩa	14
+http://vi.dbpedia.org/property/nhân vật quan trọng	15
+http://vi.dbpedia.org/property/lake outflow	16
+http://vi.dbpedia.org/property/thể loại cho các nhân vật qua đời ở địa điểm này	17
+http://vi.dbpedia.org/property/phương tiện phân phối	18
+http://vi.dbpedia.org/property/sinh viên của	19
+http://vi.dbpedia.org/property/medical condition treated	20
+http://vi.dbpedia.org/property/có trong danh sách chú trọng của dự án Wikimedia	21
+http://vi.dbpedia.org/property/symptoms and signs	22
+http://vi.dbpedia.org/property/tonality	23
+http://vi.dbpedia.org/property/phỏng theo	24
+http://vi.dbpedia.org/property/union of	25
+http://vi.dbpedia.org/property/territory overlaps	26
+http://vi.dbpedia.org/property/cơ sở pháp lý	27
+http://vi.dbpedia.org/property/đại lượng vật lý được đo	28
+http://vi.dbpedia.org/property/trường học	29
+http://vi.dbpedia.org/property/hệ điều hành	30
+http://vi.dbpedia.org/property/ngày lễ công cộng	31
+http://vi.dbpedia.org/property/trên đường	32
+http://vi.dbpedia.org/property/thành viên của	33
+http://vi.dbpedia.org/property/họ	34
+http://vi.dbpedia.org/property/thể loại bản đồ	35
+http://vi.dbpedia.org/property/associated electoral district	36
+http://vi.dbpedia.org/property/found in taxon	37
+http://vi.dbpedia.org/property/side effect	38
+http://vi.dbpedia.org/property/tác phẩm chính	39
+http://vi.dbpedia.org/property/phần kế trước của	40
+http://vi.dbpedia.org/property/ngân hàng trung ương/cơ quan phát hành tiền	41
+http://vi.dbpedia.org/property/tổng bí thư	42
+http://vi.dbpedia.org/property/economy of topic	43
+http://vi.dbpedia.org/property/honorific prefix	44
+http://vi.dbpedia.org/property/tác phẩm phái sinh	45
+http://vi.dbpedia.org/property/cách dùng	46
+http://vi.dbpedia.org/property/có phần của lớp	47
+http://vi.dbpedia.org/property/nguyên nhân	48
+http://vi.dbpedia.org/property/professorship	49
+http://vi.dbpedia.org/property/phong cách kiến trúc	50
+http://vi.dbpedia.org/property/tọa lạc trong hoặc bên cạnh khu vực mặt nước	51
+http://vi.dbpedia.org/property/thời kỳ	52
+http://vi.dbpedia.org/property/các ấn bản	53
+http://vi.dbpedia.org/property/khía cạnh của	54
+http://vi.dbpedia.org/property/vị trí thành lập	55
+http://vi.dbpedia.org/property/nơi sinh	56
+http://vi.dbpedia.org/property/dân tộc	57
+http://vi.dbpedia.org/property/located in present-day administrative territorial entity	58
+http://vi.dbpedia.org/property/fabrication method	59
+http://vi.dbpedia.org/property/phần tiếp theo của	60
+http://vi.dbpedia.org/property/anatomical location	61
+http://vi.dbpedia.org/property/official color	62
+http://vi.dbpedia.org/property/tên miền cấp cao nhất	63
+http://vi.dbpedia.org/property/hiến chương	64
+http://vi.dbpedia.org/property/lục địa	65
+http://vi.dbpedia.org/property/chức vụ lãnh đạo	66
+http://vi.dbpedia.org/property/thiên hướng tình dục	67
+http://vi.dbpedia.org/property/supported sports team	68
+http://vi.dbpedia.org/property/nhạc cụ	69
+http://vi.dbpedia.org/property/dòng tu	70
+http://vi.dbpedia.org/property/kit supplier	71
+http://vi.dbpedia.org/property/nơi phát hiện thiên thể	72
+http://vi.dbpedia.org/property/liên đoàn thể thao	73
+http://vi.dbpedia.org/property/nhóm máu	74
+http://vi.dbpedia.org/property/là tập hợp con của	75
+http://vi.dbpedia.org/property/ngôn ngữ chính thức	76
+http://vi.dbpedia.org/property/valid in place	77
+http://vi.dbpedia.org/property/giáo phận	78
+http://vi.dbpedia.org/property/khẩu hiệu	79
+http://vi.dbpedia.org/property/miêu tả trong	80
+http://vi.dbpedia.org/property/người sáng lập	81
+http://vi.dbpedia.org/property/người quản lý/giám đốc	82
+http://vi.dbpedia.org/property/next lower rank	83
+http://vi.dbpedia.org/property/dạng luật pháp	84
+http://vi.dbpedia.org/property/thủ đô / thủ phủ / tỉnh lỵ / quận lỵ	85
+http://vi.dbpedia.org/property/lái xe bên	86
+http://vi.dbpedia.org/property/có lưu trữ tại	87
+http://vi.dbpedia.org/property/medical examinations	88
+http://vi.dbpedia.org/property/nền tảng	89
+http://vi.dbpedia.org/property/tiêu biểu cho	90
+http://vi.dbpedia.org/property/tham gia	91
+http://vi.dbpedia.org/property/người thắng cuộc	92
+http://vi.dbpedia.org/property/tổ chức con	93
+http://vi.dbpedia.org/property/chứa	94
+http://vi.dbpedia.org/property/allegiance	95
+http://vi.dbpedia.org/property/genetic association	96
+http://vi.dbpedia.org/property/được phê chuẩn bởi	97
+http://vi.dbpedia.org/property/thiên thể con	98
+http://vi.dbpedia.org/property/organization directed by the office or position	99
+http://vi.dbpedia.org/property/tổ chức mẹ	100
+http://vi.dbpedia.org/property/kiến trúc sư	101
+http://vi.dbpedia.org/property/bản mẫu chính của chủ đề	102
+http://vi.dbpedia.org/property/sân vận động	103
+http://vi.dbpedia.org/property/hướng từ vị trí	104
+http://vi.dbpedia.org/property/danh sách về	105
+http://vi.dbpedia.org/property/form of creative work	106
+http://vi.dbpedia.org/property/tác giả	107
+http://vi.dbpedia.org/property/dialect of	108
+http://vi.dbpedia.org/property/nghiên cứu sinh	109
+http://vi.dbpedia.org/property/cuộc xung đột	110
+http://vi.dbpedia.org/property/phạm nhân	111
+http://vi.dbpedia.org/property/sinh viên	112
+http://vi.dbpedia.org/property/giới tính	113
+http://vi.dbpedia.org/property/cơ quan hành pháp	114
+http://vi.dbpedia.org/property/liên kết với	115
+http://vi.dbpedia.org/property/nằm trong phạm vi của khu vực hành chính	116
+http://vi.dbpedia.org/property/quân hàm	117
+http://vi.dbpedia.org/property/quan tâm	118
+http://vi.dbpedia.org/property/biểu thị	119
+http://vi.dbpedia.org/property/môn học	120
+http://vi.dbpedia.org/property/thể loại người được chôn cất ở đây	121
+http://vi.dbpedia.org/property/category for eponymous categories	122
+http://vi.dbpedia.org/property/khu vực hoạt động	123
+http://vi.dbpedia.org/property/hình thái chết	124
+http://vi.dbpedia.org/property/godparent	125
+http://vi.dbpedia.org/property/geography of topic	126
+http://vi.dbpedia.org/property/lyrics by	127
+http://vi.dbpedia.org/property/has tense	128
+http://vi.dbpedia.org/property/thể loại các nhân viên tổ chức	129
+http://vi.dbpedia.org/property/bảo quản bởi	130
+http://vi.dbpedia.org/property/linguistic typology	131
+http://vi.dbpedia.org/property/sử dụng	132
+http://vi.dbpedia.org/property/được coi là đồng nghĩa với	133
+http://vi.dbpedia.org/property/thể loại cho các nhân vật sinh ở địa điểm này	134
+http://vi.dbpedia.org/property/sáng tác	135
+http://vi.dbpedia.org/property/feast day	136
+http://vi.dbpedia.org/property/afflicts	137
+http://vi.dbpedia.org/property/lối sống	138
+http://vi.dbpedia.org/property/thiên hướng chính trị	139
+http://vi.dbpedia.org/property/ảnh hưởng bởi	140
+http://vi.dbpedia.org/property/địa vị xã hội	141
+http://vi.dbpedia.org/property/convicted of	142
+http://vi.dbpedia.org/property/quê hương	143
+http://vi.dbpedia.org/property/điểm sâu nhất	144
+http://vi.dbpedia.org/property/day of week	145
+http://vi.dbpedia.org/property/trùng với	146
+http://vi.dbpedia.org/property/người tình	147
+http://vi.dbpedia.org/property/name day	148
+http://vi.dbpedia.org/property/khoản mục mẫu	149
+http://vi.dbpedia.org/property/cơ quan kiểm soát ngôn ngữ	150
+http://vi.dbpedia.org/property/sản xuất	151
+http://vi.dbpedia.org/property/thay thế cho	152
+http://vi.dbpedia.org/property/chủ sở hữu	153
+http://vi.dbpedia.org/property/xếp hạng di sản	154
+http://vi.dbpedia.org/property/thể loại chính của đề tài	155
+http://vi.dbpedia.org/property/thể loại các thành viên	156
+http://vi.dbpedia.org/property/nằm trên hoặc ven bờ	157
+http://vi.dbpedia.org/property/phong trào	158
+http://vi.dbpedia.org/property/quốc gia	159
+http://vi.dbpedia.org/property/quốc tịch	160
+http://vi.dbpedia.org/property/immediate cause of	161
+http://vi.dbpedia.org/property/closed on	162
+http://vi.dbpedia.org/property/người tham gia	163
+http://vi.dbpedia.org/property/thánh quan thầy	164
+http://vi.dbpedia.org/property/mang đặc tính	165
+http://vi.dbpedia.org/property/occupant	166
+http://vi.dbpedia.org/property/đạo diễn	167
+http://vi.dbpedia.org/property/huấn luyện viên trưởng	168
+http://vi.dbpedia.org/property/người phối ngẫu	169
+http://vi.dbpedia.org/property/active ingredient in	170
+http://vi.dbpedia.org/property/mục tiêu	171
+http://vi.dbpedia.org/property/một phần của	172
+http://vi.dbpedia.org/property/mô tả	173
+http://vi.dbpedia.org/property/ký bởi	174
+http://vi.dbpedia.org/property/lịch sử của đề tài	175
+http://vi.dbpedia.org/property/nơi xuất bản	176
+http://vi.dbpedia.org/property/bài miêu tả ấn chương	177
+http://vi.dbpedia.org/property/has grammatical person	178
+http://vi.dbpedia.org/property/production statistics	179
+http://vi.dbpedia.org/property/học vị	180
+http://vi.dbpedia.org/property/là ấn bản hoặc bản dịch của	181
+http://vi.dbpedia.org/property/coextensive with	182
+http://vi.dbpedia.org/property/category for films shot at this location	183
+http://vi.dbpedia.org/property/có tác phẩm trong bộ sưu tập	184
+http://vi.dbpedia.org/property/cha	185
+http://vi.dbpedia.org/property/vị trí	186
+http://vi.dbpedia.org/property/đảng viên của đảng chính trị	187
+http://vi.dbpedia.org/property/tôn giáo	188
+http://vi.dbpedia.org/property/ngôn ngữ mẹ đẻ	189
+http://vi.dbpedia.org/property/tổ chức bởi	190
+http://vi.dbpedia.org/property/thực hành bởi	191
+http://vi.dbpedia.org/property/sở hữu	192
+http://vi.dbpedia.org/property/quân chủng	193
+http://vi.dbpedia.org/property/Köppen climate classification	194
+http://vi.dbpedia.org/property/là một	195
+http://vi.dbpedia.org/property/consecrator	196
+http://vi.dbpedia.org/property/has immediate cause	197
+http://vi.dbpedia.org/property/handedness	198
+http://vi.dbpedia.org/property/có giống ngữ pháp	199
+http://vi.dbpedia.org/property/thể loại cựu học sinh	200
+http://vi.dbpedia.org/property/anh chị em	201
+http://vi.dbpedia.org/property/nối liền	202
+http://vi.dbpedia.org/property/risk factor	203
+http://vi.dbpedia.org/property/tình trạng sức khỏe	204
+http://vi.dbpedia.org/property/nói, viết hoặc ký bằng các ngôn ngữ	205
+http://vi.dbpedia.org/property/dạng phân loại	206
+http://vi.dbpedia.org/property/người đứng đầu chính quyền	207
+http://vi.dbpedia.org/property/lĩnh vực làm việc	208
+http://vi.dbpedia.org/property/thể loại cho nhóm người	209
+http://vi.dbpedia.org/property/tương tác vật lý với	210
+http://vi.dbpedia.org/property/charge	211
+http://vi.dbpedia.org/property/subdivision of this unit	212
+http://vi.dbpedia.org/property/được bổ nhiệm bởi	213
+http://vi.dbpedia.org/property/múi giờ	214
+http://vi.dbpedia.org/property/chủ làm việc	215
+http://vi.dbpedia.org/property/uses capitalization for	216
+http://vi.dbpedia.org/property/xuất hiện trong tác phẩm	217
+http://vi.dbpedia.org/property/môn học của chuyên ngành	218
+http://vi.dbpedia.org/property/thượng nguồn sông	219
+http://vi.dbpedia.org/property/khai mạc bởi	220
+http://vi.dbpedia.org/property/bầu cử chọn ứng viên	221
+http://vi.dbpedia.org/property/chủ thể là	222
+http://vi.dbpedia.org/property/commemorates	223
+http://vi.dbpedia.org/property/thể loại nghệ thuật	224
+http://vi.dbpedia.org/property/tư tưởng chính trị	225
+http://vi.dbpedia.org/property/chủ đề chính của bản mẫu	226
+http://vi.dbpedia.org/property/sponsor	227
+http://vi.dbpedia.org/property/bí thư ủy ban nhân dân	228
+http://vi.dbpedia.org/property/bài miêu tả ký hiệu tiền tệ	229
+http://vi.dbpedia.org/property/tình trạng bản quyền	230
+http://vi.dbpedia.org/property/danh sách	231
+http://vi.dbpedia.org/property/chủ tịch	232
+http://vi.dbpedia.org/property/thể loại lưu vực sông	233
+http://vi.dbpedia.org/property/khác với	234
+http://vi.dbpedia.org/property/taxon found at location	235
+http://vi.dbpedia.org/property/hãng sản xuất	236
+http://vi.dbpedia.org/property/official symbol	237
+http://vi.dbpedia.org/property/quốc gia trong lưu vực	238
+http://vi.dbpedia.org/property/chuyên khoa	239
+http://vi.dbpedia.org/property/thể loại kết hợp các chủ đề	240
+http://vi.dbpedia.org/property/tòa án tối cao	241
+http://vi.dbpedia.org/property/nơi cư trú chính thức	242
+http://vi.dbpedia.org/property/lãnh thổ bên ngoài của	243
+http://vi.dbpedia.org/property/bước trong tuyến trình tuyên thánh	244
+http://vi.dbpedia.org/property/nhà	245
+http://vi.dbpedia.org/property/dẫn đến	246
+http://vi.dbpedia.org/property/màu sắc	247
+http://vi.dbpedia.org/property/bài chính thể loại	248
+http://vi.dbpedia.org/property/dam	249
+http://vi.dbpedia.org/property/inflows	250
+http://vi.dbpedia.org/property/con cái	251
+http://vi.dbpedia.org/property/được phát hiện bởi	252
+http://vi.dbpedia.org/property/hệ thống chữ viết	253
+http://vi.dbpedia.org/property/nội dung thể loại	254
+http://vi.dbpedia.org/property/quan hệ ngoại giao	255
+http://vi.dbpedia.org/property/người biểu diễn	256
+http://vi.dbpedia.org/property/railway traffic side	257
+http://vi.dbpedia.org/property/được trao bởi	258
+http://vi.dbpedia.org/property/ngân hàng trung ương	259
+http://vi.dbpedia.org/property/chức vụ	260
+http://vi.dbpedia.org/property/chức vụ đứng đầu chính quyền	261
+http://vi.dbpedia.org/property/mẹ	262
+http://vi.dbpedia.org/property/nguyên thủ quốc gia	263
+http://vi.dbpedia.org/property/chế độ chính phủ	264
+http://vi.dbpedia.org/property/parent peak	265
+http://vi.dbpedia.org/property/trái nghĩa với	266
+http://vi.dbpedia.org/property/given name version for other gender	267
+http://vi.dbpedia.org/property/indigenous to	268
+http://vi.dbpedia.org/property/loại phích cắm điện	269
+http://vi.dbpedia.org/property/sự kiện quan trọng	270
+http://vi.dbpedia.org/property/right to vote	271
+http://vi.dbpedia.org/property/có cách ngữ pháp	272
+http://vi.dbpedia.org/property/template or module that populates category	273
+http://vi.dbpedia.org/property/ủy viên ban giám đốc	274
+http://vi.dbpedia.org/property/nhà phân phối	275
+http://vi.dbpedia.org/property/môn thể thao	276
+http://vi.dbpedia.org/property/World Heritage criteria	277
+http://vi.dbpedia.org/property/bài miêu tả huy hiệu	278
+http://vi.dbpedia.org/property/họ hàng	279
+http://vi.dbpedia.org/property/ngành kinh doanh	280
+http://vi.dbpedia.org/property/chính quyền tuyên bố chủ quyền	281
+http://vi.dbpedia.org/property/tôn giáo chính thức	282
+http://vi.dbpedia.org/property/được thay thế bởi	283
+http://vi.dbpedia.org/property/nơi mất	284
+http://vi.dbpedia.org/property/danh hiệu quý tộc	285
+http://vi.dbpedia.org/property/ngôn ngữ của tên gọi hoặc tác phẩm	286
+http://vi.dbpedia.org/property/place served by transport hub	287
+http://vi.dbpedia.org/property/các phân cấp hành chính	288
+http://vi.dbpedia.org/property/nơi chôn cất	289
+http://vi.dbpedia.org/property/chất liệu	290
+http://vi.dbpedia.org/property/ngôn ngữ viết	291
+http://vi.dbpedia.org/property/foods traditionally associated	292
+http://vi.dbpedia.org/property/thủ đô / thủ phủ / tỉnh lỵ / quận lỵ của	293
+http://vi.dbpedia.org/property/gồm các phần	294
+http://vi.dbpedia.org/property/người đặt làm	295
+http://vi.dbpedia.org/property/quốc gia xuất xứ	296
+http://vi.dbpedia.org/property/cửa sông	297
+http://vi.dbpedia.org/property/maintained by WikiProject	298
+http://vi.dbpedia.org/property/chủ đề	299
+http://vi.dbpedia.org/property/nhận các phương thức thanh toán	300
+http://vi.dbpedia.org/property/vehicle normally used	301
+http://vi.dbpedia.org/property/nghề nghiệp	302
+http://vi.dbpedia.org/property/có lối ngữ pháp	303
+http://vi.dbpedia.org/property/tổng giám đốc điều hành	304
+http://vi.dbpedia.org/property/nguyên nhân chết	305
+http://vi.dbpedia.org/property/điểm cao nhất	306
+http://vi.dbpedia.org/property/tiếp giáp với	307
+http://vi.dbpedia.org/property/nhân vật	308
+http://vi.dbpedia.org/property/nguyên nhân phá hủy	309
+http://vi.dbpedia.org/property/depicted by	310
+http://vi.dbpedia.org/property/được đặt tên theo	311
+http://vi.dbpedia.org/property/được tách ra khỏi	312
+http://vi.dbpedia.org/property/lá cờ	313
+http://vi.dbpedia.org/property/người giữ chức vụ	314
+http://vi.dbpedia.org/property/drug or therapy used for treatment	315
+http://vi.dbpedia.org/property/không gồm các phần	316
+http://vi.dbpedia.org/property/cơ quan lập pháp	317
+http://vi.dbpedia.org/property/số điện thoại khẩn cấp	318
+http://vi.dbpedia.org/property/historical region	319
+http://vi.dbpedia.org/property/phụ lưu	320
+http://vi.dbpedia.org/property/nơi cư trú	321
+http://vi.dbpedia.org/property/cố vấn tiến sĩ	322
+http://vi.dbpedia.org/property/nhà quản lý	323
+http://vi.dbpedia.org/property/đơn vị phân loại mẹ	324
+http://vi.dbpedia.org/property/văn hóa	325
+http://vi.dbpedia.org/property/nhà xuất bản	326
+http://vi.dbpedia.org/property/thông qua cơ quan lập pháp	327
+http://vi.dbpedia.org/property/người giết	328
+http://vi.dbpedia.org/property/category for films in this language	329
+http://vi.dbpedia.org/property/tên riêng	330
+http://vi.dbpedia.org/property/bộ sưu tập	331
+http://vi.dbpedia.org/property/học về	332
+http://vi.dbpedia.org/property/demographics of topic	333
+http://vi.dbpedia.org/property/thuộc quyền tài phán	334
+http://vi.dbpedia.org/property/chủ đề chính	335
+http://vi.dbpedia.org/property/nominated for	336
+http://vi.dbpedia.org/property/possible treatment	337
+http://vi.dbpedia.org/property/commander of (DEPRECATED)	338
+http://vi.dbpedia.org/property/đơn vị tiền tệ	339
+http://vi.dbpedia.org/property/has facility	340
+http://vi.dbpedia.org/property/có vật cưng	341

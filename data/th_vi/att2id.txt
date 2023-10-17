@@ -1,0 +1,4229 @@
+1914-1918-Online ID	0
+247Sports ID	1
+3D model	2
+A Church Near You church ID	3
+AAA attraction ID	4
+AAAS keyword ID	5
+AADFI member ID	6
+AAGM person or institution ID	7
+ABA bird ID	8
+ABC News topic ID	9
+ABS ASCL 2011 code	10
+ACM Classification Code (2012)	11
+ACM Digital Library author ID	12
+ACNP journal ID	13
+ADAGP artist ID	14
+ADK member ID	15
+ADW taxon ID	16
+AE member ID	17
+AGORHA person/institution ID	18
+AGROVOC ID	19
+AIATSIS Place Thesaurus ID	20
+AIATSIS Subject Thesaurus ID	21
+AICS Chemical ID (former scheme)	22
+AKL Online artist ID	23
+ALCUIN ID	24
+AMPAS collections person ID	25
+ANPI person numeric ID	26
+ANZSCO 2013 ID	27
+ANZSIC 2006 ID	28
+ANZSOC 2011 ID	29
+ANZSRC 2008 FoR ID	30
+ANZSRC 2020 FoR ID	31
+APA ID	32
+API endpoint	33
+APNI ID	34
+ARAE ID	35
+ARCHON code	36
+ARLIMA ID	37
+ARLLFB member ID	38
+ARTIC artist ID	39
+ARWU university ID	40
+ASC Leiden Thesaurus ID	41
+ASCCEG 2019 ID	42
+ASCE Historical Civil Engineering Landmark ID	43
+ASCRG 2016 ID	44
+ASE person ID	45
+ASHRAE refrigerant number	46
+ASUT ID	47
+ATC code	48
+ATRF ID	49
+ATVK ID	50
+AUR package	51
+AUSNUT 2011–13 Food Group ID	52
+AUSNUT food ID	53
+AZLyrics.com artist ID	54
+Aarne–Thompson–Uther Tale Type Index	55
+Abandonia identifier	56
+AboutTheArtists artist ID	57
+Academia Brasileira de Letras ID	58
+Academia Sinica authority ID	59
+Academia.edu institutional ID	60
+Academia.edu profile URL	61
+Academia.edu topic ID	62
+Academic Encyclopedia of Czech History ID	63
+Academic Tree ID	64
+Academy Awards Database nominee ID	65
+Académie des Inscriptions et Belles-Lettres member ID	66
+Académie des sciences d'outre-mer member ID	67
+Académie française award winner ID	68
+Académie française member ID	69
+Accademia della Crusca ID	70
+Accademia delle Scienze di Torino ID	71
+Acharts.co artist ID	72
+Actorenregister ID	73
+African Plant Database ID	74
+Agassiz checklist number	75
+Agence photo RMN package ID	76
+Akadem person ID	77
+Al-Jazeera topic ID	78
+Album of the Year artist ID	79
+Alexa rank	80
+Alexander Turnbull Library ID	81
+AlgaeBase URL	82
+All About Jazz musician ID	83
+All the Tropes identifier	84
+All-Russian Mathematical Portal ID	85
+AllMovie person ID	86
+AllMusic artist ID	87
+AllMusic composition ID	88
+AllMusic genre/style ID	89
+AllSides ID	90
+AllTrails trail ID	91
+Allcinema person ID	92
+AlloCiné person ID	93
+AlternativeTo software ID	94
+Amazon Music artist ID	95
+Amazon author ID	96
+Amburger database ID	97
+Ameblo username	98
+American Academy in Rome ID	99
+American Battlefield Trust battlefield ID	100
+American Film Institute person ID	101
+American Folklore Society Ethnographic Thesaurus ID	102
+American Heritage place ID	103
+American National Biography ID	104
+Amsterdam code	105
+Analysis & Policy Observatory term ID	106
+Angel List ID	107
+Angelicum ID	108
+AniDB character ID	109
+AniDB person ID	110
+AniDB tag ID	111
+AnimalBase ID	112
+Anime News Network company ID	113
+Anime News Network person ID	114
+AnimeClick person ID	115
+AnimeCons.com guest ID	116
+AntWiki article ID	117
+Aozora Bunko author ID	118
+App Store app ID	119
+App Store developer ID	120
+Apple Music artist ID (U.S. version)	121
+Apple maps ID	122
+Arabic Ontology ID	123
+Aracne author ID	124
+Arch Linux package	125
+Archival Resource Key	126
+Archive Site Trinity College Cambridge ID	127
+Archive of Our Own tag	128
+Archives Directory for the History of Collecting in America ID	129
+Archives at Yale names ID	130
+Archivio Storico Ricordi opera ID	131
+Archivio Storico Ricordi person ID	132
+Archivio dei possessori ID	133
+Archivo Histórico de diputados de España ID	134
+Archivo Linz de la Transición Española ID	135
+Argentine Senate member ID	136
+Argentine deputy votations ID	137
+ArhivX LOD	138
+Arkivportalen agent ID	139
+Arlington Cemetery person ID	140
+Armenian Vikidia ID	141
+Armeniapedia ID	142
+Art Renewal Center artist ID	143
+Art UK artist ID	144
+Art UK venue ID	145
+Art in the Christian Tradition ID	146
+Artcyclopedia artist ID	147
+Artist ID of the department of Prints and Drawings of the Louvre	148
+Artists in Canada record number	149
+Artnet artist ID	150
+Artsy artist ID	151
+Astro Awani topic ID	152
+Athenaeum museum ID	153
+Athenaeum person ID	154
+Atlas Obscura identifier	155
+Atlas of Florida Plants ID	156
+AtlasFor ID	157
+Atomic Heritage Foundation ID	158
+Auckland Art Gallery artist ID	159
+Auckland Museum ID	160
+AusStage person ID	161
+AusStage venue ID	162
+AustLII ID	163
+AustLit ID	164
+Australasian Pollen and Spore Atlas Code	165
+Australian Antarctic Gazetteer ID	166
+Australian Business Number	167
+Australian Dictionary of Biography ID	168
+Australian Educational Vocabulary ID	169
+Australian Faunal Directory ID	170
+Australian Government Organisations Register ID	171
+Australian Heritage Database Place ID	172
+Australian Institute for Disaster Resilience Knowledge Hub ID	173
+Australian Music Centre artist ID	174
+Australian National Maritime Museum person ID	175
+Australian Prints + Printmaking artist ID	176
+Australian Register of Therapeutic Goods ID	177
+Australian Standard Geographic Classification 2006 ID	178
+Australian Statistical Geography 2011 ID	179
+Australian Statistical Geography 2016 ID	180
+Australian Statistical Geography 2021 ID	181
+Australian Thesaurus of Education Descriptors ID	182
+Australian War Memorial ID	183
+Australian Weed ID	184
+Australian Wetlands Code	185
+Australian Women's Register ID	186
+AustralianFootball.com player ID	187
+Austrian Biographical Encylopedia ID	188
+Austrian Parliament 1848–1918 ID	189
+Austrian Parliament ID	190
+Austrian municipality key	191
+Auñamendi ID	192
+Avibase ID	193
+Awards & Winners artist ID	194
+B3Kat dataset ID	195
+BABEL author ID	196
+BAG residence ID	197
+BALaT object ID	198
+BARTOC ID	199
+BAnQ author ID	200
+BBC News Democracy Live ID	201
+BBC News topic ID	202
+BBC Things ID	203
+BBC programme ID	204
+BBK (library and bibliographic classification)	205
+BC Geographical Names ID	206
+BD Gest' author ID	207
+BDCYL authority ID	208
+BDELIS ID	209
+BDFA player ID	210
+BDFutbol team ID	211
+BDRC Resource ID	212
+BFI Filmography person ID	213
+BFI Films, TV and people ID	214
+BG EKATTE place ID	215
+BHCL UUID	216
+BHF author ID	217
+BHL creator ID	218
+BIBSYS work ID	219
+BIU Santé person ID	220
+BLPL author ID	221
+BMLO ID	222
+BNB person ID	223
+BNCF Thesaurus ID	224
+BND ID	225
+BNF	226
+BNMM authority ID	227
+BOLD Systems taxon ID	228
+BPS language code	229
+BTI Governance Index	230
+BTI Status Index	231
+BTO Birds of Britain ID	232
+BTO five-letter code	233
+BVLarramendi ID	234
+BVMC person ID	235
+BVMC place ID	236
+BVMC work ID	237
+BVPB authority ID	238
+BVPH authority ID	239
+BaGLAMa GID	240
+BabelNet ID	241
+Babelio author ID	242
+Babelio work ID	243
+Bait La Zemer Ha-Ivri artist ID	244
+Bait La Zemer Ha-Ivri song ID	245
+Ballotpedia ID	246
+Bandsintown artist ID	247
+Bangladesh administrative division code (2017-)	248
+Bangladesh administrative division code (pre-2017)	249
+Banglapedia ID (Bengali)	250
+Banglapedia ID (English)	251
+Banque de noms de lieux du Québec ID	252
+Bashkir encyclopedia (Bashkir version) ID (former scheme)	253
+Bashkir encyclopedia (Russian version) ID (former scheme)	254
+Basis Wien person ID	255
+Basisklassifikation	256
+Basketball-Reference.com NBA player ID	257
+Basketball-Reference.com international player ID	258
+Basque Vikidia ID	259
+Bavarian monument authority ID	260
+Bavarikon ID	261
+BeWeb entity ID	262
+BeWeb person ID	263
+Beatport artist ID	264
+Behind The Voice Actors franchise ID	265
+Behind The Voice Actors person ID	266
+Belgian Senate person ID	267
+Belgian Species List ID	268
+Ben Yehuda author ID	269
+Benezit ID	270
+Berlin cultural heritage ID	271
+BiblioLMC ID	272
+BiblioNet author ID	273
+Bibliopoche author ID	274
+Biblioteca Franco Serantini ID	275
+Biblioteca Iglesia Nacional Española en Roma ID	276
+Biblioteca Nacional de España ID	277
+Biblioteca Nacional de México ID	278
+Biblioteca Virtual Andalucía authority ID	279
+Biblioteca di Santa Sabina ID	280
+Biblioteche dei filosofi ID	281
+Biblioteche della Custodia di Terra Santa a Gerusalemme ID	282
+Bibliotheca Augustana author ID	283
+Bibliothèque de la Pléiade ID	284
+Bien de Interés Cultural (BIC) code	285
+Billboard artist ID	286
+BillionGraves cemetery ID	287
+Bing entity ID	288
+BioLexSOE ID	289
+BioLib taxon ID	290
+Biografija.ru ID	291
+Biografisch Portaal van Nederland ID	292
+Biografisch Woordenboek van Nederland: 1880-2000 ID	293
+Biografiskt Lexikon för Finland ID	294
+Biographical Dictionary of Chinese Christianity ID	295
+Biographical Dictionary of Georgia ID	296
+Biographical Dictionary of Iowa ID	297
+Biographical Dictionary of Italian People ID	298
+Biographical Dictionary of the Czech Lands ID	299
+Biographical Directory of Federal Judges ID	300
+Biographical Encyclopedia of Astronomers ID	301
+Biographie nationale de Belgique ID	302
+Biographie vosgienne ID	303
+BiographySampo person ID	304
+Bionomia ID	305
+BirdLife International IBA ID	306
+BirdLife taxon ID	307
+Bitraga author ID	308
+Bitraga work ID	309
+Bivouac.com mountain ID	310
+Biyografya ID	311
+BlackPast.org ID	312
+Bloomberg company ID	313
+Bloomberg person ID	314
+BoardGameGeek game publisher ID	315
+Bod-Inc Online author ID	316
+Boijmans artist ID	317
+Book Owners Online person ID	318
+BookBrainz author ID	319
+BookBrainz work ID	320
+BookBub author ID	321
+Box Office Mojo person ID	322
+Box Office Mojo studio ID	323
+BoxRec boxer ID	324
+Bradley and Fletcher checklist number	325
+Brazilian Electoral Unit ID	326
+Brazilian federal deputy ID	327
+Brazilian municipality code	328
+Brenda Tissue Ontology ID	329
+Bridgeman artist ID	330
+Brilliant Wiki ID	331
+British Library system number	332
+British Museum person or institution ID	333
+British Museum place ID	334
+Brockhaus Enzyklopädie online ID	335
+Buddhist Author Authority Database ID	336
+BugGuide taxon ID	337
+Bugs! artist ID	338
+Bulbapedia article ID	339
+Bundle ID	340
+Burke Herbarium Image Collection ID	341
+Butterflies and Moths of North America ID	342
+Buzer.de law identification	343
+Bướm Bắc Mỹ	344
+C-SPAN organization ID	345
+C-SPAN person ID	346
+CA PROP 65 ID	347
+CAB ID	348
+CAGE code	349
+CALIS	350
+CALIS ID	351
+CALS Encyclopedia of Arkansas ID	352
+CANTIC	353
+CANTIC ID	354
+CAS Registry Number	355
+CATO ID	356
+CBDB ID	357
+CBS municipality code	358
+CCAB ID	359
+CELEX number	360
+CERL Thesaurus ID	361
+CESAR person ID	362
+CGNDB unique ID	363
+CHESNO politician ID	364
+CHGIS ID	365
+CIRIS author ID	366
+CITES Species+ ID	367
+CITWF person ID	368
+CIVICUS Monitor country entry	369
+CLARA-ID	370
+CMS ID	371
+CNA topic ID	372
+CNO-11 occupation code	373
+CONABIO ID	374
+CONOR.AL ID	375
+CONOR.BG ID	376
+CONOR.KS ID	377
+CONOR.SI ID	378
+CONOR.SR ID	379
+COSPAR ID	380
+COURAGE ID	381
+CPDL ID	382
+CPDOC ID	383
+CPPAP ID	384
+CPV Supplementary	385
+CRICOS Provider Code	386
+CSS color keyword	387
+CTBUH Skyscraper Center building ID	388
+CTBUH Skyscraper Center building complex ID	389
+CTHS person ID	390
+CTHS society ID	391
+CUT code	392
+CVR number	393
+CVR person ID	394
+CWGC burial ground ID	395
+CageMatch worker ID	396
+Cairn author ID	397
+Cal-IPC ID	398
+Calflora ID	399
+Cambridge Alumni Database ID	400
+Cambridge Encyclopedia of Anthropology ID	401
+Can You Run it ID	402
+Canadian Encyclopedia article ID	403
+Canadiana Authorities ID (former scheme)	404
+Canadiana Name Authority ID	405
+Canal Académie ID	406
+Canal-U person ID	407
+Carl-Maria-von-Weber-Gesamtausgabe ID	408
+Carnegie Hall agent ID	409
+Carnegie Hall work ID	410
+Carthalia ID	411
+Catalan Vikidia ID	412
+Catalogue of Life in Taiwan ID	413
+Catalogue of the Capitular Library of Verona author ID	414
+Catalogue of the General State Archives ID	415
+Catholic Encyclopedia ID	416
+Catholic Hierarchy diocese ID	417
+Catholic Hierarchy person ID	418
+CatholicSaints.info ID	419
+Catálogo de Patrimonio Cultural de Castilla-La Mancha ID	420
+Caverphone	421
+Center for Biological Diversity ID	422
+Central Index Key	423
+ChEBI ID	424
+ChEMBL ID	425
+Chamber of Deputies of Italy storia ID	426
+Charity Navigator ID	427
+Charts in France artist ID	428
+ChemSpider ID	429
+Chemins de mémoire ID	430
+Chessgames.com player ID	431
+China Treaty Database ID	432
+China Vitae person ID	433
+China administrative division code	434
+Chinese Library Classification	435
+Chinese Political Elites Database ID	436
+Christie's creator ID	437
+Chỉ số Phát triển Con người	438
+CiNii	439
+CiNii article ID	440
+CiNii author ID (articles)	441
+CiNii author ID (books)	442
+CiNii book ID	443
+CineMagia person ID	444
+Cinema Treasures ID	445
+Cinema.de ID	446
+CinemaRX person ID	447
+Cinenacional.com person ID	448
+Ciné-Ressources person ID	449
+Cinémathèque québécoise person ID	450
+Classical Archives composer ID	451
+Classification of Instructional Programs code	452
+Classiques des sciences sociales ID	453
+Clavis Clavium ID	454
+Co-Optimus ID	455
+CoBiS author ID	456
+Cochrane concept ID	457
+Code List for Cultural Heritage Organizations	458
+Code of Household Registration and Conscription Information System (Taiwan)	459
+CofE archives place ID	460
+CoinMarketCap cryptocurrency ID	461
+CollectieGelderland creator ID	462
+Collective Biographies of Women ID	463
+Cologne phonetics	464
+Colon Classification	465
+Colorado Encyclopedia ID	466
+ComiXology creator ID	467
+Comic Vine ID	468
+Common Database on Designated Areas ID	469
+Common Procurement Vocabulary	470
+Common Vulnerabilities and Exposures ID	471
+Commons Institution page	472
+Compagnon de la Libération ID	473
+Companies House officer ID	474
+Compendium heroicum ID	475
+Conseil constitutionnel ID	476
+Cooper-Hewitt Person ID	477
+Corporate Number (Japan)	478
+Corpus Corporum author ID	479
+CosIng number	480
+Cour des comptes report ID	481
+Courrier international source ID	482
+Courrier international topic ID	483
+Crew United person ID	484
+CricketArchive player ID	485
+Criminological Thesaurus ID	486
+Crossref funder ID	487
+Crunchbase organization ID	488
+Crunchbase person ID	489
+Cullum number	490
+CulturaItalia ID	491
+Cultural Objects Names Authority ID	492
+Cultural heritage database in Austria ObjektID	493
+Cultureel Woordenboek ID	494
+Curran Index contributor ID	495
+Cyprus Bibliography ID	496
+Cyprus University of Technology ID	497
+Cyworld ID	498
+Czech NDOP taxon ID	499
+Czech Registration ID	500
+Czech district ID	501
+Czech municipality ID	502
+Czech parliament ID	503
+Czech region ID	504
+Czech territorial region ID	505
+D-U-N-S number	506
+DACS ID (former)	507
+DAHR artist ID	508
+DANE code	509
+DAR ancestor ID	510
+DBC author ID	511
+DBLP author ID	512
+DBSE ID	513
+DBUnico MIBACT ID	514
+DC Books author ID	515
+DC Historic Sites place ID	516
+DIBAVOD ID	517
+DIZIE ID	518
+DLL Catalog author ID	519
+DLive game ID	520
+DOI prefix	521
+DORIS ID	522
+DPLA subject term	523
+DR music artist ID	524
+DR topic ID	525
+DSM-5 classification	526
+DSSTOX compound identifier	527
+DSSTox substance ID	528
+DUC ID	529
+DVN ID	530
+Dagens Nyheter topic ID	531
+Dagens Næringsliv topic ID	532
+Dailymotion channel ID	533
+Dana 8th edition	534
+Danish National Filmography person ID	535
+Danish educational institution number	536
+Danish urban area code	537
+Dansk Biografisk Leksikon ID	538
+Dansk kvindebiografisk leksikon ID	539
+Danske Taler speaker ID	540
+Danskefilm person ID	541
+Das wissenschaftliche Bibellexikon im Internet ID	542
+Data Collection of the Hungarian Peerage ID	543
+Database of Classical Scholars ID	544
+Datahub page	545
+Daum Encyclopedia ID	546
+De Agostini ID	547
+DeCS ID	548
+Debian stable package	549
+Decine21 person ID	550
+Declarator.org ID	551
+Deezer artist ID	552
+Democracy Club candidate ID	553
+Democracy Club election ID	554
+Democracy Index	555
+Den Digitale Byport ID	556
+Den Store Danske ID	557
+Deutsche Biographie (GND) ID	558
+Deutsche Synchronkartei actor ID	559
+Dewey Decimal Classification (works and editions)	560
+DfE URN	561
+Dharma Drum Institute of Liberal Arts person ID	562
+Dharma Drum Institute of Liberal Arts place ID	563
+DiVo person ID	564
+Dialnet author ID	565
+Dictionary of Algorithms and Data Structures ID	566
+Dictionary of Canadian Biography ID	567
+Dictionary of Irish Biography ID	568
+Dictionary of Medieval Names from European Sources entry	569
+Dictionary of New Zealand Biography ID	570
+Dictionary of Occupational Titles Code (fourth edition, revised)	571
+Dictionary of Sculptors in Britain ID	572
+Dictionary of Swedish National Biography ID	573
+Dictionary of Sydney ID	574
+Dictionary of Ulster Biography ID	575
+Dictionary of Welsh Biography ID	576
+Dictionary of Wisconsin History ID	577
+Dictionnaire de spiritualité ID	578
+Dictionnaire des Vendéens ID	579
+Dictionnaire des Wallons ID	580
+Dictionnaire des femmes de l’ancienne France ID	581
+DigDag ID	582
+Digital Atlas of the Roman Empire ID	583
+Digital DISCI ID	584
+Digital Dictionary of Surnames in Germany ID	585
+Digitale Bibliotheek voor de Nederlandse Letteren author ID	586
+DigitaltMuseum ID	587
+Directorio Legislativo ID	588
+Directory of Belgian Photographers ID	589
+Directory of Open Access Journals ID	590
+Discogs artist ID	591
+Discogs genre ID	592
+Discogs label ID	593
+Discogs style ID	594
+Disease Ontology ID	595
+DiseasesDB	596
+Disney A to Z ID	597
+DistroWatch ID	598
+Dizionario Biografico dell'Educazione (1800–2000) ID	599
+Dizionario bio-bibliografico dei bibliotecari italiani del XX secolo ID	600
+Dizionario delle Scienze Fisiche ID	601
+Dizionario di Economia e Finanza ID	602
+Dizionario di Medicina ID	603
+Djshop artist ID	604
+DoME artist ID	605
+DocCheck Flexikon De ID	606
+DocCheck Flexikon En ID	607
+Doctrine ID	608
+Documenta Catholica Omnia author ID	609
+Dodis ID	610
+Douban author ID	611
+Douban book version/edition ID	612
+Douban movie celebrity ID	613
+Douban musician ID	614
+Douban site name	615
+Downdetector ID	616
+DraftExpress ID	617
+Dreadnought Project page	618
+Driver Database driver ID	619
+DrugBank ID	620
+Dutch Caribbean Species Register ID	621
+Dutch Charts artist ID	622
+Dyntaxa ID	623
+E number	624
+E-Fauna BC species ID	625
+EAGLE id	626
+EBAF authority ID	627
+EC number	628
+ECARTICO person ID	629
+ECHA InfoCard ID	630
+ECOS ID	631
+EDIT16 catalogue author ID	632
+EDb company ID	633
+EDb person ID	634
+EGAXA ID	635
+EGROKN ID	636
+EH.Net Encyclopedia of Economic and Business History ID	637
+EHAK id	638
+EHESS ID of a French commune	639
+ELNET ID	640
+ELSTAT geographical code	641
+EMLO location ID	642
+EMLO person ID	643
+EMS ID	644
+EPPO Code	645
+EPSG CRS	646
+ERIC Thesaurus ID	647
+ESBL athlete ID	648
+ESCO Occupation ID	649
+ESCO skill ID	650
+ESPN.com NBA player ID	651
+ESPNcricinfo.com player ID	652
+ETS Designated Institution code	653
+EU Research participant ID	654
+EU Transparency Register ID	655
+EU VAT number	656
+EU-Football.info player ID	657
+EUNIS ID for species	658
+EUTA theatre ID	659
+Ecocrop ID	660
+Econlib entry ID	661
+Econlib person ID	662
+EcuRed article	663
+Edizioni Ares author ID	664
+Edvard Munch's correspondance person ID	665
+Eesti entsüklopeedia ID	666
+Egapro gender equality index	667
+Eiga.com person ID	668
+Eldoblaje original actor ID	669
+Electronic Enlightenment ID	670
+Elhuyar ZTH ID	671
+Elle.fr person ID	672
+Elonet person ID	673
+Elysee.fr president ID	674
+Empik author ID	675
+Emporis building ID	676
+Emporis building complex ID	677
+Emporis company ID	678
+Enciclopedia dei ragazzi ID	679
+Enciclopedia dell'Arte Antica ID	680
+Enciclopedia dell'Arte Medievale ID	681
+Enciclopedia della Scienza e della Tecnica ID	682
+Enciclopedia delle donne ID	683
+Enciclopedia dello Sport ID	684
+Enciclopedia di Roma person ID	685
+Enciclopèdia de l'Esport Català ID	686
+Enciclopédia Açoriana ID	687
+Enciclovida ID	688
+Encyclopaedia Beliana ID	689
+Encyclopaedia Herder concept ID	690
+Encyclopaedia Herder person ID	691
+Encyclopaedia of Islam (first edition) ID	692
+Encyclopaedia of Islam (second edition) ID	693
+Encyclopaedia of Islam (third edition) ID	694
+Encyclopedia Virginia ID	695
+Encyclopedia of Alabama ID	696
+Encyclopedia of Australian Science ID	697
+Encyclopedia of Brno History person ID	698
+Encyclopedia of Chicago ID	699
+Encyclopedia of China Online Database ID (Second Edition)	700
+Encyclopedia of Cleveland History ID	701
+Encyclopedia of Greater Philadelphia ID	702
+Encyclopedia of Jewish Women ID	703
+Encyclopedia of Korean Culture ID	704
+Encyclopedia of Life ID	705
+Encyclopedia of Melbourne ID	706
+Encyclopedia of Migration ID	707
+Encyclopedia of Modern Ukraine ID	708
+Encyclopedia of Plzeň person ID	709
+Encyclopedia of Renaissance Philosophy ID	710
+Encyclopedia of Saami Culture ID	711
+Encyclopedia of Seventh-day Adventists ID	712
+Encyclopedia of the Great Plains ID	713
+Encyclopedia of the History of Ukraine ID	714
+Encyclopedia of České Budějovice ID	715
+Encyclopedia on Early Childhood Development ID (English)	716
+Encyclopedie berbere keyword ID	717
+Encyclopædia Britannica Online ID	718
+Encyclopædia Britannica contributor ID	719
+Encyclopædia Universalis ID	720
+Encyclopédie berbère article ID	721
+Encyclopédie du patrimoine culturel de l'Amérique française ID (French)	722
+Encyklopedia Solidarności ID	723
+Encyklopedia Teatru Polskiego person ID	724
+Endemia.nc animal taxon ID	725
+English Vikidia ID	726
+Enslaved.org place ID	727
+Enterprise number (Belgium)	728
+Entomologists of the World ID	729
+Envanter.gov.tr Monument ID	730
+Environmental Register code (Estonia)	731
+Enzyklopädie des europäischen Ostens ID	732
+Epic Games Store ID	733
+Erdős number	734
+Estonian biographical database ID	735
+Ethnologue.com language code	736
+Euring number	737
+EuroVoc ID	738
+Eurobasket.com player ID	739
+Eurogamer ID	740
+Europalexikon ID	741
+Europe PlayStation Store ID	742
+Europeana Fashion Vocabulary ID	743
+Europeana Fashion creator ID	744
+Europeana entity	745
+Evene ID	746
+Every Noise at Once ID	747
+ExecutedToday ID	748
+Executive Order number	749
+Exif make	750
+Exif model	751
+FAA airport code	752
+FANTOIR code	753
+FAO 2007 genetic resource ID	754
+FAQ URL	755
+FAST ID	756
+FBref player ID	757
+FBref squad ID	758
+FCC Grantee Code	759
+FEIS ID	760
+FI WarSampo person ID	761
+FIBA Hall of Fame ID	762
+FIBA player ID	763
+FIFA country code	764
+FIFA player ID	765
+FINA Wiki ID	766
+FIPS 10-4	767
+FIPS 10-4 (quốc gia và khu vực)	768
+FIPS 5-2 alpha code (US states)	769
+FIPS 5-2 numeric code (US states)	770
+FIPS 55-3 (locations in the US)	771
+FIPS 55-3 (địa điểm tại Hoa Kỳ)	772
+FIPS 6-4	773
+FIPS 6-4 (quận Hoa Kỳ)	774
+FMD model ID	775
+FOIH heritage types ID	776
+FOIH periods ID	777
+FOIH styles and cultures ID	778
+FOIH taxon ID	779
+FOIH themes ID	780
+Facebook Places ID	781
+Facebook page ID	782
+FactGrid item ID	783
+FamilySearch person ID	784
+Familypedia person ID	785
+Fancyclopedia 3 ID	786
+Fandango person ID	787
+Fandom article ID	788
+Fandom wiki ID	789
+FantLab author ID	790
+FantLab publisher ID	791
+Fantastic Fiction author ID	792
+Fatcat ID	793
+Fauna Europaea ID	794
+Fauna Europaea New ID	795
+Fedora package	796
+Fellow of the Royal Society ID	797
+FemBio ID	798
+Festivaletteratura person ID	799
+Fichier des personnes décédées ID (matchID)	800
+File Format Wiki page ID	801
+FilmPolski press collection ID	802
+FilmPolski.pl ID	803
+FilmTv.it person ID	804
+Filmfront person ID	805
+Filmový přehled person ID	806
+Filmow ID	807
+Filmportal ID	808
+Filmweb.pl ID	809
+Filmweb.pl person ID	810
+Find A Grave cemetery ID	811
+Find a Grave memorial ID	812
+Finnish Biodiversity Information Facility's Species List ID	813
+Finnish MP ID	814
+Finnish Ministers database ID	815
+Finnish National Gallery artist ID	816
+Finnish generals and admirals in the Imperial Russian Army 1809–1917 ID	817
+Finnish municipality number	818
+Finnish national bibliography corporate name ID	819
+FishBase species ID	820
+Flags of the World ID	821
+Flanders Arts Institute organisation ID	822
+Flanders Arts Institute person ID	823
+Flanders Arts Institute venue ID	824
+Flathub ID	825
+Flemish Public Libraries ID	826
+Flickr user ID	827
+Flora of Australia ID (new)	828
+Flora of China ID	829
+Flora of Israel Online plant ID	830
+Flora of North America taxon ID	831
+Flora of Wisconsin ID	832
+FloraBase ID	833
+FloraCatalana ID	834
+FloraWeb ID	835
+Flowers of India ID	836
+FoodEx2 code	837
+FoodOn ID	838
+Football Money League rank	839
+FootballDatabase.eu player ID	840
+FootballDatabase.eu team ID	841
+Forbes Russia profile ID	842
+Fossiilid.info ID	843
+Fossilworks ID for this taxon	844
+Fototeka person ID	845
+Foundational Model of Anatomy ID	846
+Foursquare venue ID	847
+FragDenStaat public body ID	848
+Framalibre ID	849
+France Culture person ID	850
+France24 topic ID (Arabic)	851
+France24 topic ID (English)	852
+France24 topic ID (French)	853
+France24 topic ID (Spanish)	854
+FranceArchives agent ID	855
+Franciscan Center of Christian Oriental Studies ID	856
+Frankfurter Personenlexikon ID	857
+Français libres ID	858
+Free Software Directory entry	859
+FreeBSD port	860
+French Catholic Church structure ID	861
+French Etalab parcel visualization code	862
+French National Assembly ID	863
+French Vikidia ID	864
+French public service directory ID	865
+Frick Art Reference Library Artist File ID	866
+GACS ID	867
+GADM ID	868
+GAMECIP media format ID	869
+GAMECIP platform ID	870
+GARD rare disease ID	871
+GB1900 ID	872
+GBIF taxon ID	873
+GCD series ID	874
+GCatholic church ID	875
+GCatholic diocese ID	876
+GCatholic person ID	877
+GDP (PPP)	878
+GDP (tính theo sự ngang giá của sức mua)	879
+GDP danh nghĩa	880
+GDP danh nghĩa bình quân đầu người	881
+GDP theo sức mua bình quân đầu người	882
+GEC	883
+GEMS Code	884
+GENUKI ID	885
+GEPRIS organization ID	886
+GEPRIS-Historisch ID (Person)	887
+GNIS Antarctica ID	888
+GNIS ID	889
+GNS Unique Feature ID	890
+GOG application ID	891
+GOST 7.67 cyrillic	892
+GOST 7.75–97 code	893
+GPnotebook ID	894
+GRID ID	895
+GRIN URL	896
+GRY-Online company ID	897
+GS1 Company Prefix	898
+GS1 GPC code	899
+GS1 country code	900
+GSS code (2011)	901
+GSSO ID	902
+GTAA ID	903
+GUI toolkit or framework	904
+Gaana.com artist ID	905
+Gab username	906
+Galiciana authority ID	907
+Game UI Database ID	908
+GameFAQs company ID	909
+GameFAQs credit ID	910
+GameFAQs franchise ID	911
+GameFAQs game ID	912
+GameFAQs platform ID	913
+GameSpot developer ID	914
+GameSpot game ID	915
+GameStar ID	916
+Gamekult company ID	917
+Gamekult game ID	918
+Gamekult platform ID	919
+Gamepedia article ID	920
+Gamepedia wiki ID	921
+Games Database publisher ID	922
+Games Database system ID	923
+Games@Mail.ru ID	924
+Gaming-History ID	925
+Gaming-History company ID	926
+Garzanti Linguistica ID	927
+Gateway to Research organisation ID	928
+Gazetteer for Scotland person ID	929
+Gazetteer for Scotland place ID	930
+Geheugen van de VU person ID	931
+Gene Ontology ID	932
+GeneReviews ID	933
+GeneaStar person ID	934
+General Diamond Catalogue ID	935
+Generals of World War II ID	936
+Genetics Home Reference Conditions ID	937
+Geni.com profile ID	938
+Genius artist ID	939
+Genius artist numeric ID	940
+Genius song ID	941
+Gentoo package	942
+GeoNLP ID	943
+GeoNames ID	944
+GeoNames feature code	945
+Geographical Names Board of NSW ID	946
+Geokod	947
+George Eastman Museum people ID	948
+German Vikidia ID	949
+German district key	950
+German municipality key	951
+German regional key	952
+Getty Iconography Authority ID	953
+Getty Thesaurus of Geographic Names ID	954
+Gewässerkennzahl	955
+Giant Bomb ID	956
+Gini coefficient	957
+Giphy username	958
+GitHub topic	959
+GitHub username	960
+Gitabitan.net ID	961
+Glassdoor company ID	962
+Glitchwave genre ID	963
+Global Anabaptist Mennonite Encyclopedia Online ID	964
+Global Geoparks Network ID (former scheme)	965
+Global Invasive Species Database ID	966
+Global Raptor Information Network ID	967
+Global Species ID	968
+Global Terrorism Database ID	969
+Glottolog code	970
+Gmelin number	971
+Golden ID	972
+Goodreads author ID	973
+Goodreads character ID	974
+Goodreads version/edition ID	975
+Goodreads work ID	976
+Google Arts & Culture asset ID	977
+Google Arts & Culture partner ID	978
+Google Doodle	979
+Google Maps Customer ID	980
+Google News publication ID	981
+Google News topics ID	982
+Google Play Music artist ID (former scheme)	983
+Google Play Store app ID	984
+Google Play developer ID	985
+Google Play developer slug	986
+Google Scholar author ID	987
+Google+ ID	988
+Gotlands museum	989
+Government of Canada Core Subject Thesaurus ID	990
+Grace's Guide ID	991
+Grammy Awards artist ID	992
+Gramophone composer ID	993
+Gran Enciclopèdia Catalana ID	994
+Gran Enciclopèdia de la Música ID	995
+Great Aragonese Encyclopedia ID	996
+Great Encyclopedia of Cyril and Methodius entry ID	997
+Great Encyclopedia of Navarre ID	998
+Great Russian Encyclopedia Online ID	999
+Great Ukrainian Encyclopedia Online ID	1000
+GreatSong artist ID	1001
+Gregorian calendar start date	1002
+Grove Art Online ID	1003
+Grove Music Online ID	1004
+Guardian topic ID	1005
+Guggenheim fellows ID	1006
+Guide to North American Birds ID	1007
+Guide to Pharmacology Ligand ID	1008
+GujLit Person ID	1009
+Gujarati Vishwakosh entry	1010
+Gyldendals Teaterleksikon ID	1011
+Gynopedia ID	1012
+Géopatronyme ID	1013
+HAL author ID	1014
+HAL journal ID	1015
+HAL structure ID	1016
+HASC	1017
+HATVP person ID	1018
+HCIS ID	1019
+HDS ID	1020
+HERO ID	1021
+HKCAN ID	1022
+HKMDB person ID	1023
+HOV-ID	1024
+HSDB ID	1025
+HTML entity	1026
+HURDAT identifier	1027
+Hall of Light ID	1028
+Handbook of Texas ID	1029
+Hansard (1803–2005) ID	1030
+Hansard (2006–March 2016) ID	1031
+Harmonized System Code	1032
+Harvard Index of Botanists ID	1033
+HathiTrust ID	1034
+Healthcare Common Procedure Coding System Identifier	1035
+Hederich encyclopedia article ID	1036
+Heidelberg Academy for Sciences and Humanities member ID	1037
+HelveticArchives ID	1038
+Hembygdsportalen ID	1039
+Henrik Ibsen writings ID	1040
+Heritage Gazetteer of Cyprus	1041
+Heritage Gazetteer of Libya ID	1042
+Heritage Information System ID in the database of cultural heritage in Austria	1043
+Hiking Project area ID	1044
+Hiking Project site ID	1045
+Hikr waypoint ID	1046
+Hill Museum & Manuscript Library ID	1047
+Historical Archives of the European Union ID	1048
+Historical Gazetteer (GOV) ID	1049
+History of Modern Biomedicine ID	1050
+History of Parliament ID	1051
+Homosaurus ID (V2)	1052
+Hoopla artist ID	1053
+Hoopla publisher ID	1054
+Hoopla series ID	1055
+Hornbostel-Sachs classification	1056
+House Divided ID	1057
+HowLongToBeat ID	1058
+Hrvatska enciklopedija ID	1059
+Hrvatski biografski leksikon ID	1060
+Human Development Index	1061
+Human Metabolome Database ID	1062
+Human Phenotype Ontology ID	1063
+Humanitarian OpenStreetMap Tasking Manager project ID	1064
+Humble Store ID	1065
+Hungarian National Assembly identifier	1066
+Hungarian National Namespace person ID	1067
+Hungarian National Namespace place ID	1068
+Hungarian public body ID	1069
+Hungarian public thesaurus ID	1070
+Hymnary author ID	1071
+Hymnary text ID	1072
+Hyperion Records person ID	1073
+Hình ảnh ruy băng huy chương	1074
+Hệ phiên âm La-tinh Hepburn	1075
+I professori dell'Università di Pavia (1859-1961) ID	1076
+IAB code	1077
+IAFD male performer ID	1078
+IANA Root Zone Database ID	1079
+IANA timezone ID	1080
+IATA airline designator	1081
+IATA airport code	1082
+IBNR ID	1083
+IBP 4-letter bird species alpha code	1084
+IBTrACS cyclone ID	1085
+ICAO airline designator	1086
+ICAO airport code	1087
+ICCD ID - S form	1088
+ICCD agent ID	1089
+ICD-10	1090
+ICD-10-CM	1091
+ICD-10-PCS	1092
+ICD-11 (foundation)	1093
+ICD-9	1094
+ICD-9-CM	1095
+ICD-O	1096
+ICPC 2 ID	1097
+ICSC ID	1098
+ID (MMS)	1099
+ID ARKive	1100
+ID Aviabase	1101
+ID BioLib	1102
+ID BugGuide	1103
+ID Bách khoa toàn thư Sự sống	1104
+ID CSDL Thực vật châu Phi	1105
+ID Calflora	1106
+ID Facebook	1107
+ID Fauna Europaea	1108
+ID FloraBase	1109
+ID Fossilworks	1110
+ID Hoa dại Israel	1111
+ID IRMNG	1112
+ID ISOCAT	1113
+ID Khách hàng Google Maps	1114
+ID PalDat	1115
+ID Plants of the World trực tuyến	1116
+ID Plazi	1117
+ID Quần thực vật Bắc Mỹ	1118
+ID Quần thực vật Trung Hoa	1119
+ID Species+ CITES	1120
+ID Sổ đăng ký Sinh vật New Zealand	1121
+ID Tierstimmenarchiv	1122
+ID Tropicos	1123
+ID Tumblr	1124
+ID USDA PLANTS	1125
+ID VASCAN	1126
+ID VK	1127
+ID VicFlora	1128
+ID WCSPF	1129
+ID Web Dự án Cây sự sống	1130
+ID ZooBank	1131
+ID chim ABA	1132
+ID conifers.org	1133
+ID loài IBC	1134
+ID loài trong FishBase	1135
+ID loài tại Xeno-canto	1136
+ID thực vật IPNI	1137
+ID trong sơ đồ tri thức của Golden	1138
+ID trong sơ đồ tri thức của Google	1139
+ID uBio	1140
+ID ĐVPL BOLD Systems	1141
+ID ĐVPL BirdLife	1142
+ID ĐVPL IUCN	1143
+ID ĐVPL eBird	1144
+ID ĐVPL iNaturalist	1145
+ID đơn vị phân loại ADW	1146
+ID đơn vị phân loại FOIH	1147
+IDA place ID	1148
+IDEO Job ID	1149
+IDESCAT territorial code in Catalonia	1150
+IDU person ID	1151
+IEDB Epitope ID	1152
+IETF language tag	1153
+IEV number	1154
+IFLA value vocabularies ID	1155
+IFPNI species ID	1156
+IHSI ID	1157
+ILO Thesaurus ID	1158
+IMA Mineral Symbol	1159
+IMSLP ID	1160
+IMVDb artist ID	1161
+INAPP Thesaurus ID	1162
+INAPP author ID	1163
+INDUCKS publisher ID	1164
+INE ID (Portugal)	1165
+INE municipality code	1166
+INEGI locality ID	1167
+INRAN Italian Food ID	1168
+INSEE countries and foreign territories code	1169
+INSEE department code	1170
+INSEE municipality code	1171
+INSEE region code	1172
+INSPIRE ID	1173
+INSPIRE-HEP author ID	1174
+IOC country code	1175
+IPHAN ID	1176
+IPI name number	1177
+IPNI author ID	1178
+IPNI plant ID	1179
+IPNI publication ID	1180
+IPTC NewsCode	1181
+IPv4 routing prefix	1182
+IPv6 routing prefix	1183
+IRC channel	1184
+IRIS Sapienza author ID	1185
+IRMNG ID	1186
+IRS Employer Identification Number	1187
+ISBN identifier group	1188
+ISBN publisher prefix	1189
+ISC event ID	1190
+ISCO-08 occupation code	1191
+ISDS ID	1192
+ISFDB publisher ID	1193
+ISIL	1194
+ISIN	1195
+ISNI	1196
+ISNI (ISO 27729)	1197
+ISO 15924 alpha-4 code	1198
+ISO 15924 numeric code	1199
+ISO 3166-1 alpha-2 code	1200
+ISO 3166-1 alpha-3 code	1201
+ISO 3166-1 numeric code	1202
+ISO 3166-2	1203
+ISO 3166-2 code	1204
+ISO 3166-3	1205
+ISO 4217 code	1206
+ISO 639-1	1207
+ISO 639-1 code	1208
+ISO 639-2	1209
+ISO 639-2 code	1210
+ISO 639-3	1211
+ISO 639-3 code	1212
+ISO 639-5	1213
+ISO 639-6	1214
+ISO 639-6 code	1215
+ISO 9362 SWIFT/BIC code	1216
+ISOCAT id	1217
+ISQ dimension	1218
+ISSN	1219
+ISSN-L	1220
+ISTAT ID	1221
+ISWC	1222
+ISzDb company ID	1223
+ISzDb person ID	1224
+ITIS TSN	1225
+ITU letter code	1226
+ITU/ISO/IEC object identifier	1227
+IUCN taxon ID	1228
+IUPAC Gold Book ID	1229
+Iconclass notation	1230
+IdRef ID	1231
+Idaho Species ID	1232
+Identification code for Japanese universities and colleges	1233
+Igromania ID	1234
+Igromania developer/publisher ID	1235
+Igromania series ID	1236
+Image Archive, Herder Institute	1237
+Images d'Art artwork ID	1238
+InChI	1239
+InChIKey	1240
+InPhO ID	1241
+Index Herbariorum code	1242
+Indian census area code (1991)	1243
+Indian census area code (2001)	1244
+Indian census area code (2011)	1245
+IndicePA ID	1246
+Instagram location ID	1247
+Integrated Postsecondary Education Data System ID	1248
+Interlingual Index ID	1249
+International Classification for Standards	1250
+International Standard Industrial Classification code Rev.4	1251
+International Swimming Hall of Fame ID	1252
+Internet Archive ID	1253
+Internet Bird Collection species ID	1254
+Internet Book Database of Fiction writer ID	1255
+Internet Broadway Database person ID	1256
+Internet Encyclopedia of Philosophy ID	1257
+Internet Encyclopedia of Ukraine ID	1258
+Internet Game Database company ID	1259
+Internet Game Database game ID	1260
+Internet Game Database person ID	1261
+Internet Game Database platform ID	1262
+Internet Speculative Fiction Database author ID	1263
+Internet Wrestling Database ID	1264
+Internetowy Polski Słownik Biograficzny ID	1265
+IntraText author ID	1266
+Invaluable.com person ID	1267
+Invasive Plant Atlas of the United States ID	1268
+Invasive Species Compendium Datasheet ID	1269
+Inventory of Heritage Artefacts institution ID	1270
+Iran statistics ID	1271
+Iranica ID	1272
+Irish playography person ID	1273
+Ishim ID	1274
+Isidore scholar ID	1275
+Israel Antiquities Authority ID	1276
+Israeli CBS municipal ID	1277
+Istrapedia ID	1278
+Italian Chamber of Deputies dati ID	1279
+Italian Senate ID	1280
+Italian Senate of the Republic ID	1281
+Italian Vikidia ID	1282
+Italian cadastre code (municipality)	1283
+Itaú Cultural ID	1284
+J. Paul Getty Museum artist ID	1285
+JIS standard	1286
+JMA Magnitude	1287
+JMA Seismic Intensity Database ID	1288
+JMDb person or company ID	1289
+JORFSearch organization ID	1290
+JSTOR publisher ID	1291
+Jango artist ID	1292
+Japan PlayStation Store ID	1293
+Japan Search name ID	1294
+Jaxsta profile ID	1295
+Jeugdliteratuur ID	1296
+JewAge person ID	1297
+Jewish Encyclopedia Daat ID	1298
+Jewish Encyclopedia ID	1299
+Jewish Encyclopedia ID (Russian)	1300
+Jewish Virtual Library ID	1301
+JewishGen Locality ID	1302
+Joconde author ID	1303
+Joconde discovery ID	1304
+Joconde domain ID	1305
+Joconde epoch ID	1306
+Joconde inscription ID	1307
+Joconde location ID	1308
+Joconde object type ID	1309
+John J. Audubon's Birds of America ID	1310
+Journalisted ID	1311
+Justia Patents assignee ID	1312
+Justia Patents company ID	1313
+Justia Patents inventor ID	1314
+K-Scholar ID	1315
+K10plus PPN ID	1316
+KANTO ID	1317
+KATOTTH ID	1318
+KBpedia ID	1319
+KDG Komponisten der Gegenwart ID	1320
+KEGG ID	1321
+KEPN ID	1322
+KINENOTE person ID	1323
+KIT Linked Open Numbers ID	1324
+KKBox artist ID	1325
+KNAW past member ID	1326
+KNApSAcK ID	1327
+KOATUU identifier	1328
+KSH code	1329
+Kaiserhof ID	1330
+Kallías ID	1331
+Kansallisbiografia ID	1332
+Kansaspedia ID	1333
+Keratsini-Drapetsona libraries' catalogue authority ID	1334
+Khung phân loại Regensburg	1335
+Khung phân loại Thập phân Quốc tế	1336
+Kindred Britain ID	1337
+Kino-teatr.ua person ID	1338
+Kinopoisk film ID	1339
+Kinopoisk person ID	1340
+Kinorium person ID	1341
+Kivid.info ID	1342
+KldB-2010 occupation code	1343
+Klexikon article ID	1344
+Knesset member ID	1345
+Know Your Meme ID	1346
+Kritisches Lexikon zur fremdsprachigen Gegenwartsliteratur ID	1347
+Krugosvet article	1348
+KulturNav-ID	1349
+Kunstindeks Danmark Artist ID	1350
+Kvikmyndir person ID	1351
+Köppen climate classification	1352
+L'Express person ID	1353
+L'Officiel des spectacles ID	1354
+L'Unificazione ID	1355
+L'Équipe football player ID	1356
+LAU	1357
+LAWA waterbody ID	1358
+LB.ua dossier ID	1359
+LBT person ID	1360
+LCCN	1361
+LEM ID	1362
+LGBT Danmark online dictionary ID	1363
+LIBRIS editions	1364
+LIGA profile	1365
+LIMIS person ID	1366
+LIPID MAPS ID	1367
+LNB ID	1368
+LOA ID	1369
+LOINC ID	1370
+LONSEA ID	1371
+LTit person ID	1372
+Labelcode	1373
+Labour Australia ID	1374
+LakeNet ID	1375
+Lambiek Comiclopedia artist ID	1376
+Larousse ID	1377
+Last.fm ID	1378
+Latin Place Names ID	1379
+Latvian National Address Register ID	1380
+Latvian National Encyclopedia Online ID	1381
+Latvian toponymic names database ID	1382
+Latvian transcription	1383
+LaunchBox Games Database developer ID	1384
+LaunchBox Games Database platform ID	1385
+LaunchBox Games Database publisher ID	1386
+Laut.de artist ID	1387
+LdiF person ID	1388
+Le Delarge artist ID	1389
+Le Figaro tag ID	1390
+Le Lettere di Theodor Mommsen agli Italiani ID	1391
+Le Monde ID	1392
+Le Monde diplomatique subject ID	1393
+Le Parisien tag ID	1394
+Lebanese National Library ID	1395
+Lega Serie A team ID	1396
+Legacy.com newspaper ID	1397
+Legal Entity Identifier	1398
+Legislation of Ukraine ID	1399
+Leopoldina member ID	1400
+LepIndex ID	1401
+Lepidoptera of Belgium ID	1402
+Les Archives du spectacle person ID	1403
+Les Enfoirés participant ID	1404
+LesBiographies.com ID	1405
+Letteraturaitaliana.net author ID	1406
+Letterboxd actor ID	1407
+LexM ID	1408
+Lexicon istoric retic ID	1409
+Liber Liber author ID	1410
+Libraries.org ID	1411
+Library of Congress Children's Subject Headings ID	1412
+Library of Congress Classification	1413
+Library of Congress Classification (works and editions)	1414
+Library of Congress Control Number (LCCN) (bibliographic)	1415
+Library of Congress Demographic Group Terms ID	1416
+Library of Congress Format Description Document ID	1417
+Library of Congress Genre/Form Terms ID	1418
+Library of Congress JukeBox ID (former scheme)	1419
+Library of Congress Medium of Performance Thesaurus ID	1420
+Library of Congress of Chile person ID	1421
+Library of Parliament of Canada person ID	1422
+LibraryThing author ID	1423
+LibraryThing work ID	1424
+LibriVox author ID	1425
+Libris-URI	1426
+LiederNet author ID	1427
+LiederNet composer ID	1428
+LilyPond notation	1429
+Line Music artist ID	1430
+Linguasphere code	1431
+Linguist List code	1432
+Linked Open Data Cloud identifier	1433
+LinkedIn company ID	1434
+LinkedIn personal profile ID	1435
+Litchfield Ledger ID	1436
+Literature Ireland ID	1437
+LittleSis organization ID	1438
+LittleSis people ID	1439
+LiveJournal ID	1440
+LiveXLive artist ID	1441
+Livelib.ru person ID	1442
+LiverTox ID	1443
+LoC HABS/HAER/HALS place ID	1444
+LoC and MARC vocabularies ID	1445
+LoJ peak ID	1446
+Logainm ID	1447
+Lokalhistoriewiki.no ID	1448
+LombardiaBeniCulturali artwork author ID	1449
+LombardiaBeniCulturali institution ID	1450
+LombardiaBeniCulturali toponym ID	1451
+LongTake person ID	1452
+Looted Cultural Assets Database ID	1453
+Los Angeles Review of Books author ID	1454
+Lotsawa House Tibetan author ID	1455
+Lower Sorbian place name ID	1456
+Lucerna person ID	1457
+Lutris game ID	1458
+Lutris genre ID	1459
+Lutris platform ID	1460
+Lyrics007 artist ID	1461
+LyricsTranslate ID	1462
+Léonore ID	1463
+M.49 code	1464
+MAC Address Block Large ID	1465
+MANTO ID	1466
+MART catalog person ID	1467
+MCN code	1468
+MDWS place ID	1469
+MEP directory ID	1470
+MGG Online ID	1471
+MIC market code	1472
+MIL-STD-2525 Symbol Identification Code	1473
+MIMO instrument ID	1474
+MONA ID	1475
+MOOMA artist ID	1476
+MPPDA Digital Archive organisation ID	1477
+MR Author ID	1478
+MSBI person ID	1479
+MSW ID	1480
+MUBI person ID	1481
+MYmovies actor ID (former scheme)	1482
+MYmovies director ID (former scheme)	1483
+MYmovies name ID (former scheme)	1484
+MYmovies person ID	1485
+MacArthur Fellows Program ID	1486
+MacTutor biography ID	1487
+Macedonian cadastral municipality ID	1488
+Magdeburger Biographisches Lexikon ID	1489
+Magyar életrajzi lexikon ID	1490
+Maine: An Encyclopedia ID	1491
+Maitron ID	1492
+MalaCards ID	1493
+MangaSeek person ID	1494
+Maniadb artist ID	1495
+ManualsLib brand ID	1496
+Manus Online author ID	1497
+Mapillary ID	1498
+Mapy.cz ID	1499
+Marine Regions Geographic ID	1500
+Marine Regions Geographic IDentifier (MRGID)	1501
+Marmiton ID	1502
+MassBank accession ID	1503
+Mastodon address	1504
+MathWorld identifier	1505
+Mathematics Genealogy Project ID	1506
+Mathematics Subject Classification ID	1507
+Max Movie person ID	1508
+McClintock and Strong Biblical Cyclopedia ID	1509
+McCune-Reischauer romanization	1510
+MeSH concept ID	1511
+MeSH descriptor ID	1512
+MeSH qualifier ID	1513
+MeSH term ID	1514
+MeSH tree code	1515
+Media Arts Database ID	1516
+Media Arts Database console games ID (former scheme)	1517
+Media Bias/Fact Check ID	1518
+Mediapart tag ID	1519
+Medieval Manuscripts in Oxford Libraries person ID	1520
+Medieval Manuscripts in Oxford Libraries place ID	1521
+Medium username	1522
+MedlinePlus ID	1523
+Melon artist ID	1524
+Member of the Hellenic Parliament ID	1525
+Merchant Category Code	1526
+Merkelstiftung person ID	1527
+MetaSat ID	1528
+Metacritic ID	1529
+MetroLyrics ID	1530
+Michelin Voyages ID	1531
+Michigan Flora ID	1532
+Microsoft Academic ID	1533
+Microsoft Store product ID	1534
+Mille Anni di Scienza in Italia ID	1535
+MinDat locality ID	1536
+MinDat mineral ID	1537
+Ministry of the Interior of Italy ID	1538
+Minitel code	1539
+Minneapolis Institute of Art constituent ID	1540
+Mir@bel journal ID	1541
+Mirabile author ID	1542
+Mississippi Encyclopedia ID	1543
+Mixer game ID (former scheme)	1544
+MoEML ID	1545
+MobyGames company ID	1546
+MobyGames developer ID	1547
+MobyGames game ID	1548
+MobyGames genre ID	1549
+MobyGames group ID	1550
+MobyGames platform ID	1551
+Model Manual ID	1552
+Models.com client ID	1553
+Models.com person ID	1554
+Moegirlpedia ID	1555
+Mohs' hardness	1556
+MonDO ID	1557
+Montreux Jazz Festival person ID	1558
+Mora Artist ID	1559
+Mormon Literature and Creative Arts Database artist ID	1560
+Moths and Butterflies of Europe and North Africa ID	1561
+Movie Walker person ID	1562
+MovieGe person ID	1563
+MovieMeter person ID	1564
+Movieplayer person ID	1565
+Mozilla Developer Network article	1566
+Mtime people ID	1567
+Muck Rack journalist ID	1568
+Muck Rack media outlet ID	1569
+Munk's Roll ID	1570
+Munzinger Pop ID	1571
+Munzinger Sport number	1572
+Munzinger person ID	1573
+MuseScore artist ID	1574
+Museen Dresden article ID	1575
+Museo Galileo authority ID	1576
+Museo Galileo biography ID	1577
+Museo del Prado artist ID	1578
+Museofile	1579
+Museu da Pessoa History	1580
+Museu da Pessoa person ID	1581
+Museum Universe Data File ID	1582
+Museum of Modern Art artist ID	1583
+Museum of Modern Art work ID	1584
+Museum of the Jewish People at Beit Hatfutsot ID	1585
+Museums in Austria Code	1586
+MusicBrainz area ID	1587
+MusicBrainz genre ID	1588
+MusicBrainz instrument ID	1589
+MusicBrainz label ID	1590
+MusicBrainz place ID	1591
+MusicBrainz release group ID	1592
+MusicBrainz series ID	1593
+MusicBrainz work ID	1594
+Musicalics composer ID	1595
+Musik-Sammler.de artist ID	1596
+Musisque Deoque author ID	1597
+Musixmatch artist ID	1598
+Musopen composer ID	1599
+Musée d'Orsay artist ID	1600
+Mutopia composer ID	1601
+MutualArt artist ID	1602
+Muziekweb performer ID	1603
+MyAnimeList people ID	1604
+MyMusic artist ID	1605
+MyNeta.info political party ID	1606
+MycoBank taxon name ID	1607
+Myspace ID	1608
+Mã 5 chữ BTO	1609
+Mã EPPO	1610
+Médias 19 ID	1611
+Mérimée ID	1612
+München Wiki article ID	1613
+NACE code	1614
+NAD place ID	1615
+NAIF ID	1616
+NALT ID	1617
+NARCIS researcher ID	1618
+NAS ID	1619
+NBA.com player ID	1620
+NBIC taxon ID	1621
+NBM authority ID	1622
+NBN System Key	1623
+NCAA organization code	1624
+NCBI taxonomy ID	1625
+NCI Thesaurus ID	1626
+NCL ID	1627
+NCpedia ID	1628
+NDF-RT ID	1629
+NE.se ID	1630
+NHK Archives Portal person ID	1631
+NHS Health A to Z ID	1632
+NIAID ChemDB ID	1633
+NIOSH Pocket Guide ID	1634
+NIS/INS code	1635
+NLA Trove people ID	1636
+NLB authority ID	1637
+NLC authorities	1638
+NLM Unique ID	1639
+NLP ID (old)	1640
+NLS Geographic Names Register Place ID	1641
+NLS place type ID	1642
+NMVW ID	1643
+NNDB	1644
+NNDB people ID	1645
+NOAA Fisheries Species Directory ID	1646
+NOC Occupation Code	1647
+NORAF ID	1648
+NOTAM (FAA)	1649
+NRHP reference number	1650
+NSC number	1651
+NSDAP membership number (1925–1945)	1652
+NSK ID	1653
+NSSDCA ID	1654
+NSW Flora ID	1655
+NSZL (VIAF) ID	1656
+NSZL name authority ID	1657
+NT Flora ID	1658
+NUKAT ID	1659
+NUTS code	1660
+NUTTAB food ID	1661
+NWBib ID	1662
+NWT Species ID	1663
+NYRB contributor ID	1664
+NZPCN ID	1665
+NZTCS ID	1666
+Name Assigning Authority Number	1667
+Namuwiki ID	1668
+Napster artist ID	1669
+Nasjonalbiblioteket photographer ID	1670
+National Academy of Medicine (France) member ID	1671
+National Academy of Sciences member ID	1672
+National Cancer Institute ID	1673
+National Discography of Italian Song artist/group ID	1674
+National Equipment Registration System Supplier Number	1675
+National Gallery of Art artist ID	1676
+National Gallery of Canada artist ID	1677
+National Gallery of Victoria artist ID	1678
+National Heritage List for England number	1679
+National Historic People ID	1680
+National Historical Museums of Sweden agent ID	1681
+National Humanities Medal winner ID	1682
+National Inventors Hall of Fame ID	1683
+National Inventory of Dams ID	1684
+National Library Board Singapore ID	1685
+National Library of Brazil ID	1686
+National Library of Chile ID	1687
+National Library of Greece ID	1688
+National Library of Iceland ID	1689
+National Library of Israel ID (old)	1690
+National Library of Israel J9U ID	1691
+National Library of Korea ID	1692
+National Library of Lithuania ID	1693
+National Library of Luxembourg ID	1694
+National Library of Romania ID	1695
+National Library of Russia ID	1696
+National Library of Wales Authority ID	1697
+National Medal of Arts winner ID	1698
+National Natural Landmarks site ID	1699
+National Park Service people ID	1700
+National Park Service place ID	1701
+National Portrait Gallery (London) person ID	1702
+National Taxonomy of Exempt Entities code	1703
+National Trust for Historic Preservation ID	1704
+National-Football-Teams.com player ID	1705
+Nationale Thesaurus voor Auteurs ID	1706
+Nationalmuseum Sweden ID	1707
+Native Land language ID	1708
+Native Land territory ID	1709
+Natura 2000 site ID	1710
+Natural Atlas ID	1711
+Naver Encyclopedia ID	1712
+Naver VIBE artist ID	1713
+Nchdb asset ID	1714
+Nederlands Fotomuseum photographer ID	1715
+Nederlands Soortenregister ID	1716
+Nederlandse Top 40 artist ID	1717
+Nederlandse Voornamenbank ID	1718
+Nelson-Atkins Museum of Art person ID	1719
+Neotropical Birds ID	1720
+NetBSD package	1721
+New Encyclopedic Dictionary of Czech ID	1722
+New General Catalogue ID	1723
+New Georgia Encyclopedia ID	1724
+New York City Landmarks Preservation Commission ID	1725
+New York Times topic ID	1726
+New Zealand Birds Online ID	1727
+New Zealand Gazetteer place ID	1728
+New Zealand Organisms Register ID	1729
+Newseum newspaper front page ID	1730
+Newspapers.com paper ID	1731
+Nghĩa định nghĩa OmegaWiki	1732
+Nickel-Strunz '10th ed', review of (9th ed/ 2009 update)	1733
+Nickel-Strunz 9th edition (updated 2009)	1734
+NicoNicoPedia ID	1735
+Nikkaji ID	1736
+Nintendo eShop ID	1737
+Nintendo of America Game Store ID (former scheme)	1738
+Nobel Laureate API ID	1739
+Nobel Prize People Nomination ID	1740
+Nomenclature for Museum Cataloging	1741
+Nominis given name ID	1742
+Nominis saint ID	1743
+Nomisma ID	1744
+None	1745
+NooSFere author ID	1746
+NooSFere book ID	1747
+Noovie person ID	1748
+Norsk biografisk leksikon ID	1749
+Norsk kunstnerleksikon ID	1750
+North America PlayStation Store ID	1751
+Norwegian Nationaltheatret actor ID	1752
+Norwegian Polar Institute place name ID	1753
+Norwegian historical register of persons ID	1754
+Norwegian municipality number	1755
+Norwegian organisation number	1756
+Norwegian war refugees register ID	1757
+NosDéputés.fr identifiant	1758
+NosSénateurs.fr identifier	1759
+O*NET OnLine code	1760
+OBO Gazetteer ID	1761
+OBV editions ID	1762
+OCLC control number	1763
+OCLC work ID	1764
+ODIS ID	1765
+ODLIS ID	1766
+OFDb person ID	1767
+OGDB company ID	1768
+OKATO ID	1769
+OKPD code of the good or service	1770
+OKPD2 code of the good or service	1771
+OKTMO ID	1772
+OLAC video game genre vocabulary ID	1773
+OMIM ID	1774
+OS grid reference	1775
+OSM Name Suggestion Index identifier	1776
+Obituaries Australia ID	1777
+Objectif Gard topic ID	1778
+Obrazi slovenskih pokrajin ID	1779
+Observation.org ID	1780
+Occupational Outlook Handbook ID	1781
+Odnoklassniki ID	1782
+Official Charts artist ID	1783
+Offizielle Deutsche Charts artist ID (former scheme)	1784
+Oireachtas member ID	1785
+Oiseaux.net ID	1786
+Olympedia affiliations ID	1787
+Olympedia people ID	1788
+Olympic.org athlete ID (archived)	1789
+Olympics.com athlete ID / archived OlympicChannel ID	1790
+Omni topic ID	1791
+Online Books Page author ID	1792
+Online Books Page publication ID	1793
+Online PWN Encyclopedia ID	1794
+OnsOranje tournament ID	1795
+Ontology of units of Measure 2.0 unit ID	1796
+Open Civic Data Division ID	1797
+Open Food Facts food additive ID	1798
+Open Food Facts food category ID	1799
+Open Food Facts ingredient ID	1800
+Open Hub ID	1801
+Open Library ID	1802
+Open Library subject ID	1803
+Open Media Database person ID	1804
+Open Tree of Life ID	1805
+OpenBSD port	1806
+OpenCorporates ID	1807
+OpenCorporates corporate grouping	1808
+OpenCritic ID	1809
+OpenDOAR ID	1810
+OpenDomesday settlement ID	1811
+OpenEdition Books author ID	1812
+OpenHistoricalMap relation ID	1813
+OpenPlaques subject ID	1814
+OpenSecrets organization ID	1815
+OpenSecrets people ID	1816
+OpenStreetMap relation ID	1817
+OpenStreetMap tag or key	1818
+OpenStreetMap zoom level	1819
+OpenWeatherMap city ID	1820
+Openpolis ID	1821
+Opera Online composer ID	1822
+Opta football team ID	1823
+Or Movement settlement ID	1824
+Order of Canada recipient ID	1825
+Oregon Flora Image Project ID	1826
+OregonFlora taxon ID	1827
+Orlando author ID	1828
+Orphanet ID	1829
+Orthodox Encyclopedia ID	1830
+OrthodoxWiki ID (English)	1831
+OverDrive creator ID	1832
+Owler company ID	1833
+Oxford Classical Dictionary ID	1834
+Oxford Dictionary of National Biography ID	1835
+PACE member ID	1836
+PACTOLS thesaurus ID	1837
+PAN member	1838
+PARES ID	1839
+PAS member ID	1840
+PASE ID	1841
+PC Games Database.de game ID	1842
+PCGamingWiki ID	1843
+PDB ligand ID	1844
+PDB structure ID	1845
+PEPC park ID	1846
+PHI Latin Texts author ID	1847
+PIM authority ID	1848
+PLU code	1849
+PLWABN ID	1850
+PM20 folder ID	1851
+PM20 geo code	1852
+PORT person ID	1853
+POSIX locale identifier	1854
+PPP GDP per capita	1855
+PRELIB organization ID	1856
+PRELIB person ID	1857
+PRONOM file format identifier	1858
+PRONOM software ID	1859
+PRS Legislative Research MP ID	1860
+PSH ID	1861
+PSS-archi ID	1862
+Pacific Coast Architecture Database building ID	1863
+PagesJaunes ID	1864
+PalDat plant ID	1865
+Palynodata taxa ID	1866
+Paměť národa ID	1867
+Pandora artist ID	1868
+Panorama de l'art ID	1869
+Paris Faculty of Science professor ID	1870
+Park Alpha Code	1871
+Parlement.com ID	1872
+Parler username	1873
+Parliament of Australia MP ID	1874
+Parliamentary record identifier	1875
+Parsons code	1876
+Partis d'Arcadie ID	1877
+Party Number (Taiwan)	1878
+Patientplus ID	1879
+PatientsLikeMe treatment ID	1880
+Patrinum ID	1881
+PeakVisor area ID	1882
+PeakVisor peak ID	1883
+PeakVisor range ID	1884
+Peakbagger area ID	1885
+Peakbagger mountain ID	1886
+Penguin India author ID	1887
+People Australia ID	1888
+Peoples.ru person ID	1889
+PeriodO period ID	1890
+Periscope ID	1891
+Perlentaucher ID	1892
+PermID	1893
+Perseus author ID	1894
+PersonalData.IO ID	1895
+Personendatenbank Germania Sacra ID	1896
+Persons of Indian Studies ID	1897
+Persée author ID	1898
+Petit Futé site ID	1899
+PfaF ID	1900
+PhilPapers author ID	1901
+PhilPapers topic	1902
+Philadelphia Museum of Art entity ID	1903
+Philippine Standard Geographic Code	1904
+Philosophica ID	1905
+Photographers' Identities Catalog ID	1906
+Physics History Network ID	1907
+Pinakes author ID	1908
+Pinakothek artist ID	1909
+Pinterest username	1910
+Place Names Register ID (Estonia)	1911
+Pladias ID	1912
+Plant Finder ID	1913
+Plant Parasites of Europe ID	1914
+PlantList-ID	1915
+Plants of the World online ID	1916
+Plarr ID	1917
+Playbill person ID	1918
+PlaymakerStats.com player ID	1919
+PlaymakerStats.com team ID	1920
+Plazi ID	1921
+Pleiades ID	1922
+Pleiades category identifier	1923
+Plus Music artist ID	1924
+Podchaser creator ID	1925
+Poetry Archive poet ID	1926
+Poetry Foundation ID	1927
+Poetry In Voice poet ID	1928
+Poetry International Web poet ID	1929
+Poetry Society of America poet ID	1930
+Poets.org poet ID	1931
+Poincaré Papers person ID	1932
+Poisson's ratio	1933
+PolSys ID	1934
+Polignosi ID	1935
+Polish scientist ID	1936
+PolitiFact people and groups ID	1937
+Political Graveyard politician ID	1938
+Politika topic ID	1939
+Politiklexikon ID	1940
+Polski Słownik Judaistyczny ID	1941
+Pontificia Università della Santa Croce ID	1942
+Pontificio Istituto di Archeologia Cristiana ID	1943
+Portal da Literatura ID	1944
+Portrait Archive ID	1945
+Portuguese National Library ID	1946
+Post-Reformation Digital Library author ID	1947
+Postimees topic ID	1948
+Prabook ID	1949
+PragerU presenter ID	1950
+Price One Penny library ID	1951
+Prisma ID	1952
+Pro-Linux.de DBApp ID	1953
+Proballers ID	1954
+Project Gutenberg author ID	1955
+Projekt Gutenberg-DE author ID	1956
+Proleksis enciklopedija ID	1957
+Proveana ID	1958
+Provenio UUID	1959
+Pschyrembel Online ID	1960
+PubChem CID	1961
+PubMed Health	1962
+PublicWhip ID	1963
+Publons publisher ID	1964
+Punjabipedia ID	1965
+Q-Codes ID	1966
+QS World University ID	1967
+QUDT quantity kind ID	1968
+QUDT unit ID	1969
+Qobuz artist ID	1970
+Qobuz label ID	1971
+Quebec cultural heritage directory ID	1972
+Quebec municipalities geographical code	1973
+Queensland Biota ID	1974
+Queensland place ID	1975
+Quirinale ID	1976
+Quora username	1977
+Québec cultural heritage directory people identifier	1978
+RA Collections ID	1979
+RDA value vocabularies ID	1980
+RERO ID	1981
+RFI Musique artist ID	1982
+RIA Novosti reference	1983
+RIAA artist ID	1984
+RICS company code	1985
+RILM ID	1986
+RISM ID	1987
+RITVA Person ID	1988
+RKD thesaurus ID	1989
+RKDartists	1990
+RKDartists ID	1991
+RKDimages	1992
+RKDimages ID	1993
+RMF FM artist ID	1994
+ROARMAP ID	1995
+ROME Occupation Code (v3)	1996
+ROR ID	1997
+RPO poet ID	1998
+RSL ID (person)	1999
+RSL author ID	2000
+RTECS number	2001
+Radio Radicale organizer ID	2002
+Radio Radicale person ID	2003
+Ramsar Sites Information Service ID	2004
+Rate Your Music artist ID	2005
+Rate Your Music genre ID	2006
+RationalWiki ID	2007
+RauteMusik artist ID	2008
+RePEc Short-ID	2009
+RePEc institute ID	2010
+RealGM basketball player ID	2011
+Reaxys registry number	2012
+Recreation.gov gateway ID	2013
+Red List of South African Plants ID	2014
+Reddit username	2015
+Redump.org ID	2016
+Regensburg Classification	2017
+Regensburg Classification (works and editions)	2018
+Regesta Ecclesiastica Salisburgensia ID	2019
+RegiowikiAT ID	2020
+Rekhta author ID	2021
+Relationship Science organization ID	2022
+Relationship Science person ID	2023
+Repertorium van ambtsdragers en ambtenaren ID	2024
+Repology project name	2025
+Represent Me ID	2026
+Reptiles of India ID	2027
+Republic of Korea Parliamentarian Society ID	2028
+ResearchGate contributions ID	2029
+ResearchGate institute ID	2030
+Resident Advisor label ID	2031
+Revised Hepburn romanization	2032
+Revised Romanization	2033
+Rheinland-Pfälzische Personendatenbank ID	2034
+Ricorso author ID	2035
+Riigikogu ID	2036
+Rijksmuseum Research Library authority ID	2037
+Riksdagen person-ID	2038
+Ringgold ID	2039
+RoMEO publisher ID	2040
+Rock Paper Shotgun game ID	2041
+Rock and Roll Hall of Fame ID	2042
+Rock's Backpages artist ID	2043
+Rock's Backpages publication ID	2044
+Rockipedia area ID	2045
+Rodovid ID	2046
+Roglo person ID	2047
+Rolling Stone artist ID	2048
+Romaja quốc ngữ	2049
+Rosetta Code ID	2050
+Rotten Tomatoes	2051
+Routard.com place ID	2052
+Royal Academy new identifier	2053
+Royal Swedish Academy of Letters member ID	2054
+Runeberg author ID	2055
+Rupa Publications author ID	2056
+Rush Parliamentary Archive ID	2057
+Russian organisation number	2058
+RxNorm ID	2059
+Römpp online ID	2060
+S2A3 Biographical Database ID	2061
+SA Flora ID	2062
+SAH Archipedia architect ID	2063
+SAH Archipedia building ID	2064
+SAIA authority ID	2065
+SANU member ID	2066
+SAPA ID	2067
+SAR ancestor ID	2068
+SBC-2010 occupation code	2069
+SBN author ID	2070
+SBN books ID	2071
+SCAR Composite Gazetteer place ID	2072
+SCN	2073
+SEARCH on line catalogue ID	2074
+SEKO ID	2075
+SELIBR	2076
+SELIBR ID	2077
+SFMOMA artist ID	2078
+SHARE Catalogue author ID	2079
+SIC code	2080
+SICRIS researcher ID	2081
+SILL software ID	2082
+SIMBAD ID	2083
+SIMC place ID	2084
+SIREN number	2085
+SIRET number	2086
+SIRUTA code	2087
+SIUSA archive producer person ID	2088
+SK cinema authority ID	2089
+SMILES	2090
+SNAC ARK ID	2091
+SNESmusic.org company ID	2092
+SNESmusic.org game ID	2093
+SNK ID	2094
+SNOMED CT identifier	2095
+SOATO ID	2096
+SOC Code (2010)	2097
+SOR bird ID	2098
+SPDX license ID	2099
+SPLASH	2100
+SSR place name number	2101
+SSYK 2012 The Swedish Standard Classification of Occupations	2102
+STW Thesaurus for Economics ID	2103
+SUDOC editions	2104
+SVKKL authority ID	2105
+SVT Play ID	2106
+SWB editions	2107
+Saint Louis Art Museum person ID	2108
+Salzburgwiki ID	2109
+Sandbox-External identifier	2110
+Sandrart.net person ID	2111
+Sandre river ID	2112
+Santiebeati ID	2113
+Saregama artist ID	2114
+Sarvavijnanakosam ID	2115
+Savoirs ENS ID	2116
+Scenic Washington scenic drives and road trips ID	2117
+Schoenberg Database of Manuscripts name ID	2118
+Schoenberg Database of Manuscripts place ID	2119
+Scholarpedia article ID	2120
+Science Museum people ID	2121
+Scope.dk person ID	2122
+Scopus affiliation ID	2123
+Scopus author ID	2124
+Scopus source ID	2125
+Scottish Charity number	2126
+ScreenScraper company ID	2127
+ScreenScraper platform ID	2128
+Scribd publication ID	2129
+ScummVM wiki ID	2130
+SeaLifeBase ID	2131
+SecondHandSongs artist ID	2132
+SecondHandSongs work ID	2133
+Sejm-Wielki.pl profile ID	2134
+Semantic Scholar author ID	2135
+Semantic Scholar topic ID	2136
+SerialStation game ID	2137
+Shakeosphere person ID	2138
+Shanghai Library person ID	2139
+Shanghai Library place ID	2140
+Share-VDE 1.0 author ID	2141
+Shazam artist ID	2142
+Sina Weibo user ID	2143
+SinemaTürk person ID	2144
+Sinemalar person ID	2145
+Singapore Infopedia ID	2146
+Singers.com ID	2147
+Six Degrees of Francis Bacon ID	2148
+SkyscraperPage building ID	2149
+SlideShare username	2150
+Slovak National Library ID (VIAF)	2151
+Slovene Cultural Heritage Register ID	2152
+Slovenska biografija ID	2153
+Slovo i Dilo person ID	2154
+Smithsonian American Art Museum person/institution ID	2155
+Smithsonian resource ID	2156
+Smithsonian trinomial format regex	2157
+Smithsonian volcano ID	2158
+Smotrim.ru actor profile ID	2159
+Snapchat username	2160
+So Foot ID	2161
+Soccerbase player ID	2162
+Soccerbase team ID	2163
+Soccerway player ID	2164
+Soccerway stadium ID	2165
+Soccerway team ID	2166
+SongMeanings artist ID	2167
+Songfacts artist ID	2168
+Songkick artist ID	2169
+Songkick venue ID	2170
+Songwriters Hall of Fame ID	2171
+Sotheby's Museum Network ID	2172
+SoundCloud ID	2173
+SoundHound artist ID	2174
+Soundex	2175
+South Carolina Encyclopedia ID	2176
+Spanish Biographical Dictionary ID	2177
+Spanish Quora topic ID	2178
+Spanish Vikidia ID	2179
+Species at Risk public registry ID	2180
+Spectrum Management System Company Number	2181
+SpeedSkatingNews.info speed skater ID	2182
+SportSport.ba news ID	2183
+Sports-Reference.com Olympic athlete ID (archived)	2184
+SportsLogos.net team ID	2185
+Spotify artist ID	2186
+Spotify track ID	2187
+Sratim ID	2188
+Stack Exchange site	2189
+Stack Exchange tag	2190
+StadiumDB identifier	2191
+Stadtlexikon Karlsruhe ID	2192
+Stadtwiki Dresden article	2193
+Stanford Encyclopedia of Philosophy ID	2194
+State Catalogue of Geographical Names (Russia) ID	2195
+State Water Register Code (Russia)	2196
+Statistical Service of Cyprus Geocode	2197
+Statistics Canada Geographic code	2198
+Statistics Denmarks classification of occupation (DISCO-08)	2199
+Statistics Indonesia ethnicity code	2200
+Statoids ID	2201
+Steam application ID	2202
+StopGame ID	2203
+Store medisinske leksikon ID	2204
+Store norske leksikon ID	2205
+Storiaememoriadibologna ID	2206
+Storting person ID	2207
+StrategyWiki ID	2208
+Structurae person ID	2209
+Structurae structure ID	2210
+Strunz 8th edition (series ID, updated)	2211
+Students of Prague Universities ID	2212
+Studio di Fonologia Musicale RAI person ID	2213
+Studium Parisiense ID	2214
+Stuttgart Database of Scientific Illustrators ID	2215
+Städel Museum artist ID	2216
+SummitPost ID	2217
+Super Mario Wiki ID	2218
+Supraphonline artist ID	2219
+Svenska Institutet i Rom ID	2220
+Svenskt kvinnobiografiskt lexikon ID	2221
+Swedish Academy member ID	2222
+Swedish Anbytarforum	2223
+Swedish Film Database group ID	2224
+Swedish Film Database person ID	2225
+Swedish Gravestone ID	2226
+Swedish Literature Bank Author ID	2227
+Swedish Musical Heritage ID	2228
+Swedish National Archive Reference Code	2229
+Swedish National Library Arken ID	2230
+Swedish Olympic Committee athlete ID	2231
+Swedish Open Cultural Heritage URI	2232
+Swedish Organization Number	2233
+Swedish Parliament person GUID	2234
+Swedish Portrait Archive ID	2235
+Swedish Royal Theater Archive	2236
+Swedish county code	2237
+Swedish county letter	2238
+Swedish municipality code	2239
+Swedish urban area code	2240
+Swiss Enterprise Identification Number	2241
+Swiss Federal Archives ID	2242
+Swiss municipality code	2243
+Sycomore ID	2244
+Symptom Ontology ID	2245
+Syriac Biographical Dictionary ID	2246
+TA2 ID	2247
+TA98 Latin term	2248
+TASS reference	2249
+TAXREF ID	2250
+TCLF ID	2251
+TCM Movie Database person ID	2252
+TDKIV term ID	2253
+TDV İslam Ansiklopedisi ID	2254
+TED speaker ID	2255
+TED topic ID	2256
+TERC municipality code	2257
+TLG author ID	2258
+TMDb person ID	2259
+TOID	2260
+TOPCMB ID	2261
+TORA ID	2262
+TSN ITIS	2263
+TV Guide person ID (former scheme)	2264
+TV Tropes identifier	2265
+TV.com ID	2266
+TaDiRAH ID	2267
+Tabakalera ID	2268
+Tagesschau election ID	2269
+Taratata artist ID	2270
+TasteAtlas ID	2271
+Tate artist ID	2272
+Te Papa agent ID	2273
+TeX string	2274
+Techopedia ID	2275
+Tela Botanica ID	2276
+Telegram username	2277
+Tennessee Encyclopedia ID	2278
+Tennis Hall of Fame player ID	2279
+TermCymru ID	2280
+Terminologia Anatomica 98 ID	2281
+Thailand central administrative unit code	2282
+The Black Book ID	2283
+The Cardinals of the Holy Roman Church ID	2284
+The Coptic Library ID	2285
+The Cutting Room Floor ID	2286
+The Encyclopedia of Oklahoma History and Culture ID	2287
+The Encyclopedia of Science Fiction ID	2288
+The First Amendment Encyclopedia ID	2289
+The Good Old Days ID	2290
+The Independent topic ID	2291
+The Latin Library author ID	2292
+The Living New Deal ID	2293
+The Numbers person ID	2294
+The Oregon Encyclopedia ID	2295
+The Paris Review interviewee ID	2296
+The Peerage person ID	2297
+The Reptile Database ID	2298
+The Times of India topic ID	2299
+The Top Tens ID	2300
+The Video Games Museum system ID	2301
+The Washington Post contributor ID	2302
+The Women's Print History Project person ID	2303
+The World Academy of Sciences fellow ID	2304
+The World Factbook country ID	2305
+TheCocktailDB ingredient ID	2306
+TheGamesDB developer ID	2307
+TheGamesDB game ID	2308
+TheGamesDB platform ID	2309
+TheGamesDB publisher ID	2310
+TheTVDB person ID	2311
+TheatreOnline ID	2312
+Theatricalia person ID	2313
+Theatricalia play ID	2314
+Theatricalia theatre ID	2315
+Theoi Project ID	2316
+Thesaurus Sozialwissenschaften ID	2317
+Thesaurus for Graphic Materials ID	2318
+TheyWorkForYou ID	2319
+Thomas Jefferson Encyclopedia ID	2320
+Thomson Reuters Business Classification	2321
+Three Decks people ID	2322
+Thésaurus de la désignation des œuvres architecturales et des espaces aménagés ID	2323
+Ticketmaster artist ID	2324
+Tidal artist ID	2325
+Tierstimmenarchiv ID	2326
+TikTok username	2327
+Times Higher Education World University ID	2328
+ToS;DR service numerical identifier	2329
+ToposText place ID	2330
+TracesOfWar person ID	2331
+Trading Card Database person ID	2332
+Trainline ID	2333
+Trakt.tv ID	2334
+Transfermarkt manager ID	2335
+Transfermarkt player ID	2336
+Transfermarkt team ID	2337
+Trap Danmark ID	2338
+Treasury of Lives ID	2339
+Treccani ID	2340
+Treccani Vocabulary ID	2341
+Treccani's Dizionario di Filosofia ID	2342
+Treccani's Dizionario di Storia ID	2343
+Treccani's Enciclopedia Dantesca ID	2344
+Treccani's Enciclopedia Italiana ID	2345
+Treccani's Enciclopedia dei Papi ID	2346
+Treccani's Enciclopedia del Cinema ID	2347
+Treccani's Enciclopedia della Matematica ID	2348
+Treccani's Lessico del XXI Secolo ID	2349
+Tree of Life Web Project ID	2350
+TripAdvisor ID	2351
+Trismegistos Geo ID	2352
+Tropicos ID	2353
+Trustpilot company ID	2354
+Tumblr username	2355
+TuneIn artist ID	2356
+Tunisian geographic code	2357
+Turkish Football Federation stadium ID	2358
+Twitch category ID	2359
+Twitch channel ID	2360
+Twitch tag ID	2361
+Twitter topic ID	2362
+Twitter user numeric ID	2363
+Télé-Loisirs ID	2364
+Từ điển Lịch sử Thụy Sĩ	2365
+Từ điển đồng nghĩa BNCF	2366
+U-Multirank university ID	2367
+U.S. National Archives Identifier	2368
+U.S. National Geodetic Survey ID	2369
+UAE University Libraries ID	2370
+UAI code	2371
+UBERON ID	2372
+UBIGEO code	2373
+UCUM code	2374
+UEFA player ID	2375
+UEFA team ID	2376
+UGentMemorialis professor ID	2377
+UIC alphabetical country code	2378
+UIC numerical country code	2379
+UK Electoral Commission ID	2380
+UK National Archives ID	2381
+UK Parliament identifier	2382
+UK Parliament thesaurus ID	2383
+UK Provider Reference Number	2384
+UMLS CUI	2385
+UN/CEFACT Common Code	2386
+UN/LOCODE	2387
+UNBIS Thesaurus ID	2388
+UNDP country code	2389
+UNESCO Atlas of the World's Languages in Danger ID	2390
+UNESCO Biosphere Reserve URL	2391
+UNESCO Thesaurus ID	2392
+UNII	2393
+UNSPSC Code	2394
+URL	2395
+URL AlgaeBase	2396
+URL GRIN	2397
+URL chú thích	2398
+URL của tác phẩm toàn văn	2399
+URL for citizen's initiatives	2400
+URL hướng dẫn người dùng	2401
+URL lưu trữ	2402
+URL miêu tả	2403
+URL nguồn cấp dữ liệu	2404
+URL ของตัวดึงข้อมูลเว็บ	2405
+URL คลังข้อมูลเก่า	2406
+US Congress Bio ID	2407
+US Federal Election Commission ID	2408
+USB vendor ID	2409
+USDA NDB number	2410
+USDA PLANTS ID	2411
+USGS earthquake ID	2412
+USHMM Holocaust Encyclopedia ID	2413
+USNPL ID	2414
+UTC date of spacecraft launch	2415
+UTC timezone offset	2416
+UVL company ID	2417
+UVL platform ID	2418
+Ubuntu package	2419
+Ultimate Guitar artist ID	2420
+Unicode character name	2421
+Unicode code point	2422
+Unicode range	2423
+Unified Astronomy Thesaurus ID	2424
+Unified Social Credit Identifier	2425
+Uniform Resource Identifier Scheme	2426
+Unifrance company ID	2427
+Unifrance person ID	2428
+Union Catalog of Armenian Libraries authority ID	2429
+Union List of Artist Names ID	2430
+Unione Romana Biblioteche Scientifiche ID	2431
+Unique Property Reference Number	2432
+United Nations Treaty Collection object ID	2433
+United Nations Treaty Series registration number	2434
+United States Armed Forces service number	2435
+United States Olympic & Paralympic Committee athlete ID	2436
+United States Public Law	2437
+United States Statutes at Large citation	2438
+Universal Decimal Classification	2439
+Universal Music France artist ID	2440
+University of Amsterdam Album Academicum ID	2441
+University of Barcelona authority ID (obsolete)	2442
+Unsplash user ID	2443
+Unz Review author ID	2444
+Uppsala University Alvin ID	2445
+Uppslagsverket Finland ID	2446
+Ustream username	2447
+Utah History Encyclopedia ID	2448
+V&A item ID	2449
+V&A person ID	2450
+VASCAN ID	2451
+VAT-rate	2452
+VG-lista artist ID	2453
+VGMDb organization ID	2454
+VGMPF ID	2455
+VGMRips system ID	2456
+VGMdb artist ID	2457
+VGMdb product ID	2458
+VIAF	2459
+VICNAMES Place ID	2460
+VK ID	2461
+VOGRIPA ID	2462
+Vatican Library ID (former scheme)	2463
+Vatican Library VcBA ID	2464
+Vegetti Catalog of Fantastic Literature NILF ID	2465
+Verkhovna Rada MP ID	2466
+Verspreidingsatlas.nl ID	2467
+VicFlora ID	2468
+VideoGameGeek game ID	2469
+VideoGameGeek platform ID	2470
+Videolectures ID	2471
+Vie publique person ID	2472
+Vienna History Wiki ID	2473
+Vimeo identifier	2474
+Vine user ID	2475
+Virginia Landmarks Register ID	2476
+Vision of Britain place ID	2477
+Vision of Britain unit ID	2478
+Visual Novel Database ID	2479
+Visuotinė lietuvių enciklopedija ID	2480
+Vlinderstichting-ID	2481
+Vokrug sveta article	2482
+Vokrug.tv person ID	2483
+Vote Smart ID	2484
+WALS family code	2485
+WALS lect code	2486
+WBIS ID	2487
+WBPLN author ID	2488
+WCSPF ID	2489
+WDPA ID	2490
+WIPO ST.3	2491
+WMI code	2492
+WOEID	2493
+WWE.com superstar ID	2494
+WWF ecoregion code	2495
+Wall Street Journal topic ID	2496
+Washington Place Names ID	2497
+Watercolour World artist ID	2498
+WeChat ID	2499
+WeRelate person ID	2500
+Web Encyclopedia of Kyiv ID	2501
+Web Gallery of Art ID	2502
+Web umenia creator ID	2503
+Webb-site organization ID	2504
+Webb-site person ID	2505
+WhatDoTheyKnow organisation ID	2506
+Who's Who UK ID	2507
+Who's Who in France biography ID	2508
+Who's on First ID	2509
+WhoSampled artist ID	2510
+Whonamedit? doctor ID	2511
+Wiki Aves bird ID	2512
+Wiki Loves Monuments ID	2513
+WikiArt ID	2514
+WikiSkripta ID	2515
+WikiTree category or space	2516
+WikiTree person ID	2517
+Wikidata SPARQL query equivalent	2518
+Wikidata language code	2519
+Wikimapia ID	2520
+Wikimedia Incubator URL	2521
+Wikimedia portal's main topic	2522
+Wikisource index page URL	2523
+Wikitribune category	2524
+Wild Herps ID	2525
+Wildflowers of Israel ID	2526
+Wine AppDB ID	2527
+WoRMS-ID	2528
+WoRMS-ID for taxa	2529
+Wolfram Language entity code	2530
+Wolfram Language entity type	2531
+Wolfram Language quantity ID	2532
+Wolfram Language unit code	2533
+Women of Scotland subject ID	2534
+WomenWriters ID	2535
+WordLift URL	2536
+WordNet 3.1 Synset ID	2537
+World Encyclopedia of Puppetry Arts ID	2538
+World Flora Online ID	2539
+World Golf Hall of Fame player ID	2540
+World Health Organisation  international non-proprietary name	2541
+World Health Organisation international non-proprietary name numeric ID	2542
+World Heritage Site ID	2543
+World Heritage Tentative List ID	2544
+World History Encyclopedia ID	2545
+World Rugby Hall of Fame ID	2546
+World Sailing member ID	2547
+World Stadium Database identifier	2548
+World of Physics identifier	2549
+WorldCat Identities ID	2550
+WorldCat Registry ID	2551
+WorldFootball.net player ID	2552
+WorldFootball.net team ID	2553
+Worlds Without End author ID	2554
+Wynk artist ID	2555
+XML namespace	2556
+XXI Secolo ID	2557
+Xeno-canto species ID	2558
+Xenopus Anatomical Ontology ID	2559
+YCBA agent ID	2560
+YIVO Encyclopedia of Jews in Eastern Europe ID	2561
+YSA ID	2562
+YSO ID	2563
+Yahoo Answers category	2564
+Yandex Music artist ID	2565
+Yandex Music genre ID	2566
+Yandex Zen ID	2567
+Yelp ID	2568
+YesAsia author ID	2569
+Yle Areena item ID	2570
+Yle topic ID	2571
+ZDB ID	2572
+ZOBODAT person ID	2573
+ZOBODAT taxon ID	2574
+ZVG number	2575
+Zemereshet song ID	2576
+Zhihu topic ID	2577
+Zhihu username	2578
+ZooBank ID for name or act	2579
+ZooBank author ID	2580
+abART person ID	2581
+abgeordnetenwatch.de politician ID	2582
+acgumen của cận điểm	2583
+administrative code of Indonesia	2584
+administrative district of Czech municipality with authorized municipal office ID	2585
+administrative district of Czech municipality with expanded powers ID	2586
+admission rate	2587
+advertises	2588
+aerial view	2589
+aerodrome reference point	2590
+aftershocks	2591
+age estimated by a dating method	2592
+age of candidacy	2593
+age of consent	2594
+age of majority	2595
+aircraft registration prefix	2596
+albedo	2597
+allegiance	2598
+alternative name	2599
+am.hayazg.info ID	2600
+amateur radio callsign	2601
+anatomical location	2602
+ancestral home	2603
+angular diameter	2604
+anh chị em	2605
+announcement date	2606
+annual energy output	2607
+annual number of weddings	2608
+apoapsis	2609
+apparent magnitude	2610
+applies to jurisdiction	2611
+appointed by	2612
+archINFORM keyword ID	2613
+archINFORM location ID	2614
+archINFORM person or group ID	2615
+archINFORM project ID	2616
+archival creator authority record at the Archives nationales	2617
+argument of periapsis	2618
+armament	2619
+armradioarchive.am person ID	2620
+art-name	2621
+artist-info artist ID	2622
+artist-info location ID	2623
+assets under management	2624
+astronomic symbol image	2625
+attendance	2626
+audio	2627
+audio recording of the subject's spoken voice	2628
+author citation (zoology)	2629
+authority	2630
+autonomous system number	2631
+award rationale	2632
+ballots cast	2633
+bao gồm khu dân cư	2634
+base salary	2635
+bashenc.online ID	2636
+basic form of government	2637
+basic reproduction number	2638
+basin country	2639
+bathymetry image	2640
+beats per minute	2641
+bgm.tv character ID	2642
+bgm.tv person ID	2643
+bgm.tv subject ID	2644
+biografiA ID	2645
+biography at the Bundestag of Germany URL	2646
+bite force quotient	2647
+biểu ngữ trang	2648
+biểu thị	2649
+biểu thức chính quy định dạng	2650
+biểu trưng	2651
+biệt danh	2652
+blog chính thức	2653
+board member	2654
+botanist author abbreviation	2655
+broadcast by	2656
+budget	2657
+bug tracking system	2658
+bulk modulus	2659
+bureau du patrimoine de Seine-Saint-Denis ID	2660
+bài chính thể loại	2661
+bài hát chính thức	2662
+bài miêu tả huy hiệu	2663
+bài miêu tả ký hiệu tiền tệ	2664
+bài miêu tả ấn chương	2665
+bán kính	2666
+bán trục lớn	2667
+bí danh	2668
+bí thư ủy ban nhân dân	2669
+bính âm	2670
+bước trong tuyến trình tuyên thánh	2671
+bản mẫu chính của chủ đề	2672
+bản đồ chi tiết	2673
+bản đồ phân bố	2674
+bản đồ đường sá	2675
+bảng số xe	2676
+bảng địa danh	2677
+bầu cử chọn ứng viên	2678
+bắt đầu hoạt động	2679
+call sign	2680
+candidacy in election	2681
+candidate	2682
+canonical SMILES	2683
+canonization status	2684
+cao độ so với mực nước biển	2685
+carbon footprint	2686
+case fatality rate	2687
+catalog code	2688
+catchphrase	2689
+category for eponymous categories	2690
+category for films in this language	2691
+category for films shot at this location	2692
+category for recipients of this award	2693
+category of associated people	2694
+catholic.ru ID	2695
+cause of destruction	2696
+causesanti.va ID	2697
+central bank/issuer	2698
+central government debt as a percent of GDP	2699
+cha	2700
+cha hoặc mẹ nuôi	2701
+charter URL	2702
+checksum	2703
+chi phí	2704
+child astronomical body	2705
+chiều cao	2706
+chiều dài	2707
+chiều dày	2708
+chiều rộng	2709
+chromosome count	2710
+chu vi	2711
+chuyên khoa	2712
+chuyển tự	2713
+chuyển tự McCune–Reischauer	2714
+chuyển đổi thành đơn vị SI	2715
+chuyển đổi thành đơn vị chuẩn	2716
+chuỗi tên tác giả	2717
+chính quyền	2718
+chính quyền tuyên bố chủ quyền	2719
+chú thích tác giả (động vật học)	2720
+chất liệu	2721
+chế độ chính phủ	2722
+chủ làm việc	2723
+chủ sở hữu	2724
+chủ thể là	2725
+chủ tịch	2726
+chủ đề	2727
+chủ đề chính	2728
+chủ đề chính của bản mẫu	2729
+chứa	2730
+chức danh người đứng đầu đất nước	2731
+chức vụ	2732
+chức vụ lãnh đạo	2733
+chức vụ được bầu	2734
+chức vụ đứng đầu chính quyền	2735
+chữ ký	2736
+cinematografo.it name or company ID	2737
+clock frequency	2738
+coastline	2739
+coat of arms	2740
+coat of arms image	2741
+code	2742
+code (image)	2743
+coextensive with	2744
+collection or exhibition size	2745
+commanded by	2746
+commander of (DEPRECATED)	2747
+commemorates	2748
+commemorative plaque image	2749
+commissioned by	2750
+compArt institution ID	2751
+compressive modulus of elasticity	2752
+compulsory education (maximum age)	2753
+compulsory education (minimum age)	2754
+con cái	2755
+conflict	2756
+conifers.org ID	2757
+consecrator	2758
+consumption rate	2759
+consumption rate per capita	2760
+contains	2761
+contains settlement	2762
+contributing factor of	2763
+conversion to standard unit	2764
+convicted of	2765
+coordinates of geographic center	2766
+copyright holder	2767
+copyright representative	2768
+cost	2769
+cost of damage	2770
+country for sport	2771
+courtesy name	2772
+cryptocurrency symbol	2773
+ctext data entity ID	2774
+currency symbol description	2775
+cuộc xung đột	2776
+các phân cấp hành chính	2777
+các ấn bản	2778
+cách dùng	2779
+cách phát âm (đoạn âm thanh)	2780
+câu ghi	2781
+có cách ngữ pháp	2782
+có giống ngữ pháp	2783
+có lưu trữ tại	2784
+có phần của lớp	2785
+có trong danh sách chú trọng của dự án Wikimedia	2786
+có tác phẩm trong bộ sưu tập	2787
+công chúng hướng đến	2788
+công thức hóa học	2789
+công thức định nghĩa	2790
+cơ quan hành pháp	2791
+cơ quan kiểm soát ngôn ngữ	2792
+cơ quan lập pháp	2793
+cơ sở pháp lý	2794
+cấp sao biểu kiến	2795
+cấu trúc hóa học	2796
+cầu thủ của đội thể thao	2797
+cận điểm	2798
+cửa sông	2799
+danh hiệu quý tộc	2800
+danh sách	2801
+danh sách về	2802
+danskfilmogtv person ID	2803
+dantai code	2804
+data size	2805
+data.gouv.fr organisation ID	2806
+databaseOlympics.com athlete ID (archived)	2807
+date of baptism in early childhood	2808
+date of burial or cremation	2809
+date of first performance	2810
+date of official closure	2811
+day in year for periodic occurrence	2812
+declination	2813
+decomposition point	2814
+defined daily dose	2815
+demographics of topic	2816
+depicted by	2817
+depicts Iconclass notation	2818
+depositary	2819
+destroyed	2820
+detail map	2821
+dialect of	2822
+digilibLT author ID	2823
+diocese	2824
+directions	2825
+discharge	2826
+discontinued date	2827
+disease burden	2828
+distance from Earth	2829
+distribution map	2830
+diện tích	2831
+diện tích lưu vực	2832
+dmoz	2833
+document file on Wikimedia Commons	2834
+does not have part	2835
+domain of saint or deity	2836
+donations	2837
+doujinshi.org author ID	2838
+drug or therapy used for treatment	2839
+dummy value	2840
+dynamic viscosity	2841
+dân số	2842
+dân tộc	2843
+dãy núi	2844
+dòng cuối cùng	2845
+dòng tu	2846
+dòng đầu tiên	2847
+dạng giống cái của nhãn	2848
+dạng giống đực của nhãn	2849
+dạng luật pháp	2850
+dạng phân loại	2851
+dẫn đến	2852
+dữ liệu bên ngoài có sẵn tại	2853
+e-GOV law ID	2854
+e-Maapõu stratigraphy ID	2855
+e-WV: The West Virginia Encyclopedia ID	2856
+e-archiv.li ID	2857
+eBiodiversity ID	2858
+eBird hotspot ID	2859
+eBird taxon ID	2860
+eMedicine ID	2861
+eWRC-results.com racer ID	2862
+earthquake magnitude on the Richter magnitude scale	2863
+earthquake magnitude on the moment magnitude scale	2864
+economy of topic	2865
+edition humboldt digital Flora ID	2866
+edition humboldt digital ID	2867
+edition number	2868
+educational stage	2869
+effective date	2870
+effective temperature	2871
+egg incubation period	2872
+elCinema person ID	2873
+elFilm person ID	2874
+elector	2875
+electorate	2876
+electronegativity	2877
+electronic Essential Medicines List medicine ID	2878
+element symbol	2879
+elibrary.ru organisation ID	2880
+eligible voters	2881
+emergency phone number	2882
+emissivity	2883
+enacted date	2884
+enclave within	2885
+endangeredlanguages.com ID	2886
+endowment	2887
+entry in abbreviations table	2888
+equivalent class	2889
+era name	2890
+escutcheon image	2891
+eska.pl topic ID	2892
+ex-libris	2893
+exact match	2894
+exclave of	2895
+executive body	2896
+external data available at	2897
+family	2898
+fax number	2899
+feast day	2900
+fee	2901
+female form of label	2902
+female population	2903
+fernsehserien.de ID	2904
+field of work	2905
+fiscal/tax revenue	2906
+flattening	2907
+fleet or registration number	2908
+floors above ground	2909
+floors below ground	2910
+floruit	2911
+food energy	2912
+foods traditionally associated	2913
+foreign direct investment net inflow	2914
+foreign direct investment net outflow	2915
+form of creative work	2916
+found in taxon	2917
+foundational text	2918
+free/libre open source software development policy URL	2919
+ft.dk politician identifier	2920
+game artist	2921
+genealogics.org person ID	2922
+geography of topic	2923
+gesetze-im-internet.de ID	2924
+gestation period	2925
+giá	2926
+giá trị số	2927
+giá trị vốn hóa thị trường	2928
+giáo phận	2929
+giải thưởng	2930
+giấy phép	2931
+giới tính	2932
+gravsted.dk ID	2933
+ground level 360 degree view	2934
+grwar.ru person ID	2935
+gồm các phần	2936
+has boundary	2937
+has contributing factor	2938
+has facility	2939
+has grammatical case	2940
+has grammatical gender	2941
+has immediate cause	2942
+has seal, badge, or sigil	2943
+has works in the collection	2944
+has written for	2945
+health specialty	2946
+heart rate	2947
+highest judicial authority	2948
+highest observed lifespan	2949
+historic county	2950
+historical region	2951
+history of topic	2952
+hitparade.ch artist ID	2953
+hiến chương	2954
+honorific prefix	2955
+honorific suffix	2956
+house publication	2957
+hydraulic head	2958
+hydrological order number	2959
+hãng sản xuất	2960
+hãng đĩa ghi âm	2961
+hình bản đồ phân bố loài	2962
+hình bản đồ định vị	2963
+hình cầu dẹt	2964
+hình dạng địa lý	2965
+hình huy hiệu	2966
+hình lá cờ	2967
+hình lối vào	2968
+hình thái chết	2969
+hình tượng	2970
+hình ảnh	2971
+hình ảnh nội thất	2972
+hình ảnh sơ đồ	2973
+hình ấn chương	2974
+hướng dẫn sử dụng Wikidata	2975
+hệ thống chữ viết	2976
+hệ thống quản lý gói	2977
+hệ điều hành	2978
+họ	2979
+họ hàng	2980
+học về	2981
+học vị	2982
+hồ trên sông	2983
+iDAI.gazetteer ID	2984
+iNaturalist place ID	2985
+iNaturalist taxon ID	2986
+iPatrimônio ID	2987
+iconographic symbol	2988
+illiterate population	2989
+image of design plans	2990
+image of entrance	2991
+image of interior	2992
+image with frame	2993
+immediate cause of	2994
+immediately dangerous to life or health	2995
+in defining formula	2996
+in lần thứ	2997
+incidence	2998
+indigenous to	2999
+individual tax rate	3000
+inflation rate	3001
+inflows	3002
+influenced by	3003
+inscription	3004
+inspired by	3005
+installed capacity	3006
+intended public	3007
+interested in	3008
+internetmedicin.se ID	3009
+introduced on	3010
+inventory number	3011
+is metaclass for	3012
+isomeric SMILES	3013
+jog.fm artist ID	3014
+key col	3015
+khai mạc bởi	3016
+kho mã nguồn	3017
+khoản mục mẫu	3018
+khoảng cách từ Trái Đất	3019
+khu vực hoạt động	3020
+khác với	3021
+khách thăm hàng năm	3022
+khía cạnh của	3023
+không gồm các phần	3024
+khẩu hiệu	3025
+khối lượng	3026
+kinematic viscosity	3027
+kinh độ của điểm nút lên	3028
+kino-teatr.ru person ID	3029
+kiểu phương tiện	3030
+kulturnoe-nasledie.ru ID	3031
+kênh IRC	3032
+kích thuớc dữ liệu	3033
+ký bởi	3034
+ký hiệu chứng khoán	3035
+ký hiệu nguyên tố	3036
+ký hiệu số lượng	3037
+ký hiệu thiên văn học	3038
+ký hiệu đơn vị	3039
+ký tự Unicode	3040
+label in sign language	3041
+lake on river	3042
+lake outflow	3043
+language regulatory body	3044
+language used	3045
+legal citation of this text	3046
+legal form	3047
+legislation.gov.uk ID	3048
+legislative body	3049
+lib.reviews ID	3050
+licence plate code	3051
+lifestyle	3052
+linguistic typology	3053
+literacy rate	3054
+literate population	3055
+litter size	3056
+liên minh chính trị	3057
+local dialing code	3058
+locality number in Austria	3059
+located in present-day administrative territorial entity	3060
+located in protected area	3061
+located in the statistical territorial entity	3062
+located in/on physical feature	3063
+location map	3064
+location of creation	3065
+location of first performance	3066
+location of landing	3067
+locator map image	3068
+longitude of ascending node	3069
+lowest atmospheric pressure	3070
+loại giọng	3071
+loạt	3072
+lunar coordinates	3073
+lyrics by	3074
+là một	3075
+là tập hợp con của	3076
+là ấn bản hoặc bản dịch của	3077
+lá cờ	3078
+lái xe bên	3079
+lãnh thổ bên ngoài của	3080
+lãnh thổ nội địa ở trong	3081
+lãnh thổ trùng với	3082
+lĩnh vực làm việc	3083
+lưu lượng	3084
+lưu trữ danh sách thư	3085
+lượt theo dõi trên phương tiện truyền thông xã hội	3086
+lần đầu tiên xuất hiện trong chữ viết	3087
+lễ bổn mạng	3088
+lịch sử của đề tài	3089
+lịch sử thời tiết	3090
+lối sống	3091
+lớp ngôi sao	3092
+lớp tương đương	3093
+lời hấp hối	3094
+lục địa	3095
+magnetic moment	3096
+mailing list archive	3097
+main regulatory text	3098
+mains voltage	3099
+maintained by WikiProject	3100
+male form of label	3101
+male population	3102
+mang đặc tính	3103
+manifestation of	3104
+manufacturer	3105
+maritime identification digits	3106
+marriageable age	3107
+married name	3108
+mascot	3109
+maximal incubation period in humans	3110
+maximum Strahler number	3111
+maximum capacity	3112
+maximum frequency of audible sound	3113
+maximum number of players	3114
+maximum operating altitude	3115
+maximum sustained winds	3116
+maximum temperature record	3117
+mean age	3118
+mean anomaly	3119
+media type	3120
+median income	3121
+median lethal dose (LD50)	3122
+medical condition	3123
+medical examinations	3124
+member category	3125
+member of the Portuguese parliament ID	3126
+memory capacity	3127
+merged into	3128
+metallicity	3129
+military branch	3130
+minimal incubation period in humans	3131
+minimum age	3132
+minimum frequency of audible sound	3133
+minimum number of players	3134
+minimum temperature record	3135
+minimum wage	3136
+miêu tả trong	3137
+mobile country code	3138
+mobile network code	3139
+molar enthalpy of vaporization	3140
+molecular model or crystal lattice model	3141
+monogram	3142
+monumenta.ch ID	3143
+mountain range	3144
+movement	3145
+museum-digital place ID	3146
+musica.com artist ID	3147
+muzzle velocity	3148
+màu sắc	3149
+màu sắc (thập lục phân)	3150
+màu tóc	3151
+mã ATC	3152
+mã Ethnologue.com	3153
+mã FANTOIR	3154
+mã GOST 7.75–97	3155
+mã ISO 15924 alpha-4	3156
+mã ISO 4217	3157
+mã ISO 639-5	3158
+mã KSH	3159
+mã MeSH	3160
+mã NUTS	3161
+mã bưu chính	3162
+mã chỉ định hãng hàng không IATA	3163
+mã chỉ định hãng hàng không ICAO	3164
+mã khu tự quản CBS	3165
+mã khu tự quản INSEE	3166
+mã mạng di động	3167
+mã mạng di động quốc gia	3168
+mã nghề nghiệp ISCO	3169
+mã nghề nghiệp ROME (v3)	3170
+mã ngôn ngữ IETF	3171
+mã ngôn ngữ Wikimedia	3172
+mã phân cấp hành chính Trung Quốc	3173
+mã quốc gia (ISO 3166-1 alpha-2)	3174
+mã quốc gia (ISO 3166-1 alpha-3)	3175
+mã quốc gia (số ISO 3166-1)	3176
+mã quốc gia IOC	3177
+mã sân bay FAA	3178
+mã sân bay IATA	3179
+mã sân bay ICAO	3180
+mã số	3181
+mã số AAT	3182
+mã số Bảng phân loại chương trình giáo dục đại học	3183
+mã số GND	3184
+mã số ISO 15924	3185
+mã số Iconclass	3186
+mã số Iconclass của đồ được vẽ	3187
+mã số NSSDC	3188
+mã số PSH	3189
+mã số VIAF	3190
+mã số danh mục	3191
+mã số hạt Thụy Điển	3192
+mã số khu vực MusicBrainz	3193
+mã số nghề nghiệp SOC (2010)	3194
+mã số phân loại NCBI	3195
+mã số thập lục phân Unicode	3196
+mã số Đại bách khoa toàn thư Aragon	3197
+mã số điện thoại quốc tế	3198
+mã số đô thị Thụy Điển	3199
+mã đoàn thể	3200
+mã đô thị INE	3201
+mã địa chính Ý	3202
+mã định danh Mérimée	3203
+món ăn truyền thống	3204
+mô hình 3D	3205
+mô tả	3206
+mômen từ	3207
+môn học	3208
+môn học của chuyên ngành	3209
+môn thể thao	3210
+múi giờ	3211
+mật độ	3212
+mẹ	3213
+một phần của	3214
+mục tiêu	3215
+mức thu phóng OpenStreetMap	3216
+nLab ID	3217
+narrative location	3218
+narrower external class	3219
+natural abundance	3220
+net profit	3221
+net worth	3222
+nghề nghiệp	3223
+nguyên nhân	3224
+nguyên nhân chết	3225
+nguyên nhân phá hủy	3226
+nguyên thủ quốc gia	3227
+ngành kinh doanh	3228
+ngày bắt đầu	3229
+ngày bắt đầu phục vụ	3230
+ngày có hiệu lực	3231
+ngày công bố	3232
+ngày giải thể hoặc phá hủy	3233
+ngày khám phá	3234
+ngày kết thúc	3235
+ngày làm lễ rửa tội	3236
+ngày lễ công cộng	3237
+ngày mất	3238
+ngày mở cửa	3239
+ngày phóng tàu vũ trụ	3240
+ngày sinh	3241
+ngày sớm nhất	3242
+ngày thành lập hoặc  tạo ra	3243
+ngày trong năm của chu kỳ xảy ra	3244
+ngày trong tuần	3245
+ngày xuất bản/phát hành	3246
+ngày đóng cửa / bế mạc	3247
+ngân hàng trung ương	3248
+ngân hàng trung ương/cơ quan phát hành tiền	3249
+ngôn ngữ chính thức	3250
+ngôn ngữ của tên gọi hoặc tác phẩm	3251
+ngôn ngữ lập trình	3252
+ngôn ngữ mẹ đẻ	3253
+ngôn ngữ viết	3254
+người biểu diễn	3255
+người giết	3256
+người giữ chức vụ	3257
+người phối ngẫu	3258
+người quản lý/giám đốc	3259
+người soạn nhạc	3260
+người sáng lập	3261
+người tham gia	3262
+người thiết kế	3263
+người thắng cuộc	3264
+người tình	3265
+người đặt làm	3266
+người đỡ đầu	3267
+người đứng đầu chính quyền	3268
+ngừng hoạt động	3269
+nhiệt dung	3270
+nhiệt độ	3271
+nhiệt độ bay hơi	3272
+nhiệt độ nóng chảy	3273
+nhà	3274
+nhà phát triển	3275
+nhà phân phối	3276
+nhà quản lý	3277
+nhà xuất bản	3278
+nhân vật	3279
+nhân vật quan trọng	3280
+nhãn bản ngữ	3281
+nhãn trong ngôn ngữ ký hiệu	3282
+nhãn tại Stack Exchange	3283
+nhạc cụ	3284
+nhận các phương thức thanh toán	3285
+noble title	3286
+nominal GDP	3287
+nominal GDP per capita	3288
+nominated by	3289
+nominated for	3290
+number of abstentions	3291
+number of arrests	3292
+number of branches	3293
+number of cases	3294
+number of casualties	3295
+number of constituencies	3296
+number of decimal digits	3297
+number of evacuated	3298
+number of hospital beds	3299
+number of households	3300
+number of houses	3301
+number of matches played/races/starts	3302
+number of missing	3303
+number of out-of-school children	3304
+number of perpetrators	3305
+number of points/goals/set scored	3306
+number of polling stations	3307
+number of processor cores	3308
+number of recoveries	3309
+number of rooms	3310
+number of seats	3311
+number of seats in legislature	3312
+number of spoilt votes	3313
+number of viewers/listeners	3314
+number of volunteers	3315
+nói, viết hoặc ký bằng các ngôn ngữ	3316
+nơi chôn cất	3317
+nơi công tác	3318
+nơi cư trú	3319
+nơi cư trú chính thức	3320
+nơi khám phá	3321
+nơi mất	3322
+nơi sinh	3323
+nơi xuất bản	3324
+nằm trong phạm vi của khu vực hành chính	3325
+nằm trên hoặc ven bờ	3326
+nền tảng	3327
+nội dung khẩu hiệu	3328
+nội dung thể loại	3329
+occupant	3330
+office contested	3331
+office held by head of government	3332
+office held by head of state	3333
+office held by head of the organization	3334
+official color	3335
+official map URL	3336
+official number of town quarter	3337
+official religion	3338
+official residence	3339
+official symbol	3340
+officially opened by	3341
+old-computers.com ID	3342
+on focus list of Wikimedia project	3343
+online catalog	3344
+openMLOL author ID	3345
+operating area	3346
+operating income	3347
+orbital eccentricity	3348
+orbital inclination	3349
+orbital period	3350
+orbits completed	3351
+organization directed by the office or position	3352
+ortsnamen.ch ID	3353
+oxidation state	3354
+pH value	3355
+package management system	3356
+page at Belarus Globe website	3357
+page at website of Belarus Geocenter	3358
+panoramic view	3359
+parallax	3360
+parent peak	3361
+parent taxon	3362
+parliament.uk biography pages	3363
+partially coincident with	3364
+participant	3365
+participant in	3366
+participating team	3367
+partnership with	3368
+party chief representative	3369
+patron saint	3370
+patronage	3371
+payment types accepted	3372
+peak bagging classification	3373
+peakware mountain ID	3374
+periapsis	3375
+perimeter	3376
+period of lactation	3377
+perpetrator	3378
+phiên bản ổn định	3379
+phiên âm quốc tế	3380
+phong cách kiến trúc	3381
+phong trào	3382
+photosphere image	3383
+physically interacts with	3384
+phí tham quan	3385
+phương tiện phân phối	3386
+phạm nhân	3387
+phần kế trước của	3388
+phần mở rộng tập tin	3389
+phần tiếp theo của	3390
+phỏng theo	3391
+phụ lưu	3392
+phụ đề	3393
+pinyin transliteration	3394
+playing range image	3395
+political alignment	3396
+political coalition	3397
+port	3398
+position angle	3399
+position played on team / speciality	3400
+possible treatment	3401
+post town	3402
+posthumous name	3403
+poverty incidence	3404
+power consumed	3405
+present in work	3406
+prevalence	3407
+privacy policy URL	3408
+prize money	3409
+production statistics	3410
+professorship	3411
+proper motion	3412
+public domain date	3413
+public holiday	3414
+public key fingerprint	3415
+publication interval	3416
+quan hệ ngoại giao	3417
+quan tâm	3418
+quy mô bộ sưu tập	3419
+quân chủng	3420
+quân hàm	3421
+quê hương	3422
+quốc gia	3423
+quốc gia trong lưu vực	3424
+quốc gia xuất xứ	3425
+quốc tịch	3426
+radial velocity	3427
+railway traffic side	3428
+ranking	3429
+ratified by	3430
+real GDP growth rate	3431
+refractive index	3432
+related category	3433
+related image	3434
+relief location map	3435
+religious order	3436
+represents	3437
+residence time of water	3438
+retirement age	3439
+review score	3440
+right ascension	3441
+right to vote	3442
+risk factor	3443
+romanization of Belarusian (2007 system)	3444
+rotation period	3445
+route map	3446
+route number	3447
+runway	3448
+rural population	3449
+sRGB color hex triplet	3450
+salinity	3451
+schematic	3452
+seal image	3453
+search formatter URL	3454
+secretary general	3455
+sectional view	3456
+semi-major axis of an orbit	3457
+senat.fr ID	3458
+senato.archivioluce.it person ID	3459
+separated from	3460
+sequenced genome URL	3461
+service entry	3462
+service ribbon image	3463
+service status information URL	3464
+setlist.fm artist ID	3465
+setlist.fm venue ID	3466
+sexual orientation	3467
+sheet music	3468
+signatory	3469
+significant person	3470
+size comparison diagram	3471
+slope	3472
+small logo or icon	3473
+snap package	3474
+social media followers	3475
+solubility	3476
+source code repository	3477
+spectral class	3478
+speed limit	3479
+speedrun.com game ID	3480
+spoken text audio	3481
+sponsor	3482
+sport number	3483
+standard enthalpy of formation	3484
+standard molar entropy	3485
+standards body	3486
+startrek.com Database ID	3487
+stellar rotational velocity	3488
+stepparent	3489
+streaming media URL	3490
+street address	3491
+student register of the University of Helsinki ID (1853–1899)	3492
+students count	3493
+subreddit	3494
+substitute/deputy/replacement of office/officeholder	3495
+successful candidate	3496
+suicide rate	3497
+superfamicom.org URL	3498
+supported sports team	3499
+surface gravity	3500
+symptoms and signs	3501
+synodic period	3502
+sáng tác	3503
+sơ đồ	3504
+sải cánh	3505
+sản xuất	3506
+số BARTOC	3507
+số Charity Navigator	3508
+số E	3509
+số GNIS tại châu Nam Cực	3510
+số ISTAT	3511
+số Open Library	3512
+số RTECS	3513
+số ULAN	3514
+số ca nhiễm	3515
+số ca phục hồi	3516
+số con	3517
+số fax	3518
+số ghế	3519
+số hạt Đức	3520
+số kiểm kê	3521
+số kiểm soát OCLC	3522
+số kiểm soát Thư viện Quốc gia Pháp	3523
+số kiểm soát Thư viện Vatican	3524
+số kiểm soát của Thư viện Quốc hội Mỹ	3525
+số lượng	3526
+số lượng người xem/người nghe	3527
+số lượng tham gia	3528
+số lầu hầm	3529
+số mộ Find A Grave	3530
+số nghĩa trang Find A Grave	3531
+số nguyên tử	3532
+số người bị bắt giữ	3533
+số người bị thương	3534
+số người dùng Twitter	3535
+số người nói	3536
+số người tử vong	3537
+số nhân viên	3538
+số phân loại Dewey	3539
+số phạm nhân	3540
+số phần của tác phẩm	3541
+số quan hệ OpenHistoricalMap	3542
+số quan hệ OpenStreetMap	3543
+số sinh viên/học sinh	3544
+số thang máy	3545
+số thành viên	3546
+số thứ tự trong chuỗi	3547
+số trẻ em không được đến trường	3548
+số tuyến	3549
+số tầng trên mặt đất	3550
+số vùng điện thoại	3551
+số điện thoại	3552
+số điện thoại khẩn cấp	3553
+số đô thị Đức	3554
+số đăng ký CAS	3555
+số định danh Thư viện Quốc hội Nhật Bản	3556
+số định danh cá nhân Anime News Network	3557
+số Ủy ban châu Âu	3558
+sống vào khoảng	3559
+sở giao dịch chứng khoán	3560
+sở hữu	3561
+sức chứa tối đa	3562
+sử dụng	3563
+sử dụng ngôn ngữ	3564
+sự kiện quan trọng	3565
+tabular population	3566
+target interest rate	3567
+taxon author citation	3568
+taxon found at location	3569
+taxonomic type	3570
+template has topic	3571
+tensile modulus of elasticity	3572
+term length of office	3573
+terms of service URL	3574
+territory claimed by	3575
+territory overlaps	3576
+tham gia	3577
+thay thế cho	3578
+thermal conductivity	3579
+thermal diffusivity	3580
+thiên hướng chính trị	3581
+thiên hướng tình dục	3582
+thiên thể con	3583
+thuộc quyền tài phán	3584
+thành phố kết nghĩa	3585
+thành viên của	3586
+thánh quan thầy	3587
+thân từ	3588
+thần của	3589
+thẻ băm	3590
+thẻ hoặc chìa khóa OpenStreetMap	3591
+thể loại cho nhóm người	3592
+thể loại chính của đề tài	3593
+thể loại các thành viên	3594
+thể loại dành cho người nhận giải	3595
+thể loại kết hợp các chủ đề	3596
+thể loại nghệ thuật	3597
+thể loại ở Commons	3598
+thể tích	3599
+thời gian giữa các số	3600
+thời kỳ	3601
+thời điểm	3602
+thụy hiệu	3603
+thủ đô / thủ phủ / tỉnh lỵ / quận lỵ	3604
+thủ đô / thủ phủ / tỉnh lỵ / quận lỵ của	3605
+thứ hạng kề dưới	3606
+thứ nguyên	3607
+thực hành bởi	3608
+time of earliest written record	3609
+time of spacecraft landing	3610
+time period	3611
+time-weighted average exposure limit	3612
+tiêu biểu cho	3613
+tiêu chuẩn ISO	3614
+tiêu đề	3615
+tiếp giáp với	3616
+tiền tố liên wiki tại Wikimedia	3617
+tiền tố định tuyến IPv4	3618
+tiền tố định tuyến IPv6	3619
+topic's main Wikimedia portal	3620
+topic's main template	3621
+topographic isolation	3622
+topographic prominence	3623
+total equity	3624
+total expenditure	3625
+total exports	3626
+total fertility rate	3627
+total liabilities	3628
+total produced	3629
+total reserves	3630
+total revenue	3631
+total valid votes	3632
+trade union membership rate	3633
+trading name	3634
+trang	3635
+trang Commons Creator	3636
+trang báo cáo lỗi	3637
+trang chủ chính thức	3638
+trang mục lục tại Wikisource	3639
+transliteration	3640
+tributary	3641
+trunk prefix	3642
+trái nghĩa với	3643
+trùng khớp chính xác	3644
+trùng với	3645
+trường học	3646
+trạng thái ôxy hóa	3647
+tuition fee	3648
+tuổi kết hôn	3649
+tuổi thành niên	3650
+tuổi thọ trung bình	3651
+tuổi tối thiểu	3652
+twin town sign	3653
+tài sản	3654
+tác giả	3655
+tác phẩm chính	3656
+tác phẩm phái sinh	3657
+tên bản ngữ	3658
+tên chính thức	3659
+tên chữ	3660
+tên gọi	3661
+tên gọi dân cư	3662
+tên gọi khác	3663
+tên hiệu	3664
+tên khai sinh	3665
+tên miền cấp cao nhất	3666
+tên người dùng GitHub	3667
+tên người dùng Instagram	3668
+tên người dùng Medium	3669
+tên người dùng Pinterest	3670
+tên người dùng Snapchat	3671
+tên người dùng Telegram	3672
+tên người dùng TikTok	3673
+tên người dùng Twitter	3674
+tên người dùng Vimeo	3675
+tên người dùng Wikimedia	3676
+tên ngắn	3677
+tên nhà thực vật học viết tắt	3678
+tên phân loại	3679
+tên phổ thông	3680
+tên riêng	3681
+tên tôn giáo	3682
+tên viết theo kana	3683
+tìm kiếm định dạng URL	3684
+tình trạng bản quyền	3685
+tình trạng sức khỏe	3686
+tín hiệu gọi	3687
+tòa án tối cao	3688
+tôn giáo	3689
+tôn giáo chính thức	3690
+tư tưởng chính trị	3691
+tương tác vật lý với	3692
+tần số xảy ra	3693
+tập hình Commons	3694
+tập tin quét trên Wikimedia Commons	3695
+tọa lạc trong hoặc bên cạnh khu vực mặt nước	3696
+tọa độ	3697
+tốc độ	3698
+tốc độ gió duy trì tối đa	3699
+tốc độ tối đa	3700
+tổ chức bởi	3701
+tổ chức con	3702
+tổ chức mẹ	3703
+tổng bí thư	3704
+tổng doanh thu	3705
+tổng dự trữ	3706
+tổng giám đốc điều hành	3707
+tổng tài sản	3708
+tỷ lệ biết đọc biết viết	3709
+tỷ lệ lạm phát	3710
+tỷ lệ sinh	3711
+tỷ lệ thất nghiệp	3712
+tỷ lệ tự tử	3713
+uBio ID	3714
+ultimate tensile strength	3715
+unemployment rate	3716
+unit symbol	3717
+units sold	3718
+unmarried partner	3719
+update method	3720
+urban population	3721
+user manual URL	3722
+uses capitalization for	3723
+vehicle normally used	3724
+vehicles per thousand people	3725
+vertical depth	3726
+vglist video game ID	3727
+vici.org ID	3728
+video	3729
+view	3730
+village code of Indonesia	3731
+visitors per year	3732
+viễn điểm	3733
+vocalized name	3734
+voice type	3735
+voltage	3736
+văn hóa	3737
+vận tốc âm thanh	3738
+vị trí	3739
+vị trí thành lập	3740
+vị trí trong đội	3741
+vị trí trụ sở	3742
+warheroes.ru ID	3743
+water area	3744
+water as percent of area	3745
+weather history	3746
+webcam page URL	3747
+wingspan	3748
+winter view	3749
+word in DPEJ of RAE ID	3750
+word stem	3751
+work period (end)	3752
+working title	3753
+worshipped by	3754
+wurvoc.org measure ID	3755
+xem ban đêm	3756
+xuất bản trong	3757
+xuất hiện trong tác phẩm	3758
+xếp hạng di sản	3759
+zbMATH author ID	3760
+À nos grands hommes ID	3761
+Ávvir topic ID	3762
+ÖCV Biolex ID	3763
+Ökumenisches Heiligenlexikon ID	3764
+Österreichisches Musiklexikon Online ID	3765
+áp suất hơi	3766
+áp suất khí quyển thấp nhất	3767
+âm thanh	3768
+ČSFD person ID	3769
+Česká divadelní encyklopedie ID	3770
+Český hudební slovník osob a institucí ID	3771
+điểm cao nhất	3772
+điểm cuối API	3773
+điểm cực bắc	3774
+điểm cực nam	3775
+điểm cực tây	3776
+điểm cực đông	3777
+điểm phê bình	3778
+điểm sâu nhất	3779
+điện thế dân dụng	3780
+đã viết bài cho	3781
+đơn vị phân loại mẹ	3782
+đơn vị tiền tệ	3783
+đường băng	3784
+đường kính	3785
+được bổ nhiệm bởi	3786
+được coi là đồng nghĩa với	3787
+được phát hiện bởi	3788
+được phê chuẩn bởi	3789
+được thay thế bởi	3790
+được trao bởi	3791
+được tách ra khỏi	3792
+được đặt tên theo	3793
+đại lượng vật lý được đo	3794
+đảng viên của đảng chính trị	3795
+đề tài chính của trang chủ đề	3796
+địa chỉ Mastodon	3797
+địa chỉ thư điện tử	3798
+địa chỉ đầy đủ	3799
+định danh ChEBI	3800
+định danh ChEMBL	3801
+định danh ChemSpider	3802
+định danh Dyntaxa	3803
+định danh Dịch vụ Thư viện Quốc gia Ý	3804
+định danh Emporis	3805
+định danh Encyclopædia Britannica trực tuyến	3806
+định danh Flags of the World	3807
+định danh Foursquare	3808
+định danh Freebase	3809
+định danh GBIF	3810
+định danh GNIS	3811
+định danh GO	3812
+định danh GRID	3813
+định danh GeoNames	3814
+định danh Google+	3815
+định danh HURDAT	3816
+định danh IMDb	3817
+định danh IPEDS	3818
+định danh ISIL	3819
+định danh KOATUU	3820
+định danh Mapillary	3821
+định danh NKC	3822
+định danh OKATO	3823
+định danh PagesJaunes	3824
+định danh PubChem	3825
+định danh Structurae (cấu trúc)	3826
+định danh Thư viện Quốc gia Bồ Đào Nha	3827
+định danh Thư viện Quốc gia Israel	3828
+định danh Thư viện Quốc gia Tây Ban Nha	3829
+định danh Thư viện Quốc gia Úc	3830
+định danh TripAdvisor	3831
+định danh Visual Novel Database	3832
+định danh Yelp	3833
+định danh chủ đề ABC News	3834
+định danh chủ đề JSTOR	3835
+định danh chủ đề New York Times	3836
+định danh chủ đề Quora	3837
+định danh chủ đề TED	3838
+định danh công ty LinkedIn	3839
+định danh danh sách phát YouTube	3840
+định danh danh tính WorldCat	3841
+định danh hồ sơ cá nhân LinkedIn	3842
+định danh kênh YouTube	3843
+định danh name-suggestion-index	3844
+định danh nghệ sĩ Discogs	3845
+định danh nghệ sĩ MusicBrainz	3846
+định danh người diễn thuyết TED	3847
+định danh người dùng Flickr	3848
+định danh trang File Format Wiki	3849
+định danh tòa nhà SkyscraperPage	3850
+định danh video YouTube	3851
+định danh đơn vị QUDT	3852
+định danh đối tượng duy nhất GNS	3853
+định danh ứng dụng Steam	3854
+định dạng MathWorld	3855
+độ bất thường trung bình	3856
+độ cứng Mohs	3857
+độ dài thời gian	3858
+độ dẫn nhiệt	3859
+độ dẫn điện	3860
+độ lệch tâm quỹ đạo	3861
+độ nghiêng quỹ đạo	3862
+độ âm điện	3863
+đội tham gia	3864
+กรรมการผู้จัดการ	3865
+กลุ่มย่อยของ	3866
+การจัดหมู่ระบบทศนิยมดิวอี้	3867
+การจัดอันดับ	3868
+การถอดเสียงเป็นสัทอักษรสากล	3869
+การนำไปใช้	3870
+การละลาย	3871
+การแปลงเป็นหน่วยฐานเอสไอ	3872
+กีฬา	3873
+ก่อนหน้า	3874
+ขนาดพื้นที่	3875
+คติพจน์	3876
+ความกว้าง	3877
+ความดันไอ	3878
+ความถี่ของเหตุการณ์	3879
+ความนำไฟฟ้า	3880
+ความยาว	3881
+ความร้อนจำเพาะ	3882
+ความสัมพันธ์ทางการทูต	3883
+ความสูง	3884
+ความสูงเหนือระดับน้ำทะเล	3885
+ความหนา	3886
+ความหนาแน่น	3887
+ความหมายของคำจากโอเมก้าวิกิ	3888
+ความเป็นโลหะ	3889
+ความเร็วสัญญาณนาฬิกา	3890
+คำขวัญ	3891
+คำพูดสุดท้าย	3892
+คำแนะนำวิธีใช้งานในวิกิสนเทศ	3893
+คู่สมรส	3894
+ค่าตัวเลข	3895
+ค่ายเพลง	3896
+ค่าใช้จ่ายรวม	3897
+งานฉบับเต็มอยู่ที่	3898
+งานสืบเนื่อง	3899
+จดหมายเหตุอยู่ที่	3900
+จำนวนครัวเรือน	3901
+จำนวนบุตร	3902
+จำนวนผลงานทั้งหมด	3903
+จำนวนผู้บาดเจ็บ	3904
+จำนวนผู้พูด	3905
+จำนวนผู้เข้าร่วม	3906
+จำนวนผู้เล่นน้อยสุด	3907
+จำนวนผู้เล่นมากสุด	3908
+จำนวนผู้เสียชีวิต	3909
+จำนวนพนักงาน	3910
+จำนวนลิฟต์	3911
+จำนวนสมาชิก	3912
+จำนวนเตียง	3913
+จำนวนแกนประมวลผล	3914
+จุดลึกสุด	3915
+จุดสูงสุด	3916
+จุดหลอมเหลว	3917
+จุดเดือด	3918
+ชนิดของการเสียชีวิต	3919
+ชื่อ	3920
+ชื่อตามท้องถิ่น	3921
+ชื่อต้น	3922
+ชื่อทางการ	3923
+ชื่อทางศาสนา	3924
+ชื่อผู้สร้างสรรค์	3925
+ชื่อผู้ใช้วิกิมีเดีย	3926
+ชื่อย่อหลักทรัพย์	3927
+ชื่อวิทยาศาสตร์	3928
+ชื่อสั้น	3929
+ชื่อสามัญ	3930
+ชื่อเกิด	3931
+ชื่อเรียกประชาชน	3932
+ชื่อเรื่อง	3933
+ชื่อเรื่องรอง	3934
+ชื่อเล่น	3935
+ชื่อในภาษาแม่	3936
+ชื่อในอักษรคะนะ	3937
+ซีรีส์	3938
+ญาติ	3939
+ณ เวลา	3940
+ดัดแปลงจาก	3941
+ดำรงตำแหน่ง	3942
+ดีมอซ	3943
+ด้านที่ขับรถ	3944
+ตรงข้ามกันกับ	3945
+ตลาดหลักทรัพย์	3946
+ตัวรหัสระบุ รอตเทนโทเมโทส์	3947
+ตัวรหัสระบุบริษัท ANN	3948
+ตัวรหัสระบุเพลย์ลิสต์ยูทูบ	3949
+ตัวระบุ AAT	3950
+ตัวระบุ CANTIC	3951
+ตัวระบุ CONA	3952
+ตัวระบุ CONOR.SI	3953
+ตัวระบุ DVN	3954
+ตัวระบุ Freebase	3955
+ตัวระบุ GND	3956
+ตัวระบุ GTAA	3957
+ตัวระบุ LAC	3958
+ตัวระบุ LNB	3959
+ตัวระบุ NCL	3960
+ตัวระบุ NDF-RT	3961
+ตัวระบุ NDL	3962
+ตัวระบุ NKC	3963
+ตัวระบุ NLA	3964
+ตัวระบุ NLP	3965
+ตัวระบุ NSK	3966
+ตัวระบุ TGN	3967
+ตัวระบุ ZDB	3968
+ตัวระบุ idRef	3969
+ตัวระบุกราฟความรู้ของกูเกิล	3970
+ตัวระบุของแหล่งเก็บข้อมูลอินเตอร์เน็ต (Internet Archive)	3971
+ตัวระบุชื่อศิลปินของ MusicBrainz	3972
+ตัวระบุโดยสถาบันมะเร็งนานาชิาติ	3973
+ตัวละคร	3974
+ตัวแทนจำหน่าย	3975
+ตั้งชื่อตาม	3976
+ตำแหน่งพิกัด	3977
+ต่างจาก	3978
+ถัดไป	3979
+ถูกค้นพบเมื่อ	3980
+ถูกฆ่าโดย	3981
+ถูกทำลาย	3982
+ถูกศึกษาโดย	3983
+ถูกเผยแพร่ใน	3984
+ทวีป	3985
+ทำให้เกิด	3986
+ที่ตั้งสำนักงานใหญ่	3987
+ที่อยู่อาศัย	3988
+ธง	3989
+ธนาคารกลาง	3990
+นักออกแบบ	3991
+นามปากกา	3992
+นามสกุล	3993
+นามสกุลไฟล์	3994
+นายจ้าง	3995
+บทความหลักในหมวดหมู่	3996
+บทความในนิโกะนิโกะพีเดีย	3997
+บทความในโมเอะเกิร์ลพีเดียภาษาจีน	3998
+บรรทัดสุดท้าย	3999
+บรรทัดแรก	4000
+บริษัทลูก	4001
+บริษัทแม่	4002
+บล็อกทางการ	4003
+บัญชีผู้ใช้ทวิตเตอร์	4004
+บัญชีผู้ใช้อินสตาแกรม	4005
+บำรุงรักษาโดยโครงการวิกิ	4006
+บิดา	4007
+ปฏิบัติโดย	4008
+ประกอบด้วย	4009
+ประกอบไปด้วย	4010
+ประกอบไปด้วยส่วนที่อยู่ในกลุ่มของ	4011
+ประชากร	4012
+ประชากรชาย	4013
+ประชากรหญิง	4014
+ประธาน	4015
+ประมุขแห่งรัฐ	4016
+ประเทศ	4017
+ประเทศต้นกำเนิด	4018
+ประเภท	4019
+ปรับปรุงหรือแปลมาจาก	4020
+ปริญญา	4021
+ปริมาณ	4022
+ปริมาณทางกายภาพที่วัด	4023
+ปริมาตร	4024
+ปีที่เริ่มแสดง	4025
+ป้ายชื่อสถานที่	4026
+ผลงานที่มีชื่อเสียง	4027
+ผลิตภัณฑ์	4028
+ผู้ก่อตั้ง	4029
+ผู้ค้นพบ/ผู้ประดิษฐ์	4030
+ผู้จัดการ/ผู้อำนวยการ	4031
+ผู้จัดงาน	4032
+ผู้ชนะ	4033
+ผู้ดำรงค์ตำแหน่ง	4034
+ผู้ดำเนินการ	4035
+ผู้ถือกรรมสิทธิ์	4036
+ผู้ประพันธ์	4037
+ผู้ประพันธ์เนื้อร้อง	4038
+ผู้ประพันธ์เพลง	4039
+ผู้พัฒนา	4040
+ผู้สนับสนุน	4041
+ผู้สร้าง	4042
+ผู้อุปถัมป์	4043
+พิกัดของจุดตะวันตกสุด	4044
+พิกัดของจุดตะวันออกสุด	4045
+พิกัดของจุดเหนือสุด	4046
+พิกัดของจุดใต้สุด	4047
+พี่น้อง	4048
+พื้นที่ลุ่มน้ำ	4049
+ภาพ	4050
+ภาพตัดปะ	4051
+ภาพธง	4052
+ภาพส่วนหัวของวิกิท่องเที่ยว	4053
+ภาษาของงานหรือชื่อ	4054
+ภาษาทางการ	4055
+ภาษาที่บุคคลนี้ใช้เขียน	4056
+ภาษาที่ใช้พูด, เขียน หรือ ลงลายมือชื่อ	4057
+ภาษาแม่	4058
+ภาษาโปรแกรม	4059
+มวล	4060
+มอบให้โดย	4061
+มักกล่าวได้ว่าเหมือนกันกับ	4062
+มาตรฐาน ISO	4063
+มารดา	4064
+มาสคอต	4065
+มีคุณลักษณะ	4066
+มีรายการรายชื่อ	4067
+มีอาณาเขตติดกับ	4068
+มุมมองตอนกลางคืน	4069
+มูลค่าตามราคาตลาด	4070
+ยศทหาร	4071
+ยาที่ใช้ในการรักษา	4072
+ยูอาร์แอล	4073
+ยูอาร์แอลที่อ้างอิง	4074
+รหัสจังหวัด อำเภอ ตำบล	4075
+รหัสภาษาของวิกิมีเดีย	4076
+รหัสระบุ IMDB	4077
+รหัสระบุช่องยูทูบ	4078
+รหัสระบุซินล่างเวย์ปั๋ว	4079
+รหัสระบุวีดิโอยูทูบ	4080
+รหัสระบุหัวข้อควอรา	4081
+รหัสระบุโปรไฟล์เฟซบุ๊ก	4082
+รหัสอาชีพ ISCO	4083
+รหัสโทรศัพท์ระหว่างประเทศ	4084
+รหัสไปรษณีย์	4085
+ระดับชั้นถัดไปที่ต่ำกว่า	4086
+ระบบการเขียน	4087
+ระบบปฏิบัติการ	4088
+ระยะเวลา	4089
+ระยะเวลาตั้งครรภ์โดยเฉลี่ย	4090
+ระเบียงภาพในคอมมอนส์	4091
+รัศมี	4092
+ราคา	4093
+รางวัลที่ถูกเสนอชื่อเข้าชิง	4094
+รางวัลที่ได้รับ	4095
+รุ่น	4096
+รูปภาพหลุมฝังศพ	4097
+รูปร่างทางภูมิศาสตร์	4098
+รูปแบบการเผยแพร่	4099
+รูปแบบงานสร้างสรรค์	4100
+รูปแบบสถาปัตยกรรม	4101
+ลายมือชื่อ	4102
+ลูก	4103
+ล่มสลาย/ถูกยกเลิกเมื่อ	4104
+วัฒนธรรม	4105
+วันของสัปดาห์	4106
+วันที่สร้าง/วันก่อตั้ง	4107
+วันที่เปิดแสดงครั้งแรก	4108
+วันที่เสียชีวิต	4109
+วันฝังศพ/ฌาปนกิจศพ	4110
+วันเกิด	4111
+วันเปิดอย่างเป็นทางการ	4112
+วัสดุที่ใช้	4113
+วิดีโอ	4114
+ศาสนา	4115
+ศิลปินนักร้อง/นักดนตรี	4116
+ศึกษาที่	4117
+ศึกษาเกี่ยวกับ	4118
+สถานที่ก่อตั้ง	4119
+สถานที่ค้นพบ	4120
+สถานที่ดำเนินเรื่อง	4121
+สถานที่ตั้ง	4122
+สถานที่ทำงาน	4123
+สถานที่เกิด	4124
+สถานที่เสียชีวิต	4125
+สถานะทางมรดก	4126
+สถานะลิขสิทธิ์	4127
+สมาชิกของ	4128
+สมาชิกของพรรคการเมือง	4129
+สัญญาอนุญาต	4130
+สัญลักษณ์ทางการ	4131
+สัญลักษณ์ปริมาณ	4132
+สายอาชีพ	4133
+สาเหตุ	4134
+สาเหตุการเสียชีวิต	4135
+สำนักพิมพ์/ผู้เผยแพร่	4136
+สินทรัพย์รวม	4137
+สี	4138
+สีผม	4139
+สุสาน	4140
+สูตรคณิตศาสตร์	4141
+สูตรโมเลกุล	4142
+สโมสรกืฬาที่สังกัด	4143
+ส่งออกรวม	4144
+หน่วยย่อยการปกครอง	4145
+หน้า	4146
+หน้าที่ของประธานของประพจน์	4147
+หน้าผู้สร้างสรรค์ในเนมสเปซคอมมอนส์	4148
+หมวดหมู่คอมมอนส์	4149
+หมวดหมู่ประกอบด้วย	4150
+หมวดหมู่ประสานหัวข้อ	4151
+หมวดหมู่หลักของหัวข้อ	4152
+หมายเลข SIREN	4153
+หมายเลขโทรศัพท์	4154
+หลังวันที่	4155
+หัวข้อระบุงาน JSTOR	4156
+หัวข้อหลัก	4157
+หัวหน้ารัฐบาล	4158
+อธิบายโดยแหล่งที่มา	4159
+อธิบายใน URL	4160
+อนุมัติโดย	4161
+อยู่ในรูปแบบนิพจน์ปรกติ	4162
+อยู่ในเขตการปกครองของ	4163
+ออกอากาศโดย	4164
+อักขระยูนิโคด	4165
+อักษรนำหน้าลิงก์ข้ามวิกิที่วิกิมีเดีย	4166
+อัตราการเต้นของหัวใจ	4167
+อัตราเร็ว	4168
+อัตราเร็วของเสียง	4169
+อันดับ Alexa	4170
+อาการ	4171
+อาชีพ	4172
+อายุขัย	4173
+อีเมล	4174
+อุณหภูมิ	4175
+อุดมการณ์ทางการเมือง	4176
+อุตสาหกรรม	4177
+เขตเวลา	4178
+เข้ามาแทน	4179
+เครื่องดนตรี	4180
+เงินตรา	4181
+เงินรางวัล	4182
+เจ้าของลิขสิทธิ์	4183
+เชื้อชาติ	4184
+เป็น	4185
+เป็นพลเมืองของประเทศ	4186
+เป็นภาพหนึ่งของ	4187
+เป็นรายชื่อของ	4188
+เป็นส่วนหนึ่งของ	4189
+เป็นเจ้าของ	4190
+เป้าหมาย	4191
+เผยแพร่ครั้งแรก	4192
+เผยแพร่ที่	4193
+เพลงสดุดี	4194
+เพศ	4195
+เมืองพี่น้อง	4196
+เมืองหลวง	4197
+เมืองหลวงของ	4198
+เลขลำดับของชุด	4199
+เลขอะตอม	4200
+เวลาสิ้นสุด	4201
+เวลาเริ่ม	4202
+เว็บไซต์ทางการ	4203
+เสียงข้อความพูด	4204
+เสียงบันทึกของบุคคล	4205
+เสียงอ่าน	4206
+เส้นผ่านศูนย์กลาง	4207
+เหตุการณ์สำคัญ	4208
+แทนที่โดย	4209
+แผนที่การกระจายตัวของสิ่งมีชีวิต	4210
+แพลตฟอร์ม	4211
+แหล่งน้ำใกล้เคียง	4212
+แฮชแท็ก	4213
+โครงสร้างทางเคมี	4214
+โดเมนระดับบนสุด	4215
+โลโก้	4216
+ใช้กับ	4217
+ในแบบฉบับอื่น	4218
+ไหลลงสู่	4219
+ไอคอน	4220
+ไอดี ARKive	4221
+ไอเท็มต้นแบบ	4222
+ảnh ghép nối	4223
+ảnh hưởng bởi	4224
+ảnh mộ phần	4225
+ủy viên ban giám đốc	4226
+ứng cử viên	4227
+ứng cử viên đắc cử	4228

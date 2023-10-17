@@ -1,0 +1,299 @@
+0	ยศทหาร
+1	related category
+2	ผู้ดำรงค์ตำแหน่ง
+3	topic's main template
+4	category for employees of the organization
+5	territory claimed by
+6	located in the statistical territorial entity
+7	Köppen climate classification
+8	parent peak
+9	taxonomic type
+10	ภาษาที่บุคคลนี้ใช้เขียน
+11	หมวดหมู่สำหรับคนเสียชีวิตที่นี่
+12	ถัดไป
+13	ancestral home
+14	กีฬา
+15	ปฏิบัติโดย
+16	cause of destruction
+17	แหล่งน้ำใกล้เคียง
+18	name day
+19	worshipped by
+20	on focus list of Wikimedia project
+21	office held by head of the organization
+22	coextensive with
+23	currency symbol description
+24	ปริญญา
+25	เป็นพลเมืองของประเทศ
+26	เหตุการณ์สำคัญ
+27	authority
+28	อาชีพ
+29	หน้าที่ของประธานของประพจน์
+30	ผู้สร้าง
+31	บริษัทแม่
+32	วันที่เกิด
+33	ดำรงตำแหน่ง
+34	victim
+35	ศิลปินนักร้อง/นักดนตรี
+36	tributary
+37	ยาที่ใช้ในการรักษา
+38	connects with
+39	สถานที่เกิด
+40	หมวดหมู่ประกอบด้วย
+41	immediate cause of
+42	ศึกษาที่
+43	ธนาคารกลาง
+44	เมืองพี่น้อง
+45	located in the ecclesiastical territorial entity
+46	signatory
+47	patron saint
+48	dialect of
+49	coat of arms
+50	คติพจน์
+51	ทวีป
+52	สมาชิกของพรรคการเมือง
+53	Wikimedia outline
+54	demographics of topic
+55	depositary
+56	เพลงสดุดี
+57	เข้ามาแทน
+58	ประมุขแห่งรัฐ
+59	ต่างจาก
+60	medical condition
+61	สัญลักษณ์ทางการ
+62	ปริมาณทางกายภาพที่วัด
+63	religious order
+64	does not have part
+65	การนำไปใช้
+66	doctoral student
+67	occupant
+68	right to vote
+69	has contributing factor
+70	ผู้จัดการ/ผู้อำนวยการ
+71	noble title
+72	uses capitalization for
+73	educational stage
+74	separated from
+75	วัสดุที่ใช้
+76	contains
+77	ผลงานที่มีชื่อเสียง
+78	ประธาน
+79	doctoral advisor
+80	inflows
+81	เพศ
+82	ใช้โดย
+83	ชนิดของการเสียชีวิต
+84	ระบบการเขียน
+85	ผู้อุปถัมป์
+86	participant
+87	อธิบายโดยแหล่งที่มา
+88	ประกอบไปด้วยส่วนที่อยู่ในกลุ่มของ
+89	ที่ตั้งสำนักงานใหญ่
+90	เผยแพร่ที่
+91	military branch
+92	สถานะทางมรดก
+93	สาเหตุการเสียชีวิต
+94	located in present-day administrative territorial entity
+95	ประกอบไปด้วย
+96	charge
+97	risk factor
+98	เป็นศิษย์ของ
+99	lake outflow
+100	ผู้จัดงาน
+101	อยู่ในเขตการปกครองของ
+102	หัวหน้ารัฐบาล
+103	organization directed by the office or position
+104	จุดลึกสุด
+105	เชื้อชาติ
+106	ผลิตภัณฑ์
+107	ภาษาที่ใช้พูด, เขียน หรือ ลงลายมือชื่อ
+108	place of detention
+109	Wikimedia portal's main topic
+110	ความสัมพันธ์ทางการทูต
+111	ภาษาแม่
+112	สถานที่ดำเนินเรื่อง
+113	time period
+114	เป็นเจ้าของ
+115	ถูกฆ่าโดย
+116	has seal, badge, or sigil
+117	foundational text
+118	historic county
+119	secretary general
+120	voice type
+121	เป็น
+122	participant in
+123	เป็นส่วนหนึ่งของ
+124	afflicts
+125	public holiday
+126	has immediate cause
+127	category for films shot at this location
+128	category for films in this language
+129	ผู้ดำเนินการ
+130	partially coincident with
+131	ศึกษาเกี่ยวกับ
+132	หน่วยย่อยการปกครอง
+133	วันของสัปดาห์
+134	indigenous to
+135	พี่น้อง
+136	influenced by
+137	ไหลลงสู่
+138	physically interacts with
+139	ค่ายเพลง
+140	คู่สมรส
+141	unmarried partner
+142	ศัตรูของ
+143	board member
+144	anatomical location
+145	สถานะลิขสิทธิ์
+146	ที่อยู่อาศัย
+147	allegiance
+148	สายอาชีพ
+149	ประเภท
+150	ศาสนา
+151	รูปแบบงานสร้างสรรค์
+152	vehicle normally used
+153	field of work
+154	เมืองหลวง
+155	has works in the collection
+156	house publication
+157	บำรุงรักษาโดยโครงการวิกิ
+158	แทนที่โดย
+159	conflict
+160	basic form of government
+161	origin of the watercourse
+162	substitute/deputy/replacement of office/officeholder
+163	operating area
+164	website account on
+165	สาเหตุ
+166	โดเมนระดับบนสุด
+167	commanded by
+168	family
+169	วัฒนธรรม
+170	มอบให้โดย
+171	penalty
+172	สถานที่ตั้ง
+173	health specialty
+174	candidacy in election
+175	ก่อนหน้า
+176	day in year for periodic occurrence
+177	main regulatory text
+178	ศิษย์
+179	honorific suffix
+180	economy of topic
+181	has grammatical case
+182	feast day
+183	executive body
+184	depicted by
+185	ผู้ถือกรรมสิทธิ์
+186	appointed by
+187	item disputed by
+188	history of topic
+189	ผู้ค้นพบ/ผู้ประดิษฐ์
+190	อุตสาหกรรม
+191	ระดับชั้นถัดไปที่ต่ำกว่า
+192	convicted of
+193	รางวัลที่ได้รับ
+194	production statistics
+195	ประเทศ
+196	เป็นภาพหนึ่งของ
+197	ในแบบฉบับอื่น
+198	สถานที่ก่อตั้ง
+199	official color
+200	in opposition to
+201	จดหมายเหตุอยู่ที่
+202	template has topic
+203	ผู้ประพันธ์
+204	legal form
+205	เขตเวลา
+206	หมวดหมู่ประสานหัวข้อ
+207	ธง
+208	drafted by
+209	ภาษาของงานหรือชื่อ
+210	ประกอบด้วย
+211	railway traffic side
+212	บริษัทลูก
+213	ภาษาทางการ
+214	movement
+215	กลุ่มย่อยของ
+216	มีรายการรายชื่อ
+217	possible treatment
+218	contains settlement
+219	อาการ
+220	lifestyle
+221	template or module that populates category
+222	medical examinations
+223	language used
+224	เงินตรา
+225	ชื่อต้น
+226	เครื่องดนตรี
+227	has natural reservoir
+228	legislative body
+229	ผู้สนับสนุน
+230	บริเวณลุ่มน้ำ
+231	ประเทศต้นกำเนิด
+232	หมวดหมู่สำหรับคนเกิดที่นี่
+233	objective of project or action
+234	central bank/issuer
+235	อนุมัติโดย
+236	sexual orientation
+237	เมืองหลวงของ
+238	applies to jurisdiction
+239	official residence
+240	present in work
+241	honorific prefix
+242	มีคุณลักษณะ
+243	commemorates
+244	enclave within
+245	taxon found at location
+246	UNESCO language status
+247	foods traditionally associated
+248	สำนักพิมพ์/ผู้เผยแพร่
+249	ตรงข้ามกันกับ
+250	ด้านที่ขับรถ
+251	หมวดหมู่หลักของหัวข้อ
+252	สถานที่เสียชีวิต
+253	เป้าหมาย
+254	ไอเท็มต้นแบบ
+255	basin country
+256	บทความหลักในหมวดหมู่
+257	ใช้กับ
+258	highest judicial authority
+259	ratified by
+260	perpetrator
+261	นายจ้าง
+262	designed to carry
+263	ตั้งชื่อตาม
+264	ญาติ
+265	สถานที่ทำงาน
+266	category of associated people
+267	office held by head of government
+268	topic's main Wikimedia portal
+269	มักกล่าวได้ว่าเหมือนกันกับ
+270	จุดสูงสุด
+271	child astronomical body
+272	ผู้ก่อตั้ง
+273	ทำให้เกิด
+274	สุสาน
+275	อุดมการณ์ทางการเมือง
+276	กรรมการผู้จัดการ
+277	ลูก
+278	สี
+279	ถูกศึกษาโดย
+280	category for eponymous categories
+281	located in/on physical feature
+282	office held by head of state
+283	รูปแบบสถาปัตยกรรม
+284	หัวข้อหลัก
+285	exclave of
+286	geography of topic
+287	official religion
+288	มีอาณาเขตติดกับ
+289	linguistic typology
+290	บิดา
+291	armament
+292	political alignment
+293	ดัดแปลงจาก
+294	interested in
+295	มารดา
+296	language regulatory body
+297	สมาชิกของ
+298	manifestation of

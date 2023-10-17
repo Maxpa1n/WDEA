@@ -1,0 +1,4686 @@
+0	1914-1918-Online ID
+1	3D model
+2	3D模型
+3	A Church Near You church ID
+4	AAA attraction ID
+5	AAGM person or institution ID
+6	ABA bird ID
+7	ABC News topic ID
+8	ABS ASCL 2011 code
+9	ABS ASCL 2011代码
+10	ACM Classification Code (2012)
+11	ACM分类编码（2012）
+12	ACNP journal ID
+13	ADAGP artist ID
+14	ADK member ID
+15	ADW taxon ID
+16	ADW 分类群 ID
+17	AE member ID
+18	AFI Catalog of Feature Films ID
+19	AGORHA person/institution ID
+20	AGORHA work ID
+21	AGROVOC ID
+22	AIATSIS Place Thesaurus ID
+23	AIATSIS Subject Thesaurus ID
+24	AICS Chemical ID (former scheme)
+25	AKL Online artist ID
+26	ALCUIN ID
+27	AMPAS collections person ID
+28	ANPI person numeric ID
+29	ANZSCO 2013 ID
+30	ANZSIC 2006 ID
+31	ANZSRC 2008 FoR ID
+32	ANZSRC 2020 FoR ID
+33	APA ID
+34	API endpoint
+35	API终端
+36	APNI ID
+37	ARAE ID
+38	ARCHON code
+39	ARKive ID
+40	ARLIMA ID
+41	ARLLFB member ID
+42	ARMB member ID
+43	ARTIC artist ID
+44	ARWU university ID
+45	ASC Leiden Thesaurus ID
+46	ASCCEG 2019 ID
+47	ASCE Historical Civil Engineering Landmark ID
+48	ASCRG 2016 ID
+49	ASHRAE refrigerant number
+50	ASUT ID
+51	ATC code
+52	ATC代码
+53	ATRF ID
+54	ATVK ID
+55	AUSNUT 2011–13 Food Group ID
+56	AZLyrics.com artist ID
+57	AboutTheArtists artist ID
+58	Academia Brasileira de Letras ID
+59	Academia Sinica authority ID
+60	Academia.edu institutional ID
+61	Academia.edu profile URL
+62	Academia.edu topic ID
+63	Academic Encyclopedia of Czech History ID
+64	Academic Tree ID
+65	Academy Awards Database film ID
+66	Academy Awards Database nominee ID
+67	Académie des sciences d'outre-mer member ID
+68	Académie française award winner ID
+69	Académie française member ID
+70	Accademia della Crusca ID
+71	Accademia delle Scienze di Torino ID
+72	Acharts.co artist ID
+73	Actorenregister ID
+74	African Plant Database ID
+75	Agassiz checklist number
+76	Agence photo RMN package ID
+77	Akadem person ID
+78	Akadem人物ID
+79	Al-Jazeera author ID
+80	Al-Jazeera topic ID
+81	Album of the Year artist ID
+82	Alexander Turnbull Library ID
+83	Alexa排名
+84	All About Jazz musician ID
+85	All the Tropes identifier
+86	AllMovie person ID
+87	AllMovie title ID
+88	AllMovie个人编号
+89	AllMovie电影编号
+90	AllMusic artist ID
+91	AllMusic composition ID
+92	AllMusic genre/style ID
+93	AllMusic 艺术家 ID
+94	AllSides ID
+95	AllTrails trail ID
+96	Allcinema film ID
+97	Allcinema person ID
+98	Allcinema電影編號
+99	AlloCiné film ID
+100	AlloCiné person ID
+101	AlloCiné电影ID
+102	AlternativeTo software ID
+103	AlternativeTo軟體編號
+104	Amazon Music artist ID
+105	Amazon author ID
+106	Amburger database ID
+107	American Academy in Rome ID
+108	American Battlefield Trust battlefield ID
+109	American Film Institute person ID
+110	American Folklore Society Ethnographic Thesaurus ID
+111	American National Biography ID
+112	Amsterdam code
+113	Analysis & Policy Observatory term ID
+114	Angel List ID
+115	Angelicum ID
+116	AniDB character ID
+117	AniDB tag ID
+118	AniDB角色编号
+119	AnimalBase ID
+120	Anime News Network person ID
+121	AnimeClick person ID
+122	AnimeClick人物标识符
+123	AntWiki article ID
+124	Aozora Bunko author ID
+125	App Store app ID
+126	App Store developer ID
+127	App Store开发者ID
+128	App Store标识符 (世界范围)
+129	Apple Music artist ID (U.S. version)
+130	Apple Music艺术家标识符
+131	Apple TV movie ID
+132	Apple TV電影編號
+133	Apple maps ID
+134	Arabic Ontology ID
+135	Arachne collection ID
+136	Aracne author ID
+137	ArchINFORM项目ID
+138	Archival Resource Key
+139	Archive Site Trinity College Cambridge ID
+140	Archive of Our Own tag
+141	Archives Directory for the History of Collecting in America ID
+142	Archives Portal Europe ID
+143	Archives at Yale names ID
+144	Archivio Storico Ricordi opera ID
+145	Archivio Storico Ricordi person ID
+146	Archivo Histórico de diputados de España ID
+147	Archivo Linz de la Transición Española ID
+148	ArhivX LOD
+149	Arkivportalen agent ID
+150	Arlington Cemetery person ID
+151	Armenian Vikidia ID
+152	Armeniapedia ID
+153	Art Renewal Center artist ID
+154	Art UK artist ID
+155	Art UK collection ID
+156	Art UK venue ID
+157	Art in the Christian Tradition ID
+158	Artcyclopedia artist ID
+159	Artist ID of the department of Prints and Drawings of the Louvre
+160	Artnet artist ID
+161	Artnet艺术家标识符
+162	Artsy artist ID
+163	Artsy gene
+164	Artsy艺术家编号
+165	Astro Awani topic ID
+166	At the Circulating Library ID
+167	Athenaeum museum ID
+168	Athenaeum person ID
+169	Atlas ID
+170	Atlas Obscura identifier
+171	Atlas of Florida Plants ID
+172	AtlasFor ID
+173	Atomic Heritage Foundation ID
+174	Auckland Art Gallery artist ID
+175	Auckland Museum ID
+176	AusStage person ID
+177	AusStage venue ID
+178	AustLII ID
+179	AustLit ID
+180	Australian Antarctic Gazetteer ID
+181	Australian Dictionary of Biography ID
+182	Australian Educational Vocabulary ID
+183	Australian Institute for Disaster Resilience Knowledge Hub ID
+184	Australian Music Centre artist ID
+185	Australian National Maritime Museum person ID
+186	Australian Standard Geographic Classification 2006 ID
+187	Australian Statistical Geography 2011 ID
+188	Australian Statistical Geography 2016 ID
+189	Australian Statistical Geography 2021 ID
+190	Australian Thesaurus of Education Descriptors ID
+191	Australian War Memorial ID
+192	Australian Weed ID
+193	Australian Women's Register ID
+194	AustralianFootball.com player ID
+195	Austrian Biographical Encylopedia ID
+196	Austrian Parliament 1848–1918 ID
+197	Austrian Parliament ID
+198	Austrian municipality key
+199	Auñamendi ID
+200	Avibase ID
+201	Awards & Winners artist ID
+202	B3Kat dataset ID
+203	BABEL author ID
+204	BAG residence ID
+205	BALaT object ID
+206	BALaT图片编码
+207	BARTOC ID
+208	BAV（梵蒂冈图书馆）编码
+209	BAnQ author ID
+210	BBC News Democracy Live ID
+211	BBC News topic ID
+212	BBC Things ID
+213	BBC programme ID
+214	BBC你的图画
+215	BBC新闻主题标识符
+216	BBK (library and bibliographic classification)
+217	BC Geographical Names ID
+218	BD Gest' author ID
+219	BD Gest'作者标识符
+220	BDCYL authority ID
+221	BDELIS ID
+222	BDFA player ID
+223	BDFutbol team ID
+224	BDRC Resource ID
+225	BFI Filmography person ID
+226	BFI Films, TV and people ID
+227	BG EKATTE place ID
+228	BHCL UUID
+229	BHF author ID
+230	BHL creator ID
+231	BIBSYS work ID
+232	BIBSYS标识符
+233	BIU Santé person ID
+234	BLPL author ID
+235	BMI work ID
+236	BMLO ID
+237	BNB person ID
+238	BNB人物ID
+239	BNCF Thesaurus ID
+240	BND ID
+241	BNF
+242	BNMM authority ID
+243	BNR（罗马尼亚）标识符
+244	BOLD Systems taxon ID
+245	BOLD系统分类群ID
+246	BPS language code
+247	BPS语言代码
+248	BRAHMS artist ID
+249	BTI Governance Index
+250	BTI Status Index
+251	BTO Birds of Britain ID
+252	BTO five-letter code
+253	BTO五字母代码
+254	BVFE author ID
+255	BVLarramendi ID
+256	BVMC person ID
+257	BVMC place ID
+258	BVMC work ID
+259	BVMC地点id
+260	BVPB authority ID
+261	BVPH authority ID
+262	BaGLAMa GID
+263	BabelNet ID
+264	BabelNet编号
+265	Babelio author ID
+266	Babelio作者标识符
+267	Badgames ID
+268	Bait La Zemer Ha-Ivri artist ID
+269	Bait La Zemer Ha-Ivri song ID
+270	Ballotpedia ID
+271	Bandsintown artist ID
+272	Bangladesh administrative division code (2017-)
+273	Bangladesh administrative division code (pre-2017)
+274	Banglapedia ID (Bengali)
+275	Banglapedia ID (English)
+276	Banque de noms de lieux du Québec ID
+277	Bashkir encyclopedia (Bashkir version) ID (former scheme)
+278	Bashkir encyclopedia (Russian version) ID (former scheme)
+279	Basis Wien person ID
+280	Basisklassifikation
+281	Basque Vikidia ID
+282	Bavarian monument authority ID
+283	Bavarikon ID
+284	BeWeb entity ID
+285	BeWeb person ID
+286	Beatport artist ID
+287	Bechdel Test Movie List ID
+288	Behind The Voice Actors person ID
+289	Behind The Voice Actors video game ID
+290	Behind The Voice Actors人物标识符
+291	Belgian Senate person ID
+292	Belgian Species List ID
+293	Ben Yehuda author ID
+294	Benezit ID
+295	Berlin cultural heritage ID
+296	BiblioLMC ID
+297	BiblioNet author ID
+298	Bibliopoche author ID
+299	Biblioteca Franco Serantini ID
+300	Biblioteca Iglesia Nacional Española en Roma ID
+301	Biblioteca Nacional de España ID
+302	Biblioteca Nacional de México ID
+303	Biblioteca Virtual Andalucía authority ID
+304	Biblioteca di Santa Sabina ID
+305	Biblioteche dei filosofi ID
+306	Biblioteche della Custodia di Terra Santa a Gerusalemme ID
+307	Bibliotheca Augustana author ID
+308	Bibliothèque de la Pléiade ID
+309	Bien de Interés Cultural (BIC) code
+310	Billboard artist ID
+311	Billboard艺术家编号
+312	BillionGraves cemetery ID
+313	BioLexSOE ID
+314	BioLib taxon ID
+315	BioLib 分类群 ID
+316	Biografija.ru ID
+317	Biografisch Portaal van Nederland ID
+318	Biografisch Woordenboek van Nederland: 1880-2000 ID
+319	Biografiskt Lexikon för Finland ID
+320	Biographical Dictionary of Chinese Christianity ID
+321	Biographical Dictionary of Georgia ID
+322	Biographical Dictionary of Italian People ID
+323	Biographical Dictionary of the Czech Lands ID
+324	Biographical Directory of Federal Judges ID
+325	Biographical Encyclopedia of Astronomers ID
+326	Biographie nationale de Belgique ID
+327	Biographie vosgienne ID
+328	BiographySampo person ID
+329	Bionomia ID
+330	BirdLife International IBA ID
+331	BirdLife taxon ID
+332	Bitraga author ID
+333	Bitraga work ID
+334	Bivouac.com mountain ID
+335	Biyografya ID
+336	BlackPast.org ID
+337	Bloomberg company ID
+338	BoardGameGeek game publisher ID
+339	Bod-Inc Online author ID
+340	Boijmans artist ID
+341	Book Owners Online person ID
+342	BookBrainz author ID
+343	Box Office Mojo film ID (former scheme)
+344	Box Office Mojo person ID
+345	Box Office Mojo studio ID
+346	Box Office Mojo 電影名稱索引碼
+347	BoxRec boxer ID
+348	Bradley and Fletcher checklist number
+349	Brazilian Electoral Unit ID
+350	Brazilian federal deputy ID
+351	Brazilian municipality code
+352	Brenda Tissue Ontology ID
+353	Bridgeman artist ID
+354	Brilliant Wiki ID
+355	British Library system number
+356	British Museum person or institution ID
+357	British Museum place ID
+358	Brockhaus Enzyklopädie online ID
+359	BugGuide taxon ID
+360	Bugs! artist ID
+361	Bundle ID
+362	Bureau des longitudes ID
+363	Burke Herbarium Image Collection ID
+364	Butterflies and Moths of North America ID
+365	Buzer.de law identification
+366	C-SPAN organization ID
+367	C-SPAN person ID
+368	CA PROP 65 ID
+369	CAB ID
+370	CAGE code
+371	CAGE代碼
+372	CALIS ID
+373	CALIS规范数据库记录控制号
+374	CALS Encyclopedia of Arkansas ID
+375	CANTIC ID
+376	CAS Registry Number
+377	CAS号
+378	CATO ID
+379	CBDB ID
+380	CBS municipality code
+381	CBS行政区编码
+382	CCAB ID
+383	CELEX number
+384	CELEX编号
+385	CERL Thesaurus ID
+386	CESAR person ID
+387	CGNDB unique ID
+388	CGNDB唯一ID
+389	CHESNO politician ID
+390	CHGIS ID
+391	CIN ID
+392	CIRIS author ID
+393	CITES Species+ ID
+394	CITWF person ID
+395	CIVICUS Monitor country entry
+396	CLARA-ID
+397	CMS ID
+398	CNA topic ID
+399	CNO-11 occupation code
+400	CONA
+401	CONABIO ID
+402	CONOR.AL ID
+403	CONOR.BG ID
+404	CONOR.KS ID
+405	CONOR.SR ID
+406	COURAGE ID
+407	CPDL ID
+408	CPDL编号
+409	CPDOC ID
+410	CSS color keyword
+411	CTBUH Skyscraper Center building ID
+412	CTBUH Skyscraper Center building complex ID
+413	CTHS person ID
+414	CTHS society ID
+415	CUT code
+416	CVR
+417	CVR number
+418	CVR person ID
+419	CWGC burial ground ID
+420	CWGC person ID
+421	CageMatch worker ID
+422	Cairn author ID
+423	Calflora ID
+424	Cambridge Alumni Database ID
+425	Cambridge Encyclopedia of Anthropology ID
+426	Can You Run it ID
+427	Canadian Encyclopedia article ID
+428	Canadiana Authorities ID (former scheme)
+429	Canadiana Name Authority ID
+430	Canal Académie ID
+431	Canal-U person ID
+432	Canmore ID
+433	Carl-Maria-von-Weber-Gesamtausgabe ID
+434	Carnegie Hall agent ID
+435	Carnegie Hall work ID
+436	Carthalia ID
+437	Catalan Vikidia ID
+438	Catalogue of Life in Taiwan ID
+439	Catalogue of the Capitular Library of Verona author ID
+440	Catalogue of the General State Archives ID
+441	Catholic Encyclopedia ID
+442	Catholic Hierarchy diocese ID
+443	Catholic Hierarchy person ID
+444	Caverphone
+445	Center for Biological Diversity ID
+446	Central Index Key
+447	Centre-Val de Loire Inventory identifier
+448	ChEBI ID
+449	ChEMBL ID
+450	Chamber of Deputies of Italy storia ID
+451	Charity Commission no.
+452	Charity Navigator ID
+453	Charts in France artist ID
+454	ChemSpider ID
+455	China Treaty Database ID
+456	China Vitae person ID
+457	China administrative division code
+458	Chinese Library Classification
+459	Chinese Political Elites Database ID
+460	Christie's creator ID
+461	Christie's object ID
+462	Chronicling America newspaper ID
+463	CiNii article ID
+464	CiNii author ID (articles)
+465	CiNii author ID (books)
+466	CiNii book ID
+467	CiNii图书作者标识符
+468	CiNii图书标识符
+469	CiNii论文作者标识符
+470	CiNii论文标识符
+471	CineMagia person ID
+472	Cinema Treasures ID
+473	Cinema.de ID
+474	CinemaRX person ID
+475	Ciné-Ressources person ID
+476	Cinémathèque québécoise person ID
+477	Cinémathèque québécoise work identifier
+478	Classical Archives composer ID
+479	Classification of Instructional Programs code
+480	Classiques des sciences sociales ID
+481	Clavis Clavium ID
+482	Clochers de France ID
+483	Co-Optimus ID
+484	CoBiS author ID
+485	Cochrane concept ID
+486	Code of Household Registration and Conscription Information System (Taiwan)
+487	CollectieGelderland creator ID
+488	Collective Biographies of Women ID
+489	College Football HoF ID
+490	Cologne phonetics
+491	Colon Classification
+492	Colorado Encyclopedia ID
+493	ComiXology creator ID
+494	Comic Vine ID
+495	Comic Vine编号
+496	Common Database on Designated Areas ID
+497	Common Procurement Vocabulary
+498	Common Sense Media ID
+499	Commons Institution page
+500	Compagnon de la Libération ID
+501	Companies House officer ID
+502	Compendium heroicum ID
+503	Conseil constitutionnel ID
+504	Cooper-Hewitt Person ID
+505	Corporate Number (Japan)
+506	Corpus Corporum author ID
+507	CosIng number
+508	Cour des comptes report ID
+509	Courrier international topic ID
+510	Crew United person ID
+511	Criminological Thesaurus ID
+512	Crossref funder ID
+513	Crossref资助者标识符
+514	Crunchbase organization ID
+515	Crunchbase person ID
+516	Crunchbase组织编号
+517	Cullum number
+518	CulturaItalia ID
+519	Cultureel Woordenboek ID
+520	Curran Index contributor ID
+521	Cyprus Bibliography ID
+522	Cyprus University of Technology ID
+523	Cyworld ID
+524	Czech NDOP taxon ID
+525	Czech Registration ID
+526	Czech district ID
+527	Czech municipality ID
+528	Czech parliament ID
+529	Czech region ID
+530	Czech territorial region ID
+531	D-U-N-S number
+532	DACS ID (former)
+533	DAHR artist ID
+534	DANE code
+535	DAR ancestor ID
+536	DBC author ID
+537	DBLP author ID
+538	DBLP编码
+539	DBNL编码
+540	DC Historic Sites place ID
+541	DIBAVOD ID
+542	DIR3 ID
+543	DIZIE ID
+544	DLL Catalog author ID
+545	DLive game ID
+546	DMOZ ID
+547	DNF film ID
+548	DOAJ期刊编号
+549	DOI prefix
+550	DOIP
+551	DORIS ID
+552	DPLA subject term
+553	DR music artist ID
+554	DR topic ID
+555	DSM-5 classification
+556	DSSTOX compound identifier
+557	DSSTox substance ID
+558	DUC ID
+559	DVN ID
+560	Dagens Nyheter topic ID
+561	Dagens Næringsliv topic ID
+562	Dailymotion channel ID
+563	Dailymotion频道编号
+564	Danish National Filmography person ID
+565	Danish educational institution number
+566	Danish urban area code
+567	Dansk Biografisk Leksikon ID
+568	Dansk kvindebiografisk leksikon ID
+569	Dansk litteraturs historie ID
+570	Danskefilm person ID
+571	Das wissenschaftliche Bibellexikon im Internet ID
+572	Data Collection of the Hungarian Peerage ID
+573	Datahub page
+574	Datahub页面
+575	Daum Encyclopedia ID
+576	De Agostini ID
+577	DeCS ID
+578	Decine21 person ID
+579	Declarator.org ID
+580	Deezer artist ID
+581	Deezer艺术家编号
+582	Deku Deals ID
+583	Democracy Club candidate ID
+584	Democracy Index
+585	Den Digitale Byport ID
+586	Den Store Danske ID
+587	Deutsche Biographie (GND) ID
+588	Deutsche Synchronkartei actor ID
+589	Deutsche Synchronkartei film ID
+590	Dewey Decimal Classification (works and editions)
+591	DfE URN
+592	Dharma Drum Institute of Liberal Arts person ID
+593	Dharma Drum Institute of Liberal Arts place ID
+594	DiVo person ID
+595	Dialnet author ID
+596	Dictionary of Canadian Biography ID
+597	Dictionary of Irish Biography ID
+598	Dictionary of Medieval Names from European Sources entry
+599	Dictionary of Occupational Titles Code (fourth edition, revised)
+600	Dictionary of Portuguese Historians ID
+601	Dictionary of Scottish Architects building ID
+602	Dictionary of Swedish National Biography ID
+603	Dictionary of Sydney ID
+604	Dictionary of Ulster Biography ID
+605	Dictionnaire de spiritualité ID
+606	Dictionnaire des Wallons ID
+607	Dictionnaire des femmes de l’ancienne France ID
+608	DigDag ID
+609	Digital Atlas of the Roman Empire ID
+610	Digital DISCI ID
+611	Digital Prosopography of the Roman Republic ID
+612	Digital Valencian Library author ID
+613	Digitale Bibliotheek voor de Nederlandse Letteren author ID
+614	DigitaltMuseum ID
+615	Directorio de Museos y Colecciones de España ID
+616	Directory of Open Access Journals ID
+617	Discogs artist ID
+618	Discogs genre ID
+619	Discogs label ID
+620	Discogs master ID
+621	Discogs style ID
+622	Discogs艺术家ID
+623	Discord invite ID
+624	Discord邀請代碼
+625	Disease Ontology ID
+626	DiseasesDB
+627	Disney A to Z ID
+628	Dizionario bio-bibliografico dei bibliotecari italiani del XX secolo ID
+629	Dizionario delle Scienze Fisiche ID
+630	Dizionario di Economia e Finanza ID
+631	Dizionario di Medicina ID
+632	Djshop artist ID
+633	DocCheck Flexikon De ID
+634	DocCheck Flexikon En ID
+635	Docker Hub repository
+636	Docker Hub軟體庫
+637	Doctrine ID
+638	Documenta Catholica Omnia author ID
+639	Dodis ID
+640	Douban author ID
+641	Douban film ID
+642	Douban movie celebrity ID
+643	Douban musician ID
+644	Douban site name
+645	Downdetector ID
+646	Downdetector编号
+647	Dreadnought Project page
+648	Driver Database driver ID
+649	DrugBank ID
+650	Drugbank ID
+651	Dutch Caribbean Species Register ID
+652	Dutch Charts artist ID
+653	Dyntaxa ID
+654	EAGLE id
+655	EBAF authority ID
+656	EC number
+657	ECARTICO person ID
+658	ECHA InfoCard ID
+659	ECOS ID
+660	EC号
+661	EDIT16 catalogue author ID
+662	EDb film ID
+663	EDb person ID
+664	EDb電影編號
+665	EGAXA ID
+666	EGROKN ID
+667	EH.Net Encyclopedia of Economic and Business History ID
+668	EHAK id
+669	EHESS ID of a French commune
+670	EIDR content ID
+671	ELNET ID
+672	ELSTAT geographical code
+673	ELSTAT地理代码
+674	EMLO location ID
+675	EMLO person ID
+676	EMLO人物ID
+677	EMS ID
+678	EPPO Code
+679	ERIC Thesaurus ID
+680	ESBL athlete ID
+681	ESCO Occupation ID
+682	ESCO skill ID
+683	ESPNcricinfo.com player ID
+684	ETS Designated Institution code
+685	EU Research participant ID
+686	EU Surface Water Body Code
+687	EU Transparency Register ID
+688	EU VAT number
+689	EU-Football.info club ID
+690	EUNIS ID for species
+691	Ecocrop ID
+692	Econlib entry ID
+693	Econlib person ID
+694	EcuRed article
+695	Edizioni Ares author ID
+696	Edvard Munch's correspondance person ID
+697	Eesti entsüklopeedia ID
+698	Egapro gender equality index
+699	Eiga.com person ID
+700	Eldoblaje original actor ID
+701	Electronic Enlightenment ID
+702	Electronic library Ukrainica ID
+703	Elhuyar ZTH ID
+704	Elle.fr person ID
+705	Elonet movie ID
+706	Elonet person ID
+707	Elysee.fr president ID
+708	Emmys person ID
+709	Emporis building ID
+710	Emporis building complex ID
+711	Emporis company ID
+712	Emporis 编码
+713	Enciclopedia dei ragazzi ID
+714	Enciclopedia dell'Arte Antica ID
+715	Enciclopedia dell'Arte Medievale ID
+716	Enciclopedia della Scienza e della Tecnica ID
+717	Enciclopedia delle donne ID
+718	Enciclopedia dello Sport ID
+719	Enciclopedia di Roma person ID
+720	Enciclopèdia de l'Esport Català ID
+721	Enciclovida ID
+722	Encyclopaedia Beliana ID
+723	Encyclopaedia Herder concept ID
+724	Encyclopaedia Herder person ID
+725	Encyclopaedia Metallum label ID
+726	Encyclopaedia of Islam (first edition) ID
+727	Encyclopaedia of Islam (second edition) ID
+728	Encyclopaedia of Islam (third edition) ID
+729	Encyclopedia Virginia ID
+730	Encyclopedia of Alabama ID
+731	Encyclopedia of Australian Science ID
+732	Encyclopedia of Brno History person ID
+733	Encyclopedia of Chicago ID
+734	Encyclopedia of China Online Database ID (Second Edition)
+735	Encyclopedia of Cleveland History ID
+736	Encyclopedia of Greater Philadelphia ID
+737	Encyclopedia of Jewish Women ID
+738	Encyclopedia of Korean Culture ID
+739	Encyclopedia of Life ID
+740	Encyclopedia of Melbourne ID
+741	Encyclopedia of Modern Ukraine ID
+742	Encyclopedia of Plzeň person ID
+743	Encyclopedia of Renaissance Philosophy ID
+744	Encyclopedia of Saami Culture ID
+745	Encyclopedia of Seventh-day Adventists ID
+746	Encyclopedia of Surfing ID
+747	Encyclopedia of the Great Plains ID
+748	Encyclopedia of the History of Ukraine ID
+749	Encyclopedia of České Budějovice ID
+750	Encyclopedia on Early Childhood Development ID (English)
+751	Encyclopedie berbere keyword ID
+752	Encyclopædia Britannica Online ID
+753	Encyclopædia Britannica contributor ID
+754	Encyclopædia Universalis ID
+755	Encyclopédie berbère article ID
+756	Encyclopédie du patrimoine culturel de l'Amérique française ID (French)
+757	Encyklopedia Solidarności ID
+758	Encyklopedia Teatru Polskiego person ID
+759	Endemia.nc animal taxon ID
+760	English Vikidia ID
+761	Enslaved.org place ID
+762	Enterprise number (Belgium)
+763	Entomologists of the World ID
+764	Envanter.gov.tr Monument ID
+765	Environmental Register code (Estonia)
+766	Enzyklopädie des europäischen Ostens ID
+767	Epic Games Store ID
+768	Epic游戏商城标识符
+769	Erdős number
+770	Estonian biographical database ID
+771	Ethnologue.com language code
+772	Ethnologue.com代码
+773	Euring number
+774	EuroVoc ID
+775	Eurogamer ID
+776	Europalexikon ID
+777	Europeana Fashion Vocabulary ID
+778	Europeana entity
+779	Europeana实体
+780	Evene ID
+781	Every Noise at Once ID
+782	FAA airport code
+783	FAA机场代码
+784	FANTOIR code
+785	FAO 2007 genetic resource ID
+786	FAQ URL
+787	FAST ID
+788	FAST标识符
+789	FBref player ID
+790	FBref squad ID
+791	FEIS ID
+792	FIBA Hall of Fame ID
+793	FIBA player ID
+794	FIBA选手编号
+795	FIFA player ID
+796	FIFA球员编号
+797	FINA Wiki ID
+798	FIPS 10-4
+799	FIPS 10-4 (国家和地区)
+800	FIPS 10-4 (美国的县)
+801	FIPS 5-2 alpha code (US states)
+802	FIPS 5-2 numeric code (US states)
+803	FIPS 55-3 (locations in the US)
+804	FIPS 6-4
+805	FMD model ID
+806	FOIH heritage types ID
+807	FOIH periods ID
+808	FOIH styles and cultures ID
+809	FOIH taxon ID
+810	FOIH themes ID
+811	Facebook Gaming game ID
+812	Facebook Places ID
+813	Facebook page ID
+814	Facebook地点编号
+815	Facebook游戏游戏编号
+816	Facebook账号
+817	Facebook账号名/代码
+818	FactGrid item ID
+819	FamilySearch person ID
+820	Familypedia person ID
+821	Familypedia人物ID
+822	Fandango person ID
+823	Fandom article ID
+824	Fandom wiki ID
+825	Fandom条目编号
+826	FantLab author ID
+827	Fantastic Fiction author ID
+828	Fauna Europaea ID
+829	Fauna Europaea New ID
+830	Fellow of the Royal Society ID
+831	FemBio ID
+832	Festivaletteratura person ID
+833	Fichier des personnes décédées ID (matchID)
+834	File Format Wiki page ID
+835	FilmAffinity ID
+836	FilmPolski press collection ID
+837	FilmPolski.pl ID
+838	FilmTv.it person ID
+839	Filmaffinity 標識
+840	Filmfront person ID
+841	Filmow ID
+842	Filmportal ID
+843	Filmweb.pl ID
+844	Filmweb.pl film ID
+845	Filmweb.pl person ID
+846	Find A Grave cemetery ID
+847	Find a Grave memorial ID
+848	Find a Grave编号
+849	Finnish Biodiversity Information Facility's Species List ID
+850	Finnish MP ID
+851	Finnish Ministers database ID
+852	Finnish municipality number
+853	Finnish national bibliography corporate name ID
+854	FishBase species ID
+855	Flags of the World ID
+856	Flanders Arts Institute organisation ID
+857	Flanders Arts Institute person ID
+858	Flanders Arts Institute venue ID
+859	Flemish Public Libraries ID
+860	Flickr user ID
+861	Flickr用户账户
+862	Flora of Australia ID (new)
+863	Flora of China ID
+864	Flora of Israel Online plant ID
+865	Flora of North America taxon ID
+866	Flora of Wisconsin ID
+867	FloraBase ID
+868	FloraCatalana ID
+869	Florentine musea Inventario 1890 ID
+870	Florentine musea catalogue ID
+871	Flowers of India ID
+872	FoodEx2 code
+873	FoodOn ID
+874	Football Money League rank
+875	FootballDatabase.eu player ID
+876	FootballDatabase.eu team ID
+877	Forbes Russia profile ID
+878	Fossiilid.info ID
+879	Fossilworks ID for this taxon
+880	Fossilworks 分類單元識別碼
+881	Foundational Model of Anatomy ID
+882	Foursquare venue ID
+883	Foursquare场地编号
+884	FragDenStaat public body ID
+885	France Culture person ID
+886	France24 topic ID (Arabic)
+887	France24 topic ID (English)
+888	France24 topic ID (French)
+889	France24 topic ID (Spanish)
+890	FranceArchives agent ID
+891	Franciscan Center of Christian Oriental Studies ID
+892	Frankfurter Personenlexikon ID
+893	Français libres ID
+894	Freebase标识符
+895	French Etalab parcel visualization code
+896	French National Assembly ID
+897	French Vikidia ID
+898	French public service directory ID
+899	Frick Art Reference Library Artist File ID
+900	GACS ID
+901	GADM ID
+902	GARD rare disease ID
+903	GB1900 ID
+904	GBIF taxon ID
+905	GBIF 分类单元标识符
+906	GCD series ID
+907	GCD系列编号
+908	GCatholic church ID
+909	GCatholic diocese ID
+910	GCatholic person ID
+911	GDP (PPP)
+912	GEMS Code
+913	GENUKI ID
+914	GEPRIS organization ID
+915	GEPRIS person ID
+916	GEPRIS-Historisch ID (Person)
+917	GLEIF registration authority code
+918	GNIS Antarctica ID
+919	GNIS ID
+920	GNIS南极洲编码
+921	GNS Unique Feature ID
+922	GNS独特地形编号
+923	GOST 7.67 cyrillic
+924	GOST 7.67西里尔字母
+925	GOST 7.75-97代码
+926	GOST 7.75–97 code
+927	GPnotebook ID
+928	GRID ID
+929	GRIN URL
+930	GRY-Online company ID
+931	GS1 country code
+932	GS1国家代码
+933	GSS code (2011)
+934	GSSO ID
+935	GTAA ID
+936	Gaana.com artist ID
+937	Gab username
+938	Gab用户名
+939	Galiciana authority ID
+940	Game UI Database ID
+941	GameFAQs company ID
+942	GameFAQs game ID
+943	GameFAQs游戏标识符
+944	GameSpot game ID
+945	GameSpot标识符
+946	GameStar ID
+947	Gameblog.fr game ID
+948	Gamepedia article ID
+949	Gamepedia wiki ID
+950	Games@Mail.ru ID
+951	Gaming-History company ID
+952	Gardens of the Roman Empire ID
+953	Gateway to Research organisation ID
+954	Gazetteer for Scotland person ID
+955	Gazetteer for Scotland place ID
+956	GeneReviews ID
+957	GeneaStar person ID
+958	General Diamond Catalogue ID
+959	Generals of World War II ID
+960	Genetics Home Reference Conditions ID
+961	Geni.com profile ID
+962	Geni.com人物識別碼
+963	Genius artist ID
+964	Genius artist numeric ID
+965	Genius song ID
+966	Genius歌曲ID
+967	Genius艺术家数字ID
+968	GeoNLP ID
+969	GeoNLP编号
+970	GeoNames ID
+971	GeoNames feature code
+972	GeoNames特征代码
+973	GeoNames编号
+974	Geographical Names Board of NSW ID
+975	Geokod
+976	George Eastman Museum people ID
+977	German Vikidia ID
+978	German district key
+979	German municipality key
+980	German regional key
+981	Getty Iconography Authority ID
+982	Getty Thesaurus of Geographic Names ID
+983	Gewässerkennzahl
+984	Giant Bomb ID
+985	Giant Bomb标识符
+986	Gini coefficient
+987	Giphy username
+988	Giphy用户名
+989	GitHub topic
+990	GitHub username
+991	GitHub主題
+992	GitHub用户名
+993	Glassdoor company ID
+994	Global Anabaptist Mennonite Encyclopedia Online ID
+995	Global Invasive Species Database ID
+996	Global Raptor Information Network ID
+997	Global Species ID
+998	Global Terrorism Database ID
+999	Glottolog code
+1000	Glottolog代码
+1001	Gmelin number
+1002	Golden ID
+1003	Goodreads author ID
+1004	Goodreads character ID
+1005	Goodreads version/edition ID
+1006	Goodreads作者编号
+1007	Goodreads图书编号
+1008	Goodreads角色编号
+1009	Google Arts & Culture asset ID
+1010	Google Arts & Culture partner ID
+1011	Google Doodle
+1012	Google Maps Customer ID
+1013	Google News publication ID
+1014	Google News topics ID
+1015	Google Play Movies & TV ID
+1016	Google Play Movies & TV编号
+1017	Google Play Music artist ID (former scheme)
+1018	Google Play Store app ID
+1019	Google Play developer ID
+1020	Google Play developer slug
+1021	Google Play商店应用编号
+1022	Google Play开发者编号
+1023	Google Play音乐艺术家编号
+1024	Google Scholar author ID
+1025	Google 艺术与文化伙伴编号
+1026	Google 艺术与文化资产编号
+1027	Google+ ID
+1028	Google+编号
+1029	Google地图客户编号
+1030	Google学术作者编号
+1031	Google新闻主题标识符
+1032	Google新闻出版编号
+1033	Google涂鸦
+1034	Google知识图谱标识符
+1035	Gotlands museum
+1036	Government of Canada Core Subject Thesaurus ID
+1037	Grace's Guide ID
+1038	Grammy Awards artist ID
+1039	Gramophone composer ID
+1040	Gran Enciclopèdia Catalana ID
+1041	Gran Enciclopèdia de la Música ID
+1042	Great Aragonese Encyclopedia ID
+1043	Great Encyclopedia of Cyril and Methodius entry ID
+1044	Great Encyclopedia of Navarre ID
+1045	Great Russian Encyclopedia Online ID
+1046	Great Ukrainian Encyclopedia Online ID
+1047	GreatSong artist ID
+1048	Gregorian calendar start date
+1049	Grove Art Online ID
+1050	Grove Music Online ID
+1051	Guardian topic ID
+1052	Guggenheim fellows ID
+1053	Guide to North American Birds ID
+1054	Guide to Pharmacology Ligand ID
+1055	Gujarati Vishwakosh entry
+1056	Gyldendals Teaterleksikon ID
+1057	Gynopedia ID
+1058	HAL author ID
+1059	HAL journal ID
+1060	HAL structure ID
+1061	HASC
+1062	HATVP person ID
+1063	HDS ID
+1064	HDS编码
+1065	HERO ID
+1066	HKCAN ID
+1067	HKMDB person ID
+1068	HOV-ID
+1069	HSDB ID
+1070	HTML entity
+1071	HTML实体
+1072	Handbook of Texas ID
+1073	Hansard (1803–2005) ID
+1074	Hansard (2006–March 2016) ID
+1075	Harmonized System Code
+1076	Harvard Index of Botanists ID
+1077	HathiTrust ID
+1078	Healthcare Common Procedure Coding System Identifier
+1079	Hederich encyclopedia article ID
+1080	Heidelberg Academy for Sciences and Humanities member ID
+1081	Hellenic Olympic Committee athlete ID
+1082	HelveticArchives ID
+1083	HelveticArchives编号
+1084	Hembygdsportalen ID
+1085	Henrik Ibsen writings ID
+1086	Heritage Gazetteer of Cyprus
+1087	Heritage Gazetteer of Libya ID
+1088	Hiking Project area ID
+1089	Hikr waypoint ID
+1090	Hill Museum & Manuscript Library ID
+1091	Historic Scotland ID
+1092	Historical Archives of the European Union ID
+1093	Historical Gazetteer (GOV) ID
+1094	History of Modern Biomedicine ID
+1095	History of Parliament ID
+1096	Homosaurus ID (V2)
+1097	Hoopla artist ID
+1098	Hoopla publisher ID
+1099	Hoopla series ID
+1100	Hornbostel-Sachs classification
+1101	House Divided ID
+1102	HowLongToBeat ID
+1103	Hrvatska enciklopedija ID
+1104	Hrvatski biografski leksikon ID
+1105	Human Development Index
+1106	Human Metabolome Database ID
+1107	Human Phenotype Ontology ID
+1108	Humanitarian OpenStreetMap Tasking Manager project ID
+1109	Humble Store ID
+1110	Humble商店ID
+1111	Hungarian National Assembly identifier
+1112	Hungarian National Namespace place ID
+1113	Hungarian public thesaurus ID
+1114	Hymnary author ID
+1115	Hymnary text ID
+1116	Hyperion Records person ID
+1117	IAB code
+1118	IAB代码
+1119	IAFD male performer ID
+1120	IANA Root Zone Database ID
+1121	IANA timezone ID
+1122	IANA根域数据库编号
+1123	IATA airline designator
+1124	IATA airport code
+1125	IATA机场代码
+1126	IATA航空公司代码
+1127	IBDB人物索引碼
+1128	IBM graphic character global ID
+1129	IBM图形字符全局ID
+1130	IBNR ID
+1131	IBP 4-letter bird species alpha code
+1132	ICAO airport code
+1133	ICAO机场代码
+1134	ICCD ID - S form
+1135	ICCD agent ID
+1136	ICD-10
+1137	ICD-10-CM
+1138	ICD-11 (foundation)
+1139	ICD-9
+1140	ICD-9-CM
+1141	ICD-O
+1142	ICPC 2 ID
+1143	ID (MMS)
+1144	IDA place ID
+1145	IDEO Job ID
+1146	IDEO工作编号
+1147	IDESCAT territorial code in Catalonia
+1148	IDU person ID
+1149	IETF language tag
+1150	IETF语言标签
+1151	IEV number
+1152	IFLA value vocabularies ID
+1153	IGCD game ID
+1154	IGN game ID
+1155	IGN电子游戏标识符
+1156	IHSI ID
+1157	IHSI索引碼
+1158	ILO Thesaurus ID
+1159	IMDb标识符
+1160	IMSLP ID
+1161	IMSLP编码
+1162	IMVDb artist ID
+1163	INAPP Thesaurus ID
+1164	INAPP author ID
+1165	INE ID (Portugal)
+1166	INE municipality code
+1167	INEGI locality ID
+1168	INRAN Italian Food ID
+1169	INSEE countries and foreign territories code
+1170	INSEE department code
+1171	INSEE municipality code
+1172	INSEE region code
+1173	INSEE国家及海外领土代码
+1174	INSEE大区编码
+1175	INSEE市镇编码
+1176	INSEE省份编码
+1177	INSPIRE ID
+1178	INSPIRE-HEP author ID
+1179	IOC country code
+1180	IOC国家代码
+1181	IPA
+1182	IPI name number
+1183	IPNI author ID
+1184	IPNI plant ID
+1185	IPNI publication ID
+1186	IPNI 出版物编码
+1187	IPNI 命名人 ID
+1188	IPNI 植物編碼
+1189	IPTC NewsCode
+1190	IPTC Newscode
+1191	IPv4 routing prefix
+1192	IPv4路由前缀
+1193	IPv6 routing prefix
+1194	IPv6路由前缀
+1195	IRC channel
+1196	IRC频道
+1197	IRIS Sapienza author ID
+1198	IRMNG ID
+1199	IRS Employer Identification Number
+1200	ISAN
+1201	ISBN identifier group
+1202	ISBN publisher prefix
+1203	ISBN标识符组
+1204	ISC event ID
+1205	ISCO-08 occupation code
+1206	ISCO-08職業編號
+1207	ISCO职业代码
+1208	ISDS ID
+1209	ISFDB publisher ID
+1210	ISFDB series ID
+1211	ISFDB出版社索引碼
+1212	ISFDB期刊索引碼
+1213	ISIL
+1214	ISIN
+1215	ISNI (ISO 27729)
+1216	ISO 15924 4字母代码
+1217	ISO 15924 alpha-4 code
+1218	ISO 15924 numeric code
+1219	ISO 15924数字代码
+1220	ISO 3166-1 alpha-2 code
+1221	ISO 3166-1 alpha-3 code
+1222	ISO 3166-1 numeric code
+1223	ISO 3166-1三字母代码
+1224	ISO 3166-1二位字母代码
+1225	ISO 3166-1数字代码
+1226	ISO 3166-2 code
+1227	ISO 3166-2代码
+1228	ISO 3166-3
+1229	ISO 4217 code
+1230	ISO 4217代码
+1231	ISO 639-1 code
+1232	ISO 639-1代码
+1233	ISO 639-2 code
+1234	ISO 639-2代码
+1235	ISO 639-3 code
+1236	ISO 639-3代码
+1237	ISO 639-5
+1238	ISO 639-5代码
+1239	ISO 639-6 code
+1240	ISO 639-6代码
+1241	ISO 9362 SWIFT/BIC code
+1242	ISO 9362 SWIFT/BIC代码
+1243	ISOCAT id
+1244	ISO标准
+1245	ISQ dimension
+1246	ISSN
+1247	ISSN-L
+1248	ISTAT ID
+1249	ISWC
+1250	ISzDb person ID
+1251	ITIS TSN
+1252	ITU letter code
+1253	ITU/ISO/IEC object identifier
+1254	ITU/ISO/IEC对象标识符
+1255	ITU字母代码
+1256	IUCN taxon ID
+1257	IUCN分类单元编号
+1258	IUPAC Gold Book ID
+1259	Iconclass notation
+1260	Idaho Species ID
+1261	Identification code for Japanese universities and colleges
+1262	Igromania ID
+1263	Il mondo dei doppiatori ID
+1264	Image Archive, Herder Institute
+1265	Images d'Art artwork ID
+1266	InChI
+1267	InChIKey
+1268	InChIKey编码
+1269	InPhO ID
+1270	Index Herbariorum code
+1271	Indian census area code (2001)
+1272	Indian census area code (2011)
+1273	IndicePA ID
+1274	Instagram location ID
+1275	Instagram位置编号
+1276	Instagram用户名
+1277	Integrated Postsecondary Education Data System ID
+1278	Interlingual Index ID
+1279	International Classification for Standards
+1280	International Standard Industrial Classification code Rev.4
+1281	International Swimming Hall of Fame ID
+1282	Internet Bird Collection species ID
+1283	Internet Book Database of Fiction writer ID
+1284	Internet Broadway Database person ID
+1285	Internet Encyclopedia of Philosophy ID
+1286	Internet Encyclopedia of Ukraine ID
+1287	Internet Game Database company ID
+1288	Internet Game Database game ID
+1289	Internet Speculative Fiction Database author ID
+1290	Internet Wrestling Database ID
+1291	Internetowy Polski Słownik Biograficzny ID
+1292	IntraText author ID
+1293	Invaluable.com person ID
+1294	Invasive Plant Atlas of the United States ID
+1295	Invasive Species Compendium Datasheet ID
+1296	Inventory of Heritage Artefacts institution ID
+1297	Iran statistics ID
+1298	Iranica ID
+1299	Irish playography person ID
+1300	Ishim ID
+1301	Isidore scholar ID
+1302	Israel Antiquities Authority ID
+1303	Israeli CBS municipal ID
+1304	Istrapedia ID
+1305	Italian Chamber of Deputies dati ID
+1306	Italian Senate ID
+1307	Italian Senate of the Republic ID
+1308	Italian Vikidia ID
+1309	Italian cadastre code (municipality)
+1310	Itaú Cultural ID
+1311	J. Paul Getty Museum artist ID
+1312	JORFSearch organization ID
+1313	JSTOR publisher ID
+1314	JSTOR 主題 ID
+1315	Jango artist ID
+1316	Japan Search name ID
+1317	Jaxsta profile ID
+1318	Jeugdliteratuur ID
+1319	JewAge person ID
+1320	Jewish Encyclopedia Daat ID
+1321	Jewish Encyclopedia ID
+1322	Jewish Encyclopedia ID (Russian)
+1323	Jewish Virtual Library ID
+1324	JewishGen Locality ID
+1325	Joconde author ID
+1326	Joconde discovery ID
+1327	Joconde domain ID
+1328	Joconde epoch ID
+1329	Joconde inscription ID
+1330	Joconde location ID
+1331	Joconde object type ID
+1332	Joconde work ID
+1333	Joconde编码
+1334	John J. Audubon's Birds of America ID
+1335	Journalisted ID
+1336	K-Scholar ID
+1337	K10plus PPN ID
+1338	KANTO ID
+1339	KATOTTH ID
+1340	KBpedia ID
+1341	KBpedia編號
+1342	KDG Komponisten der Gegenwart ID
+1343	KEGG ID
+1344	KEPN ID
+1345	KINENOTE film ID
+1346	KINENOTE person ID
+1347	KINENOTE人物編號
+1348	KINENOTE电影编号
+1349	KIT Linked Open Numbers ID
+1350	KKBox artist ID
+1351	KKBox演出者ID
+1352	KNAW past member ID
+1353	KOATUU identifier
+1354	KOATUU识别码
+1355	KSH code
+1356	Kaiserhof ID
+1357	Kallías ID
+1358	Kansallisbiografia ID
+1359	Kansaspedia ID
+1360	Keratsini-Drapetsona libraries' catalogue authority ID
+1361	Kindred Britain ID
+1362	Kino-teatr.ua person ID
+1363	Kinopoisk film ID
+1364	Kinopoisk person ID
+1365	Kinopoisk个人编号
+1366	Kinopoisk電影編號
+1367	Kinorium person ID
+1368	Kivid.info ID
+1369	KldB-2010 occupation code
+1370	Klexikon article ID
+1371	Knesset member ID
+1372	Know Your Meme ID
+1373	Know Your Meme标识符
+1374	Kritisches Lexikon zur fremdsprachigen Gegenwartsliteratur ID
+1375	Krugosvet article
+1376	KulturNav-ID
+1377	KulturNav索引码
+1378	Kunstindeks Danmark Artist ID
+1379	Kvikmyndir person ID
+1380	Köppen climate classification
+1381	L'Express person ID
+1382	L'Officiel des spectacles ID
+1383	L'Équipe football player ID
+1384	LAU
+1385	LAWA waterbody ID
+1386	LB.ua dossier ID
+1387	LBT person ID
+1388	LCCN
+1389	LEM ID
+1390	LGBT Danmark online dictionary ID
+1391	LIBRIS editions
+1392	LIBRIS版本
+1393	LIGA profile
+1394	LIMIS person ID
+1395	LIR
+1396	LOA ID
+1397	LOINC ID
+1398	LONSEA ID
+1399	LRB contributor ID
+1400	LTit person ID
+1401	Labelcode
+1402	Labour Australia ID
+1403	LakeNet ID
+1404	Language Council of Norways termwiki ID
+1405	Larousse ID
+1406	Last.fm ID
+1407	Last.fm编号
+1408	Latin Place Names ID
+1409	Latvian National Address Register ID
+1410	Latvian National Encyclopedia Online ID
+1411	Latvian toponymic names database ID
+1412	Latvian transcription
+1413	LaunchBox Games Database developer ID
+1414	LaunchBox Games Database publisher ID
+1415	Laut.de artist ID
+1416	LdiF ID
+1417	LdiF person ID
+1418	Le Delarge artist ID
+1419	Le Figaro tag ID
+1420	Le Monde ID
+1421	Le Monde diplomatique subject ID
+1422	Le Monde diplomatique对象编号
+1423	Le Parisien tag ID
+1424	Leading Hotels of the World hotel ID
+1425	Lebanese National Library ID
+1426	Lega Serie A team ID
+1427	Legacy.com newspaper ID
+1428	Legal Entity Identifier
+1429	Legislation of Ukraine ID
+1430	Leopoldina member ID
+1431	LepIndex ID
+1432	Lepidoptera of Belgium ID
+1433	Les Archives du spectacle person ID
+1434	Les Enfoirés participant ID
+1435	LesBiographies.com ID
+1436	Letteraturaitaliana.net author ID
+1437	Letterboxd actor ID
+1438	Letterboxd film ID
+1439	Letterboxd影片編號
+1440	LexM ID
+1441	Lexicon istoric retic ID
+1442	Liber Liber author ID
+1443	Library of Congress Children's Subject Headings ID
+1444	Library of Congress Classification
+1445	Library of Congress Classification (works and editions)
+1446	Library of Congress Control Number (LCCN) (bibliographic)
+1447	Library of Congress Demographic Group Terms ID
+1448	Library of Congress Genre/Form Terms ID
+1449	Library of Congress JukeBox ID (former scheme)
+1450	Library of Congress Medium of Performance Thesaurus ID
+1451	Library of Congress of Chile person ID
+1452	Library of Parliament of Canada person ID
+1453	LibraryThing author ID
+1454	LibraryThing作者标识符
+1455	LibriVox author ID
+1456	LibriVox作者编号
+1457	Libris-URI
+1458	Libris统一资源标识符
+1459	LiederNet author ID
+1460	LiederNet composer ID
+1461	LilyPond notation
+1462	Line Music artist ID
+1463	Line Music艺术家标识符
+1464	Linguasphere code
+1465	Linguasphere代码
+1466	Linguist List code
+1467	Linguist list代码
+1468	Linked Open Data Cloud identifier
+1469	LinkedIn company ID
+1470	LinkedIn personal profile ID
+1471	Litchfield Ledger ID
+1472	LittleSis organization ID
+1473	LittleSis people ID
+1474	LiveJournal ID
+1475	LiveJournal账号
+1476	LiveXLive artist ID
+1477	Livelib.ru person ID
+1478	LiverTox ID
+1479	Lives of WWI ID
+1480	LoC HABS/HAER/HALS place ID
+1481	LoC and MARC vocabularies ID
+1482	LoC和MARC词汇编号
+1483	LoJ peak ID
+1484	Logainm ID
+1485	Lokalhistoriewiki.no ID
+1486	LombardiaBeniCulturali artwork ID
+1487	LombardiaBeniCulturali artwork author ID
+1488	LombardiaBeniCulturali toponym ID
+1489	LongTake person ID
+1490	Looted Cultural Assets Database ID
+1491	Los Angeles Review of Books author ID
+1492	Louvre Museum ARK ID
+1493	Lower Sorbian place name ID
+1494	Lucerna person ID
+1495	Luminous-Lint ID
+1496	Lutris game ID
+1497	Lyrics007 artist ID
+1498	LyricsTranslate ID
+1499	Léonore ID
+1500	Léonore编码
+1501	M.49 code
+1502	MANTO ID
+1503	MART catalog person ID
+1504	MCN code
+1505	MDWS place ID
+1506	MEP directory ID
+1507	MGG Online ID
+1508	MIL-STD-2525 Symbol Identification Code
+1509	MIMO instrument ID
+1510	MONA ID
+1511	MOOMA artist ID
+1512	MPPDA Digital Archive organisation ID
+1513	MR Author ID
+1514	MSBI person ID
+1515	MSW ID
+1516	MUBI person ID
+1517	MYmovies actor ID (former scheme)
+1518	MYmovies name ID (former scheme)
+1519	MYmovies person ID
+1520	MYmovies名称编号
+1521	MYmovies演员编号
+1522	MacTutor biography ID
+1523	Macedonian cadastral municipality ID
+1524	Magdeburger Biographisches Lexikon ID
+1525	Magyar életrajzi lexikon ID
+1526	Maine: An Encyclopedia ID
+1527	Maitron ID
+1528	MalaCards ID
+1529	Maniadb artist ID
+1530	Manus Online author ID
+1531	Mapillary ID
+1532	Mapillary編號
+1533	Mappy place ID
+1534	Mapy.cz ID
+1535	Marine Regions Geographic ID
+1536	Marine Regions Geographic IDentifier (MRGID)
+1537	MassBank accession ID
+1538	Mastodon address
+1539	Mastodon地址
+1540	MathWorld identifier
+1541	MathWorld識別碼
+1542	Mathematics Genealogy Project ID
+1543	Mathematics Subject Classification ID
+1544	Max Movie person ID
+1545	McClintock and Strong Biblical Cyclopedia ID
+1546	McCune-Reischauer romanization
+1547	MeSH concept ID
+1548	MeSH descriptor ID
+1549	MeSH term ID
+1550	MeSH tree code
+1551	MeSH描述符ID
+1552	Media Arts Database ID
+1553	Media Bias/Fact Check ID
+1554	Mediapart tag ID
+1555	Medieval Manuscripts in Oxford Libraries person ID
+1556	Medieval Manuscripts in Oxford Libraries place ID
+1557	Medium username
+1558	Medium用户名
+1559	MedlinePlus ID
+1560	Melon artist ID
+1561	Member of the Hellenic Parliament ID
+1562	Merkelstiftung person ID
+1563	MetaSat ID
+1564	Metacritic ID
+1565	Metacritic标识符
+1566	Metro topic ID
+1567	MetroLyrics ID
+1568	Michelin Voyages ID
+1569	Michigan Flora ID
+1570	Microsoft Academic ID
+1571	Microsoft Store product ID
+1572	Mille Anni di Scienza in Italia ID
+1573	MinDat locality ID
+1574	MinDat mineral ID
+1575	Ministry of the Interior of Italy ID
+1576	Minneapolis Institute of Art constituent ID
+1577	Minor Planet Center observatory code
+1578	Mir@bel journal ID
+1579	Mirabile author ID
+1580	Mississippi Encyclopedia ID
+1581	Mixer game ID (former scheme)
+1582	Mixer游戏ID
+1583	MoEML ID
+1584	MobyGames company ID
+1585	MobyGames developer ID
+1586	MobyGames game ID
+1587	MobyGames genre ID
+1588	MobyGames公司ID
+1589	MobyGames开发者ID
+1590	Model Manual ID
+1591	Models.com person ID
+1592	Mohs' hardness
+1593	MonDO ID
+1594	Montreux Jazz Festival person ID
+1595	Mora Artist ID
+1596	Mormon Literature and Creative Arts Database artist ID
+1597	Moths and Butterflies of Europe and North Africa ID
+1598	Movie Walker film ID
+1599	Movie Walker person ID
+1600	MovieGe person ID
+1601	MovieMeter film ID
+1602	MovieMeter person ID
+1603	MovieMeter人物編號
+1604	MovieMeter电影编号
+1605	Moviepilot.de film ID
+1606	Movieplayer person ID
+1607	Movieplayer角色编号
+1608	Mtime people ID
+1609	Muck Rack media outlet ID
+1610	Munk's Roll ID
+1611	Munzinger Pop ID
+1612	Munzinger Sport number
+1613	Munzinger person ID
+1614	MuseScore artist ID
+1615	Museen Dresden article ID
+1616	Museo Galileo authority ID
+1617	Museo Galileo biography ID
+1618	Museo del Prado artist ID
+1619	Museofile
+1620	Museum Universe Data File ID
+1621	Museum of Modern Art artist ID
+1622	Museum of Modern Art work ID
+1623	Museum of the Jewish People at Beit Hatfutsot ID
+1624	Museums in Austria Code
+1625	MusicBrainz area ID
+1626	MusicBrainz genre ID
+1627	MusicBrainz instrument ID
+1628	MusicBrainz label ID
+1629	MusicBrainz place ID
+1630	MusicBrainz release group ID
+1631	MusicBrainz series ID
+1632	MusicBrainz work ID
+1633	MusicBrainz乐器编码
+1634	MusicBrainz作品编码
+1635	MusicBrainz厂牌编号
+1636	MusicBrainz发行组编号
+1637	MusicBrainz地区编号
+1638	MusicBrainz地点编号
+1639	MusicBrainz系列编码
+1640	MusicBrainz音乐家编号
+1641	Musicalics composer ID
+1642	Musik-Sammler.de artist ID
+1643	Musisque Deoque author ID
+1644	Musixmatch artist ID
+1645	Musopen composer ID
+1646	Musée d'Orsay artist ID
+1647	Mutopia composer ID
+1648	MutualArt artist ID
+1649	MutualArt藝術家ID
+1650	Muziekweb performer ID
+1651	MyAnimeList people ID
+1652	MyAnimeList人物标识符
+1653	MyMusic artist ID
+1654	MyNeta.info political party ID
+1655	Myspace ID
+1656	Myspace账号
+1657	Médias 19 ID
+1658	Mérimée ID
+1659	München Wiki article ID
+1660	NACE code
+1661	NAD place ID
+1662	NAIF ID
+1663	NALT ID
+1664	NARCIS researcher ID
+1665	NAS ID
+1666	NBIC taxon ID
+1667	NBM authority ID
+1668	NBN System Key
+1669	NCAA organization code
+1670	NCBI taxonomy ID
+1671	NCBI生物分类编号
+1672	NCI Thesaurus ID
+1673	NCI编码
+1674	NCpedia ID
+1675	NDF-RT ID
+1676	NE.se ID
+1677	NFL.com ID (former scheme)
+1678	NHS Health A to Z ID
+1679	NIAID ChemDB ID
+1680	NIOSH Pocket Guide ID
+1681	NIS/INS code
+1682	NIS/INS代码
+1683	NLA Trove people ID
+1684	NLB authority ID
+1685	NLC authorities
+1686	NLM Unique ID
+1687	NLM唯一ID
+1688	NLS Geographic Names Register Place ID
+1689	NLS place type ID
+1690	NMVW ID
+1691	NNDB
+1692	NNDB people ID
+1693	NOC Occupation Code
+1694	NORAF ID
+1695	NOTAM (FAA)
+1696	NRHP reference number
+1697	NRHP参考编号
+1698	NSC number
+1699	NSC编号
+1700	NSDAP membership number (1925–1945)
+1701	NSW Flora ID
+1702	NSW植物ID
+1703	NSZL (VIAF) ID
+1704	NSZL name authority ID
+1705	NUKAT ID
+1706	NUTS code
+1707	NUTS代码
+1708	NWBib ID
+1709	NWT Species ID
+1710	NYRB contributor ID
+1711	NZPCN ID
+1712	Name Assigning Authority Number
+1713	Namuwiki ID
+1714	Namuwiki标识符
+1715	Napster artist ID
+1716	National Academy of Medicine (France) member ID
+1717	National Academy of Sciences member ID
+1718	National Discography of Italian Song artist/group ID
+1719	National Gallery of Art artist ID
+1720	National Gallery of Victoria artist ID
+1721	National Heritage List for England number
+1722	National Historic People ID
+1723	National Historical Museums of Sweden agent ID
+1724	National Inventors Hall of Fame ID
+1725	National Inventory of Dams ID
+1726	National Library Board Singapore ID
+1727	National Library of Brazil ID
+1728	National Library of Chile ID
+1729	National Library of Greece ID
+1730	National Library of Iceland ID
+1731	National Library of Israel ID (old)
+1732	National Library of Israel J9U ID
+1733	National Library of Korea ID
+1734	National Library of Lithuania ID
+1735	National Library of Luxembourg ID
+1736	National Library of Romania ID
+1737	National Library of Russia ID
+1738	National Library of Wales Authority ID
+1739	National Medal of Arts winner ID
+1740	National Natural Landmarks site ID
+1741	National Park Service people ID
+1742	National Park Service place ID
+1743	National Portrait Gallery (London) person ID
+1744	National Taxonomy of Exempt Entities code
+1745	National-Football-Teams.com player ID
+1746	Nationale Thesaurus voor Auteurs ID
+1747	Nationalmuseum Sweden ID
+1748	Native Land language ID
+1749	Native Land territory ID
+1750	Natura 2000 site ID
+1751	Natural Atlas ID
+1752	Naver Encyclopedia ID
+1753	Naver VIBE artist ID
+1754	Naver百科全书编号
+1755	Naver音乐艺术家编号
+1756	Nchdb asset ID
+1757	Nederlands Fotomuseum photographer ID
+1758	Nederlands Soortenregister ID
+1759	Nederlandse Top 40 artist ID
+1760	Nederlandse Voornamenbank ID
+1761	Nelson-Atkins Museum of Art person ID
+1762	Neotropical Birds ID
+1763	Netflix ID
+1764	New Encyclopedic Dictionary of Czech ID
+1765	New Georgia Encyclopedia ID
+1766	New York City Landmarks Preservation Commission ID
+1767	New York Times topic ID
+1768	New Zealand Gazetteer place ID
+1769	New Zealand Organisms Register ID
+1770	Newseum newspaper front page ID
+1771	Newspapers.com paper ID
+1772	Niconico大百科编号
+1773	Nikkaji ID
+1774	Nintendo eShop ID
+1775	Nobel Laureate API ID
+1776	Nobel Prize People Nomination ID
+1777	Nomenclature for Museum Cataloging
+1778	Nominis given name ID
+1779	Nominis saint ID
+1780	Nomisma ID
+1781	None
+1782	NooSFere author ID
+1783	Noovie person ID
+1784	Norsk biografisk leksikon ID
+1785	Norwegian Nationaltheatret actor ID
+1786	Norwegian Polar Institute place name ID
+1787	Norwegian State Administration Database ID
+1788	Norwegian historical register of persons ID
+1789	Norwegian municipality number
+1790	Norwegian organisation number
+1791	Norwegian war refugees register ID
+1792	NosDéputés.fr identifiant
+1793	NosSénateurs.fr identifier
+1794	O*NET OnLine code
+1795	OBO Gazetteer ID
+1796	OBV editions ID
+1797	OCLC control number
+1798	OCLC控制号
+1799	ODIS ID
+1800	ODLIS ID
+1801	OFDb film ID
+1802	OFDb person ID
+1803	OFDb人物标识符
+1804	OFDb电影标识符
+1805	OGDB game title ID
+1806	OKATO ID
+1807	OKPD code of the good or service
+1808	OKPD2 code of the good or service
+1809	OKTMO ID
+1810	OMIM ID
+1811	ORCID iD
+1812	ORCID标识符
+1813	OS grid reference
+1814	OSM Name Suggestion Index identifier
+1815	OSM关系标识符
+1816	OSM名称建议索引标识符
+1817	OSM标签或关键词
+1818	OSM缩放级别
+1819	Obituaries Australia ID
+1820	Objectif Gard topic ID
+1821	Obrazi slovenskih pokrajin ID
+1822	Observation.org ID
+1823	Observatoire du Patrimoine Religieux ID
+1824	Occupational Outlook Handbook ID
+1825	Odnoklassniki ID
+1826	Odnoklassniki账号
+1827	Official Charts artist ID
+1828	Offizielle Deutsche Charts artist ID (former scheme)
+1829	Oiseaux.net ID
+1830	Olympedia people ID
+1831	Olympedia人物编号
+1832	Olympic.org athlete ID (archived)
+1833	Olympics.com athlete ID / archived OlympicChannel ID
+1834	OmegaWiki定义
+1835	Omni topic ID
+1836	Omni主题ID
+1837	Online Books Page author ID
+1838	Online Books Page publication ID
+1839	Online PWN Encyclopedia ID
+1840	Ontology of units of Measure 2.0 unit ID
+1841	Open Civic Data Division ID
+1842	Open Food Facts food category ID
+1843	Open Food Facts ingredient ID
+1844	Open Hub ID
+1845	Open Library ID
+1846	Open Library subject ID
+1847	Open Media Database film ID
+1848	Open Media Database person ID
+1849	Open Tree of Life ID
+1850	OpenCorporates ID
+1851	OpenCorporates corporate grouping
+1852	OpenCorporates编码
+1853	OpenCritic ID
+1854	OpenCritic游戏标识符
+1855	OpenDOAR ID
+1856	OpenDomesday settlement ID
+1857	OpenEdition Books author ID
+1858	OpenHistoricalMap relation ID
+1859	OpenPlaques subject ID
+1860	OpenPlaques主题ID
+1861	OpenSecrets people ID
+1862	OpenStreetMap numeric user ID
+1863	OpenStreetMap relation ID
+1864	OpenStreetMap tag or key
+1865	OpenStreetMap zoom level
+1866	OpenStreetMap数字用户编号
+1867	OpenWeatherMap city ID
+1868	Openpolis ID
+1869	Openpolis编码
+1870	Opera Online composer ID
+1871	Opta football competition ID
+1872	Order of Canada recipient ID
+1873	Orlando author ID
+1874	Orphanet ID
+1875	Orthodox Encyclopedia ID
+1876	OrthodoxWiki ID (English)
+1877	OverDrive creator ID
+1878	Oxford Bibliographies ID
+1879	Oxford Classical Dictionary ID
+1880	Oxford Dictionary of National Biography ID
+1881	P-number
+1882	PACE member ID
+1883	PACE成员代码
+1884	PACTOLS thesaurus ID
+1885	PAN member
+1886	PARES ID
+1887	PAS member ID
+1888	PC Games Database.de game ID
+1889	PCGamingWiki ID
+1890	PDB ligand ID
+1891	PDB structure ID
+1892	PDB结构编号
+1893	PEPC park ID
+1894	PHI Latin Texts author ID
+1895	PIM authority ID
+1896	PLU code
+1897	PLWABN ID
+1898	PM20 folder ID
+1899	PM20 geo code
+1900	PORT ID
+1901	PORT film ID
+1902	PORT person ID
+1903	POSIX locale identifier
+1904	PPP GDP per capita
+1905	PPP人均GDP
+1906	PRDL编码
+1907	PRELIB organization ID
+1908	PRELIB person ID
+1909	PRS Legislative Research MP ID
+1910	PSH ID
+1911	PSS-archi ID
+1912	Pacific Coast Architecture Database building ID
+1913	PagesJaunes ID
+1914	PalDat plant ID
+1915	Paměť národa ID
+1916	Pandora artist ID
+1917	Panorama de l'art ID
+1918	Paris Faculty of Science professor ID
+1919	Park Alpha Code
+1920	Parlement.com ID
+1921	Parler username
+1922	Parliament of Australia MP ID
+1923	Parliamentary record identifier
+1924	Parsons code
+1925	Parsons代码
+1926	Partis d'Arcadie ID
+1927	Party Number (Taiwan)
+1928	Patientplus ID
+1929	Patientplus编码
+1930	PatientsLikeMe treatment ID
+1931	Patrinum ID
+1932	PeakVisor area ID
+1933	PeakVisor peak ID
+1934	PeakVisor range ID
+1935	Peakbagger area ID
+1936	Peakbagger mountain ID
+1937	Peakbagger山脉ID
+1938	Penguin India author ID
+1939	People Australia ID
+1940	Peoples.ru person ID
+1941	PeriodO period ID
+1942	Periscope ID
+1943	Perlentaucher ID
+1944	PermID
+1945	Perseus author ID
+1946	PersonalData.IO ID
+1947	Personendatenbank Germania Sacra ID
+1948	Persons of Indian Studies ID
+1949	Persée author ID
+1950	Petit Futé site ID
+1951	PhilPapers author ID
+1952	PhilPapers topic
+1953	Philadelphia Museum of Art entity ID
+1954	Philippine Standard Geographic Code
+1955	Philosophica ID
+1956	Photographers' Identities Catalog ID
+1957	Physics History Network ID
+1958	Pinakes author ID
+1959	Pinakothek artist ID
+1960	Pinterest username
+1961	Pinterest用户名
+1962	Pitchfork artist ID
+1963	Place Names Register ID (Estonia)
+1964	Pladias ID
+1965	Plant Finder ID
+1966	Plant Illustrations artist ID
+1967	Plant Parasites of Europe ID
+1968	PlantList-ID
+1969	Plants of the World online ID
+1970	Plarr ID
+1971	Playbill person ID
+1972	PlaymakerStats.com player ID
+1973	PlaymakerStats.com team ID
+1974	Plazi ID
+1975	Pleiades ID
+1976	Pleiades category identifier
+1977	Plus Music artist ID
+1978	Podchaser creator ID
+1979	Poetry Archive poet ID
+1980	Poetry Archive网站诗人ID
+1981	Poetry Foundation ID
+1982	Poetry In Voice poet ID
+1983	Poets.org poet ID
+1984	Poincaré Papers person ID
+1985	PolSys ID
+1986	Polignosi ID
+1987	Polish scientist ID
+1988	PolitiFact people and groups ID
+1989	Political Graveyard politician ID
+1990	Politika topic ID
+1991	Politiklexikon ID
+1992	Polski Słownik Judaistyczny ID
+1993	Pontificia Università della Santa Croce ID
+1994	Pontificio Istituto di Archeologia Cristiana ID
+1995	Portal da Literatura ID
+1996	Portrait Archive ID
+1997	Portuguese Job Code CPP-2010
+1998	Portuguese National Library ID
+1999	Post-Reformation Digital Library author ID
+2000	Postimees topic ID
+2001	Prabook ID
+2002	PragerU presenter ID
+2003	Prisma ID
+2004	Pro-Football-Reference.com player ID
+2005	Project Gutenberg author ID
+2006	Projekt Gutenberg-DE author ID
+2007	Proleksis enciklopedija ID
+2008	Proveana ID
+2009	Provenio UUID
+2010	Pschyrembel Online ID
+2011	PubChem CID
+2012	PubMed Health
+2013	PublicWhip ID
+2014	Publons author ID
+2015	Publons publisher ID
+2016	Publons作者编号
+2017	Publons发布者ID
+2018	Punjabipedia ID
+2019	Q-Codes ID
+2020	QS World University ID
+2021	QS世界大学编号
+2022	QUDT unit ID
+2023	QUDT单位编号
+2024	Qobuz artist ID
+2025	Qobuz label ID
+2026	Quebec cultural heritage directory ID
+2027	Queensland Biota ID
+2028	Queensland place ID
+2029	Quirinale ID
+2030	Quora username
+2031	Quora主题代码
+2032	Quora用户名
+2033	Québec cultural heritage directory people identifier
+2034	RA Collections ID
+2035	RDA value vocabularies ID
+2036	RERO ID
+2037	RFI Musique artist ID
+2038	RIA Novosti reference
+2039	RIAA artist ID
+2040	RICS company code
+2041	RICS公司代码
+2042	RILM ID
+2043	RISM ID
+2044	RITVA Person ID
+2045	RKD thesaurus ID
+2046	RKDartists ID
+2047	RKDartists编码
+2048	RKDimages ID
+2049	RKDimages编码
+2050	RMF FM artist ID
+2051	ROARMAP ID
+2052	ROME Occupation Code (v3)
+2053	ROME职业编号（v3）
+2054	ROR ID
+2055	RPO poet ID
+2056	RSL ID (person)
+2057	RSL author ID
+2058	RSL编码（个人）
+2059	RTECS number
+2060	RTECS编号
+2061	Radio Radicale organizer ID
+2062	Radio Radicale person ID
+2063	Ramsar Sites Information Service ID
+2064	Rate Your Music artist ID
+2065	Rate Your Music genre ID
+2066	Rate Your Music label ID
+2067	RationalWiki ID
+2068	RauteMusik artist ID
+2069	RePEc Short-ID
+2070	RePEc institute ID
+2071	Reaxys registry number
+2072	Recreation.gov gateway ID
+2073	Red List of South African Plants ID
+2074	Reddit username
+2075	Reddit用户名
+2076	Regensburg Classification
+2077	Regensburg Classification (works and editions)
+2078	Regesta Ecclesiastica Salisburgensia ID
+2079	RegiowikiAT ID
+2080	Rekhta author ID
+2081	Relationship Science organization ID
+2082	Relationship Science person ID
+2083	Repertorium van ambtsdragers en ambtenaren ID
+2084	Republic of Korea Parliamentarian Society ID
+2085	ResearchGate contributions ID
+2086	ResearchGate institute ID
+2087	ResearchGate机构ID
+2088	ResearchGate贡献编号
+2089	ResearcherID
+2090	Resident Advisor label ID
+2091	Revised Romanization
+2092	Rheinland-Pfälzische Personendatenbank ID
+2093	Ricorso author ID
+2094	Righteous Among The Nations ID
+2095	Riigikogu ID
+2096	Rijksmuseum Research Library authority ID
+2097	Riksdagen person-ID
+2098	Ringgold ID
+2099	RoMEO publisher ID
+2100	Rock and Roll Hall of Fame ID
+2101	Rock's Backpages artist ID
+2102	Rock's Backpages publication ID
+2103	Rockipedia area ID
+2104	Rodovid ID
+2105	Rodovid索引碼
+2106	Roglo person ID
+2107	Rolling Stone artist ID
+2108	Rotterdam City Archives actor ID
+2109	Routard.com place ID
+2110	Royal Academy new identifier
+2111	Royal Swedish Academy of Letters member ID
+2112	Runeberg author ID
+2113	Rupa Publications author ID
+2114	Rush Parliamentary Archive ID
+2115	Russian organisation number
+2116	RxNorm ID
+2117	Römpp online ID
+2118	S2A3 Biographical Database ID
+2119	SA Flora ID
+2120	SAH Archipedia architect ID
+2121	SAH Archipedia building ID
+2122	SAHRA heritage site ID
+2123	SAIA authority ID
+2124	SAPA ID
+2125	SAR ancestor ID
+2126	SBC-2010 occupation code
+2127	SBN author ID
+2128	SBN books ID
+2129	SCAR Composite Gazetteer place ID
+2130	SEARCH on line catalogue ID
+2131	SEKO ID
+2132	SELIBR ID
+2133	SELIBR编码
+2134	SFMOMA artist ID
+2135	SHARE Catalogue author ID
+2136	SICRIS researcher ID
+2137	SIMBAD ID
+2138	SIMC place ID
+2139	SIREN号码
+2140	SIRET number
+2141	SIRUTA code
+2142	SIUSA archive producer person ID
+2143	SK cinema authority ID
+2144	SMILES
+2145	SNAC ARK ID
+2146	SNAC方舟编码
+2147	SNK ID
+2148	SNOMED CT identifier
+2149	SOATO ID
+2150	SOC Code (2010)
+2151	SOR bird ID
+2152	SPLASH
+2153	SSB urban settlement number
+2154	SSR place name number
+2155	SSRN author ID
+2156	SSYK 2012 The Swedish Standard Classification of Occupations
+2157	STW Thesaurus for Economics ID
+2158	SUDOC editions
+2159	SVKKL authority ID
+2160	SVT Play ID
+2161	SWB editions
+2162	Saint Louis Art Museum person ID
+2163	Salzburgwiki ID
+2164	Sandbox-External identifier
+2165	Sandrart.net person ID
+2166	Sandrart.net人物编号
+2167	Sandre ID
+2168	Sandre river ID
+2169	Santiebeati ID
+2170	Sarvavijnanakosam ID
+2171	Savoirs ENS ID
+2172	Schoenberg Database of Manuscripts name ID
+2173	Schoenberg Database of Manuscripts place ID
+2174	Science Museum people ID
+2175	Scope.dk film ID
+2176	Scope.dk person ID
+2177	Scopus affiliation ID
+2178	Scopus author ID
+2179	Scopus source ID
+2180	Scopus来源出版物编号
+2181	Scottish Charity number
+2182	Scribd publication ID
+2183	SeaLifeBase ID
+2184	SecondHandSongs artist ID
+2185	SecondHandSongs work ID
+2186	Sejm-Wielki.pl profile ID
+2187	Semantic Scholar author ID
+2188	Semantic Scholar topic ID
+2189	SerialStation game ID
+2190	Shakeosphere person ID
+2191	Shanghai Library person ID
+2192	Shanghai Library place ID
+2193	Share-VDE 1.0 author ID
+2194	SinemaTürk person ID
+2195	Sinemalar person ID
+2196	Singapore Infopedia ID
+2197	Singers.com ID
+2198	Six Degrees of Francis Bacon ID
+2199	SkyscraperPage building ID
+2200	SlideShare username
+2201	SlideShare用户名
+2202	Slovak National Library ID (VIAF)
+2203	Slovene Cultural Heritage Register ID
+2204	Slovenska biografija ID
+2205	Slovo i Dilo person ID
+2206	Smithsonian American Art Museum person/institution ID
+2207	Smithsonian resource ID
+2208	Smithsonian trinomial format regex
+2209	Smithsonian volcano ID
+2210	Smotrim.ru actor profile ID
+2211	Snapchat username
+2212	Snapchat用户名
+2213	So Foot ID
+2214	Soccerbase player ID
+2215	Soccerbase team ID
+2216	Soccerway player ID
+2217	Soccerway team ID
+2218	Social Security Death Index entry
+2219	SongMeanings artist ID
+2220	Songfacts artist ID
+2221	Songfacts艺术家ID
+2222	Songkick artist ID
+2223	Songkick venue ID
+2224	Songkick艺术家ID
+2225	Songwriters Hall of Fame ID
+2226	Sotheby's Museum Network ID
+2227	SoundCloud ID
+2228	SoundCloud编号
+2229	SoundHound artist ID
+2230	Soundex
+2231	South Carolina Encyclopedia ID
+2232	Spanish Biographical Dictionary ID
+2233	Spanish Quora topic ID
+2234	Spanish Vikidia ID
+2235	Species at Risk public registry ID
+2236	Spenserians person ID
+2237	SportSport.ba news ID
+2238	Sports Reference ID代码
+2239	Sports-Reference.com Olympic athlete ID (archived)
+2240	SportsLogos.net team ID
+2241	Spotify artist ID
+2242	Spotify track ID
+2243	Spotify声道编号
+2244	Spotify艺术家编号
+2245	Sratim ID
+2246	Stack Exchange site
+2247	Stack Exchange tag
+2248	Stack Exchange子网站
+2249	Stack Exchange标签
+2250	StadiumDB identifier
+2251	StadiumDB标识符
+2252	Stadtlexikon Karlsruhe ID
+2253	Stadtwiki Dresden article
+2254	Stanford Encyclopedia of Philosophy ID
+2255	State Catalogue of Geographical Names (Russia) ID
+2256	State Catalogue of the Museum Fund of Russia museum ID
+2257	State Water Register Code (Russia)
+2258	Statistical Service of Cyprus Geocode
+2259	Statistics Canada Geographic code
+2260	Statistics Indonesia ethnicity code
+2261	Statoids ID
+2262	Steam application ID
+2263	Steam應用程式編號
+2264	StopGame ID
+2265	Store medisinske leksikon ID
+2266	Store norske leksikon ID
+2267	Storting person ID
+2268	StrategyWiki ID
+2269	StrategyWiki标识符
+2270	Structurae person ID
+2271	Structurae structure ID
+2272	Structurae结构编码
+2273	Students of Prague Universities ID
+2274	Studio di Fonologia Musicale RAI person ID
+2275	Stuttgart Database of Scientific Illustrators ID
+2276	Städel Museum artist ID
+2277	SummitPost ID
+2278	Supraphonline artist ID
+2279	Svenska Institutet i Rom ID
+2280	Swedish Anbytarforum
+2281	Swedish Film Database film ID
+2282	Swedish Film Database group ID
+2283	Swedish Film Database person ID
+2284	Swedish Gravestone ID
+2285	Swedish Literature Bank Author ID
+2286	Swedish Musical Heritage ID
+2287	Swedish National Archive Reference Code
+2288	Swedish National Library Arken ID
+2289	Swedish Open Cultural Heritage URI
+2290	Swedish Organization Number
+2291	Swedish Parliament person GUID
+2292	Swedish Portrait Archive ID
+2293	Swedish Royal Theater Archive
+2294	Swedish county code
+2295	Swedish county letter
+2296	Swedish urban area code
+2297	Swiss Enterprise Identification Number
+2298	Swiss Federal Archives ID
+2299	Swiss municipality code
+2300	Sycomore ID
+2301	Symptom Ontology ID
+2302	Syriac Biographical Dictionary ID
+2303	TA2 ID
+2304	TA98 Latin term
+2305	TASS reference
+2306	TAXREF ID
+2307	TCLF ID
+2308	TCM Movie Database film ID
+2309	TCM Movie Database person ID
+2310	TCM電影資料庫人物索引碼
+2311	TDKIV term ID
+2312	TDV İslam Ansiklopedisi ID
+2313	TDV İslam Ansiklopedisi编号
+2314	TED speaker ID
+2315	TED topic ID
+2316	TED演讲者ID
+2317	TED話題ID
+2318	TERC municipality code
+2319	TERC市政代码
+2320	TLG author ID
+2321	TMDb movie ID
+2322	TMDb person ID
+2323	TMDb人物编号
+2324	TMDb电影编号
+2325	TOID
+2326	TOPCMB ID
+2327	TORA ID
+2328	TV Guide person ID (former scheme)
+2329	TV Guide show ID (former scheme)
+2330	TV Tropes identifier
+2331	TV.com ID
+2332	TaDiRAH ID
+2333	Tabakalera ID
+2334	Tagesschau election ID
+2335	Taratata artist ID
+2336	TasteAtlas ID
+2337	Tate artist ID
+2338	Te Papa agent ID
+2339	TeX string
+2340	TeX字符串
+2341	Techopedia ID
+2342	Tela Botanica ID
+2343	Telegram username
+2344	Telegram用户名
+2345	Tennessee Encyclopedia ID
+2346	Tennis Hall of Fame player ID
+2347	TermCymru ID
+2348	Terminologia Anatomica 98 ID
+2349	The Black Book ID
+2350	The Cardinals of the Holy Roman Church ID
+2351	The Coptic Library ID
+2352	The Encyclopedia of Oklahoma History and Culture ID
+2353	The Encyclopedia of Science Fiction ID
+2354	The First Amendment Encyclopedia ID
+2355	The Good Old Days ID
+2356	The Independent topic ID
+2357	The Latin Library author ID
+2358	The Living New Deal ID
+2359	The Numbers movie ID
+2360	The Numbers person ID
+2361	The Oregon Encyclopedia ID
+2362	The Peerage person ID
+2363	The Peerage人物编号
+2364	The Reptile Database ID
+2365	The Times of India topic ID
+2366	The Top Tens ID
+2367	The Washington Post contributor ID
+2368	The Women's Print History Project person ID
+2369	The World Factbook country ID
+2370	TheCocktailDB ingredient ID
+2371	TheGamesDB publisher ID
+2372	TheTVDB person ID
+2373	Theatricalia person ID
+2374	Theatricalia play ID
+2375	Theatricalia theatre ID
+2376	Theatricalia劇作索引碼
+2377	Thesaurus Sozialwissenschaften ID
+2378	Thesaurus for Graphic Materials ID
+2379	TheyWorkForYou ID
+2380	Thomas Jefferson Encyclopedia ID
+2381	Thésaurus de la désignation des œuvres architecturales et des espaces aménagés ID
+2382	Ticketmaster artist ID
+2383	Tidal artist ID
+2384	Tierstimmenarchiv ID
+2385	TikTok username
+2386	TikTok用户名
+2387	Times Higher Education World University ID
+2388	ToposText place ID
+2389	ToposText work ID
+2390	TracesOfWar person ID
+2391	Track and Field Statistics male athlete ID
+2392	Trading Card Database person ID
+2393	Trainline ID
+2394	Trakt.tv ID
+2395	Transfermarkt manager ID
+2396	Transfermarkt player ID
+2397	Transfermarkt team ID
+2398	Trap Danmark ID
+2399	Treasury of Lives ID
+2400	Treccani ID
+2401	Treccani Vocabulary ID
+2402	Treccani's Dizionario di Filosofia ID
+2403	Treccani's Dizionario di Storia ID
+2404	Treccani's Enciclopedia Dantesca ID
+2405	Treccani's Enciclopedia Italiana ID
+2406	Treccani's Enciclopedia dei Papi ID
+2407	Treccani's Enciclopedia del Cinema ID
+2408	Treccani's Lessico del XXI Secolo ID
+2409	Tree of Life Web Project ID
+2410	TripAdvisor ID
+2411	Trismegistos Geo ID
+2412	Tropicos ID
+2413	Trustpilot company ID
+2414	Tumblr username
+2415	Tumblr账号
+2416	TuneIn artist ID
+2417	TuneIn艺术家编号
+2418	Tunisian geographic code
+2419	Twitch category ID
+2420	Twitch channel ID
+2421	Twitch tag ID
+2422	Twitch team ID
+2423	Twitch团队编号
+2424	Twitch標籤編號
+2425	Twitch游戏标识符
+2426	Twitch频道编号
+2427	Twitter topic ID
+2428	Twitter user numeric ID
+2429	Twitter用户名
+2430	Twitter用户数字编号
+2431	Twitter话题编号
+2432	Télé-Loisirs ID
+2433	U-Multirank university ID
+2434	U-Multirank大学编号
+2435	U.S. National Archives Identifier
+2436	U.S. National Geodetic Survey ID
+2437	UAE University Libraries ID
+2438	UBERON ID
+2439	UBIGEO code
+2440	UCUM code
+2441	UEFA team ID
+2442	UIC alphabetical country code
+2443	UIC numerical country code
+2444	UIC字母国家代码
+2445	UIC数字国家代码
+2446	UK Electoral Commission ID
+2447	UK National Archives ID
+2448	UK Parliament identifier
+2449	UK Parliament thesaurus ID
+2450	UK Provider Reference Number
+2451	ULAN编码
+2452	UMLS CUI
+2453	UN/CEFACT Common Code
+2454	UN/CEFACT常用代码
+2455	UN/LOCODE
+2456	UNBIS Thesaurus ID
+2457	UNDP country code
+2458	UNDP国家代码
+2459	UNESCO Atlas of the World's Languages in Danger ID
+2460	UNESCO Biosphere Reserve URL
+2461	UNESCO Thesaurus ID
+2462	UNESCO language status
+2463	UNESCO世界濒危语言地图集ID
+2464	UNESCO语言状态
+2465	UNII
+2466	UNSPSC Code
+2467	UNSPSC代码
+2468	URL for citizen's initiatives
+2469	URL ของตัวดึงข้อมูลเว็บ
+2470	US Congress Bio ID
+2471	US Federal Election Commission ID
+2472	USA Track & Field Hall of Fame ID (legacy.usatf.org)
+2473	USDA NDB number
+2474	USDA PLANTS ID
+2475	USGS earthquake ID
+2476	USGS地震ID
+2477	USHMM Holocaust Encyclopedia ID
+2478	USNPL ID
+2479	UTC timezone offset
+2480	UVL company ID
+2481	UVL game ID
+2482	Uffizi artwork ID
+2483	Ultimate Guitar artist ID
+2484	Unicode character name
+2485	Unicode code point
+2486	Unicode range
+2487	Unicode十六进制代码点
+2488	Unicode字符
+2489	Unicode字符名
+2490	Unified Astronomy Thesaurus ID
+2491	Unified Social Credit Identifier
+2492	Unifrance company ID
+2493	Unifrance person ID
+2494	Union Catalog of Armenian Libraries authority ID
+2495	Union List of Artist Names ID
+2496	Unione Romana Biblioteche Scientifiche ID
+2497	Unique Property Reference Number
+2498	United Nations Treaty Collection object ID
+2499	United Nations Treaty Series registration number
+2500	United States Armed Forces service number
+2501	United States Public Law
+2502	United States Statutes at Large citation
+2503	Universal Decimal Classification
+2504	Universal Music France artist ID
+2505	University of Amsterdam Album Academicum ID
+2506	University of Barcelona authority ID (obsolete)
+2507	Unz Review author ID
+2508	Uppsala University Alvin ID
+2509	Uppslagsverket Finland ID
+2510	Ustream username
+2511	Ustream用户名
+2512	Utah History Encyclopedia ID
+2513	V&A item ID
+2514	V&A person ID
+2515	VASCAN ID
+2516	VAT-rate
+2517	VG-lista artist ID
+2518	VGMDb organization ID
+2519	VGMdb artist ID
+2520	VGMdb product ID
+2521	VGMdb作品标识符
+2522	VGMdb艺术家标识符
+2523	VIAF
+2524	VICNAMES Place ID
+2525	VK ID
+2526	VK账号
+2527	VOGRIPA ID
+2528	Vatican Library ID (former scheme)
+2529	Vatican Library VcBA ID
+2530	Vegetti Catalog of Fantastic Literature NILF ID
+2531	Verkhovna Rada MP ID
+2532	Verspreidingsatlas.nl ID
+2533	VicFlora ID
+2534	VideoGameGeek game ID
+2535	VideoGamer.com game ID
+2536	Videolectures ID
+2537	Vie publique person ID
+2538	Vienna History Wiki ID
+2539	Vimeo identifier
+2540	Vimeo用户名
+2541	Vine user ID
+2542	Vine用户编号
+2543	Virginia Landmarks Register ID
+2544	Virtual Laboratory person ID
+2545	Vision of Britain place ID
+2546	Vision of Britain unit ID
+2547	Visual Novel Database ID
+2548	Visuotinė lietuvių enciklopedija ID
+2549	Vlinderstichting-ID
+2550	Vokrug sveta article
+2551	Vokrug.tv person ID
+2552	Vote Smart ID
+2553	WALS family code
+2554	WALS lect code
+2555	WALS词根代码
+2556	WALS语系代码
+2557	WBIS ID
+2558	WBPLN author ID
+2559	WCSP ID
+2560	WCSPF ID
+2561	WDPA ID
+2562	WDPA编码
+2563	WIPO ST.3
+2564	WOEID
+2565	WWE.com superstar ID
+2566	WWF ecoregion code
+2567	Wall Street Journal topic ID
+2568	Washington Place Names ID
+2569	WeChangEd ID
+2570	WeChat ID
+2571	WeRelate person ID
+2572	WeRelate个人编号
+2573	Web Encyclopedia of Kyiv ID
+2574	Web Gallery of Art ID
+2575	Web umenia creator ID
+2576	Webb-site organization ID
+2577	Webb-site person ID
+2578	WhatDoTheyKnow organisation ID
+2579	Who's Who UK ID
+2580	Who's Who in France biography ID
+2581	Who's on First ID
+2582	WhoSampled artist ID
+2583	WiiG game ID
+2584	Wiki Aves bird ID
+2585	Wiki Loves Monuments ID
+2586	WikiArt ID
+2587	WikiSkripta ID
+2588	WikiTree category or space
+2589	WikiTree person ID
+2590	Wikidata SPARQL query equivalent
+2591	Wikidata language code
+2592	Wikimapia ID
+2593	Wikimedia Incubator URL
+2594	Wikimedia outline
+2595	Wikimedia portal's main topic
+2596	Wikitribune category
+2597	Wild Herps ID
+2598	Wine AppDB ID
+2599	Wine應用程序數據庫標識符
+2600	Wissens-Aggregator Mittelalter und Frühe Neuzeit ID
+2601	WoRMS-ID for taxa
+2602	Wolfram Language entity code
+2603	Wolfram Language entity type
+2604	Wolfram Language quantity ID
+2605	Wolfram Language unit code
+2606	Wolfram语言单位代码
+2607	Wolfram语言实体代码
+2608	Wolfram语言实体类型
+2609	Women of Scotland subject ID
+2610	WomenWriters ID
+2611	WordLift URL
+2612	WordNet 3.1 Synset ID
+2613	World Encyclopedia of Puppetry Arts ID
+2614	World Flora Online ID
+2615	World Golf Hall of Fame player ID
+2616	World Health Organisation  international non-proprietary name
+2617	World Health Organisation international non-proprietary name numeric ID
+2618	World Heritage Site ID
+2619	World Heritage Tentative List ID
+2620	World History Encyclopedia ID
+2621	World Rugby Hall of Fame ID
+2622	World Stadium Database identifier
+2623	World of Physics identifier
+2624	WorldCat Identities ID
+2625	WorldCat Registry ID
+2626	WorldCat标识符
+2627	WorldCat注册号
+2628	WorldFootball.net player ID
+2629	WorldFootball.net team ID
+2630	Worlds Without End author ID
+2631	Writers Guild of America writer ID
+2632	Wynk artist ID
+2633	XXI Secolo ID
+2634	Xeno-canto species ID
+2635	Xenopus Anatomical Ontology ID
+2636	YCBA agent ID
+2637	YIVO Encyclopedia of Jews in Eastern Europe ID
+2638	YSA ID
+2639	YSO ID
+2640	Yahoo Answers category
+2641	Yandex Music artist ID
+2642	Yandex Music genre ID
+2643	Yandex Zen ID
+2644	Yandex音乐流派编号
+2645	Yandex音乐艺术家编号
+2646	Yelp ID
+2647	YesAsia author ID
+2648	Yle Areena item ID
+2649	Yle topic ID
+2650	YouTube播放列表ID
+2651	YouTube视频编号
+2652	YouTube频道编号
+2653	ZDB ID
+2654	ZOBODAT person ID
+2655	ZOBODAT taxon ID
+2656	ZVG number
+2657	ZVG编号
+2658	Zemereshet song ID
+2659	Zhihu topic ID
+2660	Zhihu username
+2661	ZooBank ID for name or act
+2662	ZooBank author ID
+2663	abART institution ID
+2664	abART person ID
+2665	abART term ID
+2666	abgeordnetenwatch.de politician ID
+2667	administrative code of Indonesia
+2668	administrative district of Czech municipality with authorized municipal office ID
+2669	administrative district of Czech municipality with expanded powers ID
+2670	admission rate
+2671	aerial view
+2672	aerodrome reference point
+2673	afflicts
+2674	age estimated by a dating method
+2675	age of candidacy
+2676	age of consent
+2677	age of majority
+2678	aircraft registration prefix
+2679	albedo
+2680	allegiance
+2681	alternative name
+2682	am.hayazg.info ID
+2683	amateur radio callsign
+2684	anatomical location
+2685	ancestral home
+2686	angular diameter
+2687	announcement date
+2688	annual energy output
+2689	annual number of weddings
+2690	apoapsis
+2691	apparent magnitude
+2692	applies to jurisdiction
+2693	appointed by
+2694	archINFORM keyword ID
+2695	archINFORM location ID
+2696	archINFORM person or group ID
+2697	archINFORM project ID
+2698	archival creator authority record at the Archives nationales
+2699	argument of periapsis
+2700	armament
+2701	armradioarchive.am person ID
+2702	art-name
+2703	artist-info artist ID
+2704	artist-info location ID
+2705	artist-info位置编号
+2706	artist-info艺术家编号
+2707	assets under management
+2708	astronomic symbol image
+2709	attendance
+2710	audio
+2711	author citation (zoology)
+2712	authority
+2713	autonomous system number
+2714	award rationale
+2715	ballots cast
+2716	base salary
+2717	bashenc.online ID
+2718	basic form of government
+2719	basic reproduction number
+2720	basin country
+2721	bathymetry image
+2722	beats per minute
+2723	bgm.tv character ID
+2724	bgm.tv person ID
+2725	bgm.tv人物标识符
+2726	bgm.tv角色标识符
+2727	biografiA ID
+2728	biography at the Bundestag of Germany URL
+2729	bite force quotient
+2730	board member
+2731	botanist author abbreviation
+2732	budget
+2733	bug tracking system
+2734	bulk modulus
+2735	call sign
+2736	candidacy in election
+2737	candidate
+2738	canonical SMILES
+2739	canonization status
+2740	carbon footprint
+2741	case fatality rate
+2742	catalog code
+2743	catchphrase
+2744	category for alumni of educational institution
+2745	category for employees of the organization
+2746	category for eponymous categories
+2747	category for films in this language
+2748	category for films shot at this location
+2749	category of associated people
+2750	cause of destruction
+2751	causesanti.va ID
+2752	central bank/issuer
+2753	central government debt as a percent of GDP
+2754	charge
+2755	charter URL
+2756	child astronomical body
+2757	chromosome count
+2758	cine.gr film ID
+2759	cinematografo.it name or company ID
+2760	coastline
+2761	coat of arms
+2762	coat of arms image
+2763	code
+2764	code (image)
+2765	coextensive with
+2766	collection or exhibition size
+2767	commanded by
+2768	commemorates
+2769	commemorative plaque image
+2770	compArt institution ID
+2771	compressive strength
+2772	compulsory education (maximum age)
+2773	compulsory education (minimum age)
+2774	conflict
+2775	connects with
+2776	consumption rate
+2777	consumption rate per capita
+2778	contains
+2779	contains settlement
+2780	conversion to standard unit
+2781	convicted of
+2782	coordinates of geographic center
+2783	copyright representative
+2784	cost
+2785	cost of damage
+2786	courtesy name
+2787	cryptocurrency symbol
+2788	ctext data entity ID
+2789	currency symbol description
+2790	danskefilm人物ID
+2791	danskfilmogtv person ID
+2792	dantai code
+2793	data.gouv.fr org ID
+2794	data.gouv.fr organisation ID
+2795	databaseOlympics.com athlete ID (archived)
+2796	databaseOlympics.com运动员ID
+2797	date of baptism in early childhood
+2798	date of official closure
+2799	day in year for periodic occurrence
+2800	declination
+2801	decomposition point
+2802	demographics of topic
+2803	depicted by
+2804	depicts Iconclass notation
+2805	depositary
+2806	designed to carry
+2807	detail map
+2808	dialect of
+2809	directions
+2810	discharge
+2811	disease burden
+2812	distance from Earth
+2813	distribution map
+2814	doctoral advisor
+2815	doctoral student
+2816	document file on Wikimedia Commons
+2817	does not have part
+2818	domain of saint or deity
+2819	drafted by
+2820	dummy value
+2821	dynamic viscosity
+2822	e-GOV law ID
+2823	e-WV: The West Virginia Encyclopedia ID
+2824	e-archiv.li ID
+2825	eBiodiversity ID
+2826	eBird hotspot ID
+2827	eBird taxon ID
+2828	eMedicine ID
+2829	earthquake magnitude on the moment magnitude scale
+2830	economy of topic
+2831	edition humboldt digital ID
+2832	edition number
+2833	educational stage
+2834	effective date
+2835	effective temperature
+2836	egg incubation period
+2837	elCinema film ID
+2838	elCinema person ID
+2839	elFilm film ID
+2840	elFilm person ID
+2841	elFilm電影編號
+2842	elector
+2843	electorate
+2844	electronic Essential Medicines List medicine ID
+2845	elibrary.ru organisation ID
+2846	eligible voters
+2847	embodied energy
+2848	enacted date
+2849	enclave within
+2850	endangeredlanguages.com ID
+2851	endowment
+2852	equivalent class
+2853	escutcheon image
+2854	eska.pl topic ID
+2855	event distance
+2856	ex-libris
+2857	exact match
+2858	exclave of
+2859	executive body
+2860	exploitation visa number
+2861	explosive energy equivalent
+2862	external data available at
+2863	family
+2864	family relationship degree
+2865	fax number
+2866	feast day
+2867	fee
+2868	female form of label
+2869	fernsehserien.de ID
+2870	field of work
+2871	first flight
+2872	fiscal/tax revenue
+2873	flattening
+2874	floors above ground
+2875	floors below ground
+2876	floruit
+2877	food energy
+2878	foods traditionally associated
+2879	foreign direct investment net inflow
+2880	foreign direct investment net outflow
+2881	fotoCH photographer ID
+2882	foundational text
+2883	free/libre open source software development policy URL
+2884	ft.dk politician identifier
+2885	genealogics.org person ID
+2886	geography of topic
+2887	gesetze-im-internet.de ID
+2888	grants
+2889	gravsted.dk ID
+2890	ground level 360 degree view
+2891	has contributing factor
+2892	has facility
+2893	has grammatical case
+2894	has immediate cause
+2895	has melody
+2896	has natural reservoir
+2897	has seal, badge, or sigil
+2898	has works in the collection
+2899	health specialty
+2900	highest judicial authority
+2901	highest observed lifespan
+2902	historic county
+2903	history of topic
+2904	hitparade.ch artist ID
+2905	honorific prefix
+2906	honorific suffix
+2907	house publication
+2908	hydraulic head
+2909	hydrological order number
+2910	iDAI.gazetteer ID
+2911	iNaturalist place ID
+2912	iNaturalist taxon ID
+2913	iNaturalist 分类单元编码
+2914	iNaturalist地点ID
+2915	iTunes movie ID
+2916	illiterate population
+2917	image of design plans
+2918	image of entrance
+2919	image of interior
+2920	image with frame
+2921	immediate cause of
+2922	in defining formula
+2923	in opposition to
+2924	incidence
+2925	indigenous to
+2926	individual tax rate
+2927	inflation rate
+2928	inflows
+2929	influenced by
+2930	inscription
+2931	inspired by
+2932	installed capacity
+2933	interested in
+2934	internetmedicin.se ID
+2935	introduced on
+2936	inventory number
+2937	is metaclass for
+2938	item disputed by
+2939	jog.fm artist ID
+2940	kinematic viscosity
+2941	kino-teatr.ru person ID
+2942	kinship equivalent in SPARQL at Wikidata
+2943	kulturnoe-nasledie.ru ID
+2944	kulturnoe-nasledie.ru编号
+2945	label in sign language
+2946	lake outflow
+2947	language regulatory body
+2948	language used
+2949	league
+2950	legal citation of this text
+2951	legal form
+2952	legislation.gov.uk ID
+2953	legislative body
+2954	lib.reviews ID
+2955	licence plate code
+2956	lifestyle
+2957	linguistic typology
+2958	list related to category
+2959	literacy rate
+2960	literate population
+2961	litter size
+2962	local dialing code
+2963	located in present-day administrative territorial entity
+2964	located in the ecclesiastical territorial entity
+2965	located in the statistical territorial entity
+2966	located in/on physical feature
+2967	location map
+2968	location of first performance
+2969	locator map image
+2970	longitude of ascending node
+2971	lunar coordinates
+2972	magnetic moment
+2973	main regulatory text
+2974	mains voltage
+2975	male form of label
+2976	manifestation of
+2977	marineregions.org数据库海洋区域地理编号
+2978	maritime identification digits
+2979	marriageable age
+2980	married name
+2981	maximal incubation period in humans
+2982	maximum Strahler number
+2983	maximum capacity
+2984	maximum frequency of audible sound
+2985	maximum operating altitude
+2986	maximum temperature record
+2987	mean age
+2988	mean anomaly
+2989	media type
+2990	median income
+2991	median lethal dose (LD50)
+2992	medical condition
+2993	medical examinations
+2994	member category
+2995	member of the Portuguese parliament ID
+2996	military branch
+2997	minimal incubation period in humans
+2998	minimum age
+2999	minimum frequency of audible sound
+3000	minimum temperature record
+3001	minimum wage
+3002	mobile country code
+3003	mobile network code
+3004	molar enthalpy of vaporization
+3005	molecular model or crystal lattice model
+3006	monogram
+3007	monumenta.ch ID
+3008	mountain range
+3009	movement
+3010	museum-digital place ID
+3011	musica.com artist ID
+3012	muzzle velocity
+3013	nLab ID
+3014	name day
+3015	narrower external class
+3016	natural abundance
+3017	natural product of taxon
+3018	net profit
+3019	net worth
+3020	newspaper archive URL
+3021	noble title
+3022	nominal GDP
+3023	nominal GDP per capita
+3024	number of abstentions
+3025	number of arrests
+3026	number of blank votes
+3027	number of cases
+3028	number of casualties
+3029	number of constituencies
+3030	number of decimal digits
+3031	number of houses
+3032	number of matches played/races/starts
+3033	number of out-of-school children
+3034	number of perpetrators
+3035	number of points/goals/set scored
+3036	number of polling stations
+3037	number of recoveries
+3038	number of rooms
+3039	number of seats
+3040	number of seats in legislature
+3041	number of spoilt votes
+3042	number of volunteers
+3043	objective of project or action
+3044	occupant
+3045	office contested
+3046	office held by head of government
+3047	office held by head of state
+3048	office held by head of the organization
+3049	official color
+3050	official map URL
+3051	official number of town quarter
+3052	official religion
+3053	official residence
+3054	officially opened by
+3055	on focus list of Wikimedia project
+3056	online catalog
+3057	open days
+3058	openAIP ID
+3059	openMLOL author ID
+3060	operating area
+3061	operating income
+3062	orbital eccentricity
+3063	orbital inclination
+3064	orbital period
+3065	orbits completed
+3066	organization directed by the office or position
+3067	origin of the watercourse
+3068	ortsnamen.ch ID
+3069	pH value
+3070	pH值
+3071	page at Belarus Globe website
+3072	page at website of Belarus Geocenter
+3073	panoramic view
+3074	parallax
+3075	parent peak
+3076	parliament.uk biography pages
+3077	parliament.uk编号
+3078	parliamentary term
+3079	partially coincident with
+3080	participant
+3081	participant in
+3082	patron saint
+3083	patronage
+3084	peak bagging classification
+3085	peakware mountain ID
+3086	penalty
+3087	periapsis
+3088	perimeter
+3089	period of lactation
+3090	perpetrator
+3091	personal best
+3092	petit-patrimoine.com ID
+3093	photosphere image
+3094	physically interacts with
+3095	pinyin transliteration
+3096	place of detention
+3097	playing range image
+3098	political alignment
+3099	position angle
+3100	position played on team / speciality
+3101	possible treatment
+3102	posthumous name
+3103	poverty incidence
+3104	prerequisite
+3105	present in work
+3106	prevalence
+3107	privacy policy URL
+3108	production statistics
+3109	proper motion
+3110	protected heritage site in Brussels ID
+3111	public holiday
+3112	public key fingerprint
+3113	publication interval
+3114	radial velocity
+3115	railway traffic side
+3116	ratified by
+3117	real GDP growth rate
+3118	rector
+3119	refractive index
+3120	related category
+3121	related image
+3122	relief location map
+3123	religious order
+3124	reporting mark
+3125	residence time of water
+3126	retirement age
+3127	review score
+3128	right ascension
+3129	right to vote
+3130	risk factor
+3131	romanization of Belarusian (2007 system)
+3132	rotation period
+3133	route map
+3134	route number
+3135	runway
+3136	rural population
+3137	sRGB HEX色值
+3138	sRGB color hex triplet
+3139	salinity
+3140	schematic
+3141	seal image
+3142	search formatter URL
+3143	secretary general
+3144	sectional view
+3145	semi-major axis of an orbit
+3146	senat.fr ID
+3147	senato.archivioluce.it person ID
+3148	separated from
+3149	sequenced genome URL
+3150	service entry
+3151	service retirement
+3152	service ribbon image
+3153	service status information URL
+3154	setlist.fm artist ID
+3155	setlist.fm venue ID
+3156	sexual orientation
+3157	sheet music
+3158	signatory
+3159	significant person
+3160	size comparison diagram
+3161	slope
+3162	small logo or icon
+3163	social media followers
+3164	source code repository
+3165	spectral class
+3166	speed limit
+3167	speedrun.com game ID
+3168	speedrun.com游戏标识符
+3169	standard enthalpy of formation
+3170	standard molar entropy
+3171	startrek.com Database ID
+3172	stellar rotational velocity
+3173	stepparent
+3174	streaming media URL
+3175	street address
+3176	students count
+3177	subreddit
+3178	substitute/deputy/replacement of office/officeholder
+3179	suicide rate
+3180	supported sports team
+3181	surface gravity
+3182	synodic period
+3183	tabular population
+3184	target interest rate
+3185	taxon found at location
+3186	taxonomic type
+3187	template has topic
+3188	template or module that populates category
+3189	term length of office
+3190	terms of service URL
+3191	territory claimed by
+3192	thermal conductivity
+3193	this taxon is source of
+3194	time of earliest written record
+3195	time period
+3196	time-weighted average exposure limit
+3197	topic's main Wikimedia portal
+3198	topic's main template
+3199	topographic isolation
+3200	topographic prominence
+3201	total equity
+3202	total fertility rate
+3203	total liabilities
+3204	total produced
+3205	total reserves
+3206	total revenue
+3207	total valid votes
+3208	trade union membership rate
+3209	trading name
+3210	transliteration
+3211	tributary
+3212	trunk prefix
+3213	tuition fee
+3214	twin town sign
+3215	uBio ID
+3216	unemployment rate
+3217	unit symbol
+3218	unmarried partner
+3219	urban population
+3220	user manual URL
+3221	uses capitalization for
+3222	vehicle normally used
+3223	vehicles per thousand people
+3224	vertical depth
+3225	vglist video game ID
+3226	vglist电子游戏标识符
+3227	vici.org ID
+3228	vici.org编码
+3229	victim
+3230	view
+3231	village code of Indonesia
+3232	visitors per year
+3233	vocalized name
+3234	voice type
+3235	voltage
+3236	warheroes.ru ID
+3237	water area
+3238	water as percent of area
+3239	water footprint
+3240	weather history
+3241	webcam page URL
+3242	website account on
+3243	wingspan
+3244	winter view
+3245	word in DPEJ of RAE ID
+3246	word stem
+3247	work period (end)
+3248	worshipped by
+3249	wurvoc.org measure ID
+3250	wurvoc.org计量编号
+3251	zbMATH author ID
+3252	zbMATH作者ID
+3253	Ávvir topic ID
+3254	ÖCV Biolex ID
+3255	Ökumenisches Heiligenlexikon ID
+3256	Österreichisches Musiklexikon Online ID
+3257	ČSFD film ID
+3258	ČSFD person ID
+3259	ČSFD電影編號
+3260	Česká divadelní encyklopedie ID
+3261	Český hudební slovník osob a institucí ID
+3262	กรรมการผู้จัดการ
+3263	กลุ่มย่อยของ
+3264	การจัดหมู่ระบบทศนิยมดิวอี้
+3265	การจัดอันดับ
+3266	การถอดเสียงเป็นสัทอักษรสากล
+3267	การนำไปใช้
+3268	การละลาย
+3269	การแปลงเป็นหน่วยฐานเอสไอ
+3270	กีฬา
+3271	ก่อนวันที่
+3272	ก่อนหน้า
+3273	ขนาดพื้นที่
+3274	คติพจน์
+3275	ความกว้าง
+3276	ความดันไอ
+3277	ความถี่ของเหตุการณ์
+3278	ความยาว
+3279	ความร้อนจำเพาะ
+3280	ความสัมพันธ์ทางการทูต
+3281	ความสูง
+3282	ความสูงเหนือระดับน้ำทะเล
+3283	ความหนา
+3284	ความหนาแน่น
+3285	ความหมายของคำจากโอเมก้าวิกิ
+3286	ความเป็นโลหะ
+3287	คำขวัญ
+3288	คำพูดสุดท้าย
+3289	คำแนะนำวิธีใช้งานในวิกิสนเทศ
+3290	คู่สมรส
+3291	ค่าตัวเลข
+3292	ค่ายเพลง
+3293	ค่าใช้จ่ายรวม
+3294	งานฉบับเต็มอยู่ที่
+3295	จดหมายเหตุอยู่ที่
+3296	จำนวนครัวเรือน
+3297	จำนวนบุตร
+3298	จำนวนผลงานทั้งหมด
+3299	จำนวนผู้บาดเจ็บ
+3300	จำนวนผู้พูด
+3301	จำนวนผู้เข้าร่วม
+3302	จำนวนผู้เล่นน้อยสุด
+3303	จำนวนผู้เล่นมากสุด
+3304	จำนวนผู้เสียชีวิต
+3305	จำนวนพนักงาน
+3306	จำนวนลิฟต์
+3307	จำนวนสมาชิก
+3308	จำนวนเตียง
+3309	จุดลึกสุด
+3310	จุดสูงสุด
+3311	จุดหลอมเหลว
+3312	จุดเดือด
+3313	ชนิดของการเสียชีวิต
+3314	ชื่อ
+3315	ชื่อตามท้องถิ่น
+3316	ชื่อต้น
+3317	ชื่อทางการ
+3318	ชื่อทางศาสนา
+3319	ชื่อผู้สร้างสรรค์
+3320	ชื่อผู้ใช้วิกิมีเดีย
+3321	ชื่อวิทยาศาสตร์
+3322	ชื่อสั้น
+3323	ชื่อสามัญ
+3324	ชื่อเกิด
+3325	ชื่อเรียกประชาชน
+3326	ชื่อเรื่อง
+3327	ชื่อเรื่องรอง
+3328	ชื่อเล่น
+3329	ชื่อในภาษาแม่
+3330	ชื่อในอักษรคะนะ
+3331	ญาติ
+3332	ณ เวลา
+3333	ดัดแปลงจาก
+3334	ดำรงตำแหน่ง
+3335	ดีมอซ
+3336	ด้านที่ขับรถ
+3337	ตรงข้ามกันกับ
+3338	ตัวรหัสระบุ รอตเทนโทเมโทส์
+3339	ตัวรหัสระบุเพลย์ลิสต์ยูทูบ
+3340	ตัวระบุ AAT
+3341	ตัวระบุ CANTIC
+3342	ตัวระบุ CONA
+3343	ตัวระบุ CONOR.SI
+3344	ตัวระบุ DVN
+3345	ตัวระบุ Freebase
+3346	ตัวระบุ GND
+3347	ตัวระบุ GTAA
+3348	ตัวระบุ LAC
+3349	ตัวระบุ LNB
+3350	ตัวระบุ NCL
+3351	ตัวระบุ NDF-RT
+3352	ตัวระบุ NDL
+3353	ตัวระบุ NKC
+3354	ตัวระบุ NLA
+3355	ตัวระบุ NLP
+3356	ตัวระบุ NSK
+3357	ตัวระบุ TGN
+3358	ตัวระบุ ZDB
+3359	ตัวระบุ idRef
+3360	ตัวระบุกราฟความรู้ของกูเกิล
+3361	ตัวระบุของแหล่งเก็บข้อมูลอินเตอร์เน็ต (Internet Archive)
+3362	ตัวระบุชื่อศิลปินของ MusicBrainz
+3363	ตัวระบุโดยสถาบันมะเร็งนานาชิาติ
+3364	ตั้งชื่อตาม
+3365	ตำแหน่งพิกัด
+3366	ต่างจาก
+3367	ถัดไป
+3368	ถูกค้นพบเมื่อ
+3369	ถูกฆ่าโดย
+3370	ถูกทำลาย
+3371	ถูกศึกษาโดย
+3372	ทวีป
+3373	ทำให้เกิด
+3374	ที่ตั้งสำนักงานใหญ่
+3375	ที่อยู่อาศัย
+3376	ธง
+3377	ธนาคารกลาง
+3378	นามปากกา
+3379	นามสกุล
+3380	นามสกุลไฟล์
+3381	นายจ้าง
+3382	บทความหลักในหมวดหมู่
+3383	บทความในนิโกะนิโกะพีเดีย
+3384	บทความในโมเอะเกิร์ลพีเดียภาษาจีน
+3385	บรรทัดสุดท้าย
+3386	บรรทัดแรก
+3387	บริษัทลูก
+3388	บริษัทแม่
+3389	บริเวณลุ่มน้ำ
+3390	บล็อกทางการ
+3391	บัญชีผู้ใช้ทวิตเตอร์
+3392	บัญชีผู้ใช้อินสตาแกรม
+3393	บำรุงรักษาโดยโครงการวิกิ
+3394	บิดา
+3395	ปฏิบัติโดย
+3396	ประกอบด้วย
+3397	ประกอบไปด้วย
+3398	ประกอบไปด้วยส่วนที่อยู่ในกลุ่มของ
+3399	ประชากร
+3400	ประชากรชาย
+3401	ประชากรหญิง
+3402	ประธาน
+3403	ประมุขแห่งรัฐ
+3404	ประเทศ
+3405	ประเทศต้นกำเนิด
+3406	ประเภท
+3407	ปรับปรุงหรือแปลมาจาก
+3408	ปริญญา
+3409	ปริมาณ
+3410	ปริมาณทางกายภาพที่วัด
+3411	ปริมาตร
+3412	ปีที่เริ่มแสดง
+3413	ป้ายชื่อสถานที่
+3414	ผลงานที่มีชื่อเสียง
+3415	ผลิตภัณฑ์
+3416	ผู้ก่อตั้ง
+3417	ผู้ค้นพบ/ผู้ประดิษฐ์
+3418	ผู้จัดการ/ผู้อำนวยการ
+3419	ผู้จัดงาน
+3420	ผู้ชนะ
+3421	ผู้ดำรงค์ตำแหน่ง
+3422	ผู้ดำเนินการ
+3423	ผู้ถือกรรมสิทธิ์
+3424	ผู้ประพันธ์
+3425	ผู้ประพันธ์เพลง
+3426	ผู้สนับสนุน
+3427	ผู้สร้าง
+3428	ผู้อุปถัมป์
+3429	พิกัดของจุดตะวันตกสุด
+3430	พิกัดของจุดตะวันออกสุด
+3431	พิกัดของจุดเหนือสุด
+3432	พิกัดของจุดใต้สุด
+3433	พี่น้อง
+3434	พื้นที่ลุ่มน้ำ
+3435	ภาพ
+3436	ภาพตัดปะ
+3437	ภาพธง
+3438	ภาพส่วนหัวของวิกิท่องเที่ยว
+3439	ภาษาของงานหรือชื่อ
+3440	ภาษาทางการ
+3441	ภาษาที่บุคคลนี้ใช้เขียน
+3442	ภาษาที่ใช้พูด, เขียน หรือ ลงลายมือชื่อ
+3443	ภาษาแม่
+3444	มวล
+3445	มอบให้โดย
+3446	มักกล่าวได้ว่าเหมือนกันกับ
+3447	มาตรฐาน ISO
+3448	มารดา
+3449	มีคุณลักษณะ
+3450	มีรายการรายชื่อ
+3451	มีอาณาเขตติดกับ
+3452	มุมมองตอนกลางคืน
+3453	มูลค่าตามราคาตลาด
+3454	ยศทหาร
+3455	ยาที่ใช้ในการรักษา
+3456	ยูอาร์แอล
+3457	รหัสจังหวัด อำเภอ ตำบล
+3458	รหัสภาษาของวิกิมีเดีย
+3459	รหัสระบุ IMDB
+3460	รหัสระบุช่องยูทูบ
+3461	รหัสระบุซินล่างเวย์ปั๋ว
+3462	รหัสระบุวีดิโอยูทูบ
+3463	รหัสระบุหัวข้อควอรา
+3464	รหัสระบุโปรไฟล์เฟซบุ๊ก
+3465	รหัสอาชีพ ISCO
+3466	รหัสโทรศัพท์ระหว่างประเทศ
+3467	รหัสไปรษณีย์
+3468	ระดับชั้นถัดไปที่ต่ำกว่า
+3469	ระบบการเขียน
+3470	ระยะเวลา
+3471	ระยะเวลาตั้งครรภ์โดยเฉลี่ย
+3472	ระเบียงภาพในคอมมอนส์
+3473	รัศมี
+3474	ราคา
+3475	รางวัลที่ได้รับ
+3476	รายได้จากการเข้าฉาย
+3477	รุ่น
+3478	รูปภาพหลุมฝังศพ
+3479	รูปร่างทางภูมิศาสตร์
+3480	รูปแบบงานสร้างสรรค์
+3481	รูปแบบสถาปัตยกรรม
+3482	ลายมือชื่อ
+3483	ลูก
+3484	ล่มสลาย/ถูกยกเลิกเมื่อ
+3485	วัฒนธรรม
+3486	วันของสัปดาห์
+3487	วันที่สร้าง/วันก่อตั้ง
+3488	วันที่เกิด
+3489	วันที่เปิดแสดงครั้งแรก
+3490	วันที่เสียชีวิต
+3491	วันฝังศพ/ฌาปนกิจศพ
+3492	วันเกิด
+3493	วันเปิดอย่างเป็นทางการ
+3494	วัสดุที่ใช้
+3495	วิดีโอ
+3496	ศัตรูของ
+3497	ศาสนา
+3498	ศิลปินนักร้อง/นักดนตรี
+3499	ศิษย์
+3500	ศึกษาที่
+3501	ศึกษาเกี่ยวกับ
+3502	สถานที่ก่อตั้ง
+3503	สถานที่ดำเนินเรื่อง
+3504	สถานที่ตั้ง
+3505	สถานที่ทำงาน
+3506	สถานที่เกิด
+3507	สถานที่เสียชีวิต
+3508	สถานะทางมรดก
+3509	สถานะลิขสิทธิ์
+3510	สมาชิกของ
+3511	สมาชิกของพรรคการเมือง
+3512	สัญลักษณ์ทางการ
+3513	สายอาชีพ
+3514	สาเหตุ
+3515	สาเหตุการเสียชีวิต
+3516	สำนักพิมพ์/ผู้เผยแพร่
+3517	สินทรัพย์รวม
+3518	สี
+3519	สุสาน
+3520	สูตรคณิตศาสตร์
+3521	สูตรโมเลกุล
+3522	สโมสรกืฬาที่สังกัด
+3523	ส่งออกรวม
+3524	หน่วยย่อยการปกครอง
+3525	หน้า
+3526	หน้าที่ของประธานของประพจน์
+3527	หน้าผู้สร้างสรรค์ในเนมสเปซคอมมอนส์
+3528	หมวดหมู่คอมมอนส์
+3529	หมวดหมู่ที่เกี่ยวข้อง
+3530	หมวดหมู่ประกอบด้วย
+3531	หมวดหมู่ประสานหัวข้อ
+3532	หมวดหมู่สำหรับคนเกิดที่นี่
+3533	หมวดหมู่สำหรับคนเสียชีวิตที่นี่
+3534	หมวดหมู่หลักของหัวข้อ
+3535	หมายเลข SIREN
+3536	หมายเลขโทรศัพท์
+3537	หลังวันที่
+3538	หัวข้อระบุงาน JSTOR
+3539	หัวข้อหลัก
+3540	หัวหน้ารัฐบาล
+3541	อธิบายโดยแหล่งที่มา
+3542	อธิบายใน URL
+3543	อนุมัติโดย
+3544	อยู่ในรูปแบบนิพจน์ปรกติ
+3545	อยู่ในเขตการปกครองของ
+3546	อักขระยูนิโคด
+3547	อักษรนำหน้าลิงก์ข้ามวิกิที่วิกิมีเดีย
+3548	อัตราการเต้นของหัวใจ
+3549	อัตราเร็ว
+3550	อัตราเร็วของเสียง
+3551	อันดับ Alexa
+3552	อาการ
+3553	อาชีพ
+3554	อายุขัย
+3555	อีเมล
+3556	อุณหภูมิ
+3557	อุดมการณ์ทางการเมือง
+3558	อุตสาหกรรม
+3559	เขตเวลา
+3560	เข้ามาแทน
+3561	เครื่องดนตรี
+3562	เงินตรา
+3563	เงินรางวัล
+3564	เชื้อชาติ
+3565	เป็น
+3566	เป็นพลเมืองของประเทศ
+3567	เป็นภาพหนึ่งของ
+3568	เป็นรายชื่อของ
+3569	เป็นศิษย์ของ
+3570	เป็นส่วนหนึ่งของ
+3571	เป็นเจ้าของ
+3572	เป้าหมาย
+3573	เผยแพร่ครั้งแรก
+3574	เผยแพร่ที่
+3575	เพลงสดุดี
+3576	เพศ
+3577	เมืองพี่น้อง
+3578	เมืองหลวง
+3579	เมืองหลวงของ
+3580	เลขช่อง
+3581	เลขลำดับของชุด
+3582	เวลาสิ้นสุด
+3583	เวลาเริ่ม
+3584	เว็บไซต์ทางการ
+3585	เสียงข้อความพูด
+3586	เสียงบันทึกของบุคคล
+3587	เสียงอ่าน
+3588	เส้นผ่านศูนย์กลาง
+3589	เหตุการณ์สำคัญ
+3590	แทนที่โดย
+3591	แผนที่การกระจายตัวของสิ่งมีชีวิต
+3592	แหล่งน้ำใกล้เคียง
+3593	แหล่งอาหารหลัก
+3594	แฮชแท็ก
+3595	โครงสร้างทางเคมี
+3596	โดเมนระดับบนสุด
+3597	โลโก้
+3598	ใช้กับ
+3599	ใช้โดย
+3600	ในแบบฉบับอื่น
+3601	ไหลลงสู่
+3602	ไอคอน
+3603	ไอดี ARKive
+3604	ไอเท็มต้นแบบ
+3605	上一项
+3606	上海图书馆人物ID
+3607	上海图书馆地名ID
+3608	上级分类
+3609	下一级
+3610	下一项
+3611	不包含部分
+3612	与标准单位间的转换
+3613	与此连接
+3614	世卫组织国际非专利药品名称编号
+3615	世界体育场数据库标识符
+3616	世界海洋物种目录编号
+3617	世界自然基金会（WWF）生态区代码
+3618	世界遗产ID
+3619	世界遗产暂定名单编号
+3620	世界鱼库物种 ID
+3621	业余无线电呼号
+3622	业务区
+3623	个人净资产
+3624	个人最佳得分
+3625	个人税率
+3626	中共政治菁英資料庫編號
+3627	中华人民共和国条约数据库编号
+3628	中华人民共和国行政区划代码
+3629	中国历代人物传记资料库编号
+3630	中国历史地理信息系统编号
+3631	中国名人录编号
+3632	中国哲学书电子化计划数据维基标识符
+3633	中国国家图书馆标识符
+3634	中国图书分类码
+3635	中国大百科全书数据库编号
+3636	中央政府债务占GDP的百分比
+3637	中央研究员人名权威识别码
+3638	中央銀行
+3639	中央银行或发行机构
+3640	中心城市名稱註冊
+3641	丰度
+3642	临终遗言
+3643	丹麦图书馆中心作者标识符
+3644	丹麦城市区域代码
+3645	为其元类
+3646	主体角色
+3647	主保圣人
+3648	主办方
+3649	主管
+3650	主管机构
+3651	主要作品
+3652	主要规管文献
+3653	主要食物来源
+3654	主题历史
+3655	主题标签
+3656	主题的地理学
+3657	乐器
+3658	乐谱
+3659	书写系统
+3660	书写语言
+3661	互联网成人电影数据库男演员ID
+3662	互联网摔角数据库ID
+3663	互联网档案馆标识符
+3664	互联网游戏数据库游戏标识符
+3665	亚历山大图书馆标识符
+3666	亚马逊作者编号
+3667	亚马逊音乐艺术家编号
+3668	产业
+3669	产品
+3670	产物
+3671	产自
+3672	京都基因與基因组百科全書標識符
+3673	亲属
+3674	人口
+3675	人名
+3676	人均消费率
+3677	人类发展指数
+3678	从业者
+3679	从属于
+3680	代码
+3681	以色列NLI编码
+3682	以色列国家图书馆标识符
+3683	任天堂eShop标识符
+3684	伊朗统计编号
+3685	传真号码
+3686	传统上的食物
+3687	伤亡人数
+3688	位于宗教领土实体
+3689	位置
+3690	位置角
+3691	体积模量
+3692	体积量
+3693	体育运动
+3694	佛兰德中央目录标识符
+3695	佛教数字资源中心ID
+3696	作为首府属于
+3697	作品主题
+3698	作品形式
+3699	作品或名称语言
+3700	作品收藏於
+3701	作品部分数量
+3702	作曲
+3703	作者
+3704	作者名稱字符
+3705	使用
+3706	使用大写
+3707	使用者
+3708	使用者人数
+3709	使用语言
+3710	俄勒冈百科全书ID
+3711	俄罗斯国家图书馆标识符
+3712	俄罗斯大百科全书在线编号
+3713	俄罗斯组织编号
+3714	保佑领域
+3715	保管人
+3716	信仰
+3717	候选人
+3718	候选人年龄
+3719	價格
+3720	兄弟姊妹
+3721	先决条件
+3722	光球图片
+3723	光谱型
+3724	党籍
+3725	全作品可见于
+3726	全景图
+3727	全球入侵物种数据库ID
+3728	全球物种编号
+3729	公式定义
+3730	公式變數
+3731	公立假日
+3732	公钥指纹
+3733	共享资源作者页面
+3734	共享资源分类
+3735	共享资源图库
+3736	共享资源机构页面
+3737	具有语义格
+3738	内部图片
+3739	内飞于
+3740	冊封狀態
+3741	军事冲突
+3742	军种
+3743	军衔
+3744	冬季景色
+3745	冰岛国家图书馆标识符
+3746	出席人数
+3747	出版地
+3748	出版日期
+3749	出版者
+3750	出版间隔
+3751	出生地
+3752	出生地分类
+3753	出生姓名
+3754	出生日期
+3755	分子模型或晶体模型
+3756	分布图
+3757	分布地图
+3758	分离自
+3759	分类主话题
+3760	分类包含
+3761	分类相关列表
+3762	分类结合话题
+3763	分解点
+3764	刑罚
+3765	列表所属项目
+3766	列表相关分类
+3767	创作者
+3768	创办者
+3769	初速
+3770	剑桥校友数据库ID
+3771	副标题
+3772	副职
+3773	加害人
+3774	加害者人数
+3775	加拿大国家图书馆暨档案馆 NCF ID
+3776	加拿大百科全書條目ID
+3777	加拿大统计局地理代码
+3778	加泰图书馆标识符
+3779	加泰隆尼亞大百科全書編號
+3780	动态粘度
+3781	动画新闻网人物标识符
+3782	動物園銀行名稱或命名行為標識符
+3783	包含
+3784	包含聚落
+3785	包含行政领土实体
+3786	匈牙利国会议员标识符
+3787	化名
+3788	化学式
+3789	化学结构
+3790	北美蛾类名录ID
+3791	区别于
+3792	医学检查
+3793	医疗状况
+3794	十進制位數
+3795	升交點黃經
+3796	升降机数量
+3797	半径
+3798	半數致死量
+3799	半翅目指南標識符
+3800	半长轴
+3801	华尔街日报主题标识符
+3802	协调制度代码
+3803	单位符号
+3804	南卡罗来纳百科全书ID
+3805	博士生
+3806	博士生导师
+3807	占用者
+3808	卢森堡国家图书馆标识符
+3809	卫报专题编码
+3810	卫星
+3811	印度人口普查区域号 (2001)
+3812	印度人口普查区域号 (2011)
+3813	印度尼西亚村落代码
+3814	印度尼西亚行政代码
+3815	印度时报主题标识符
+3816	印章图像
+3817	印章描述
+3818	历史郡
+3819	厚度
+3820	原产于
+3821	原产地
+3822	原理图
+3823	参与
+3824	参与数量
+3825	参与者
+3826	参赛次数
+3827	又名
+3828	友好城市
+3829	反对
+3830	发现日期
+3831	发现者或发明者
+3832	发病率
+3833	取代对象
+3834	取景地分类
+3835	受伤人数
+3836	受其崇拜
+3837	受害人
+3838	受此维基专题维护
+3839	口头、书写或手语语言
+3840	口语音频文件
+3841	古代历史百科全书ID
+3842	古腾堡作者编号
+3843	可分为
+3844	台湾物种名录物种编号
+3845	史密森尼学会编号
+3846	史密森火山编号
+3847	号
+3848	合作在线书目系统和服务规范文档标识符
+3849	合资格选民数
+3850	名义GDP
+3851	名义人均GDP
+3852	名称
+3853	名称分配机构号码
+3854	名称由来
+3855	名言
+3856	后继者
+3857	启发自
+3858	员工人数
+3859	周期事件的时间段
+3860	周长
+3861	呼号
+3862	命名人縮寫（動物學）
+3863	命名日
+3864	咬合力
+3865	哺乳期
+3866	唱片公司
+3867	商業名稱
+3868	国家
+3869	国家元首
+3870	国家元首职位
+3871	国家图书馆服务作者标识符
+3872	国家图书馆标识符
+3873	国家水体注册码（俄罗斯）
+3874	国教
+3875	国立塞切尼图书馆标识符
+3876	国籍
+3877	国际化合物标识
+3878	国际单位制单位转换
+3879	国际奥林匹克委员会运动员编号
+3880	国际标准书号出版者前缀
+3881	国际标准分类法（ICS）
+3882	国际标准名称标识符
+3883	国际标准图书馆标识符
+3884	国际标准期刊号
+3885	国际标准行业分类代码（第4版）
+3886	国际电话区号
+3887	国际非专利药品名称
+3888	国际鸟盟识别符
+3889	图标
+3890	图片
+3891	國家地理名稱目錄(俄)
+3892	國際基礎藥理學與臨床藥理學聯合會配體
+3893	國際標準音樂作品編碼
+3894	國際證券識別碼
+3895	圖標類符號
+3896	圣人纪念日
+3897	在世期
+3898	地上层数
+3899	地下层数
+3900	地名标识
+3901	地形突起度
+3902	地理中心的坐标
+3903	地理坐标
+3904	地理形状
+3905	地面360°视图
+3906	垂直深度
+3907	型号手册ID
+3908	埃爾德什数
+3909	埋葬或火化日期
+3910	基尼系数
+3911	基本传染数
+3912	基本工资
+3913	基金數額
+3914	塞浦路斯地理编码统计服务
+3915	填充该分类的维基媒体模板
+3916	墓地
+3917	墓碑图片
+3918	增值税率
+3919	声部
+3920	外商直接投资净流入
+3921	外商直接投资净流出
+3922	外部资料来源
+3923	夜景
+3924	大学与高等专门学校代码
+3925	大学文档系统作品标识符
+3926	大学文档系统标识符
+3927	大學入學率
+3928	大洲
+3929	大英图书馆系统编号
+3930	大英百科全書線上編號
+3931	大韓民國憲政會編號
+3932	天主教百科全书ID
+3933	天主教等級制人物標識符
+3934	天文符号图像
+3935	天氣歷史
+3936	天然宿主
+3937	失业率
+3938	失学儿童人数
+3939	头衔
+3940	奥地利博物馆代码
+3941	奥地利市镇编码
+3942	奥斯卡金像奖电影编号
+3943	女性人口
+3944	始于
+3945	姓
+3946	委任者
+3947	威尔士国家图书馆ID
+3948	媒体类型
+3949	媒體藝術數據庫識別碼
+3950	子reddit
+3951	子女
+3952	子女数目
+3953	子组织
+3954	孕期
+3955	存档于
+3956	存檔资源鑰匙
+3957	学位
+3958	学名
+3959	学生
+3960	学生数量
+3961	学费
+3962	孵化期
+3963	學術譜系標識符
+3964	完成轨道圈数
+3965	宗教团
+3966	宗教姓名
+3967	官员
+3968	官方博客
+3969	官方名称
+3970	官方地圖網址
+3971	官方标记
+3972	官方网站
+3973	官方语言
+3974	官方颜色
+3975	官邸
+3976	定位图图片
+3977	实际国内生产总值增长率
+3978	实际投票数
+3979	宣传物
+3980	宣佈日期
+3981	宣布开幕者
+3982	家族
+3983	宽度
+3984	密度
+3985	密歇根州植物園標識符
+3986	密西西比百科全书ID
+3987	导致
+3988	小標誌或圖標
+3989	小行星中心观测代码
+3990	就读学校
+3991	尺寸比較圖
+3992	居住地
+3993	居民称谓词
+3994	工作周期（开始）
+3995	工作周期（结束）
+3996	工作地点
+3997	工作领域
+3998	巴伐利亚遗迹管理局编号
+3999	巴塞罗那大学规范标识符
+4000	巴西国家图书馆标识符
+4001	巴西市镇代码
+4002	市值
+4003	市區代碼
+4004	市电电压
+4005	希腊国家图书馆标识符
+4006	席次
+4007	帶相框圖像
+4008	常用车辆
+4009	常见采购词汇
+4010	干线前缀
+4011	平均年龄
+4012	年度能源产量
+4013	幼崽个数
+4014	座右铭
+4015	建筑风格
+4016	开放图书馆主题标识符
+4017	开放图书馆标识符
+4018	开放媒体数据库人物标识符
+4019	开放媒体数据库电影编号
+4020	开放日
+4021	开设账户网站
+4022	弃权票数
+4023	弗里克艺术参考图书馆艺术家文件编号
+4024	强制教育的最低年龄
+4025	强制教育的最高年龄
+4026	当今地处行政领土实体
+4027	彭博社公司编号
+4028	影响因素
+4029	影响自
+4030	径向速度
+4031	得分或进球数
+4032	微信账号
+4033	微軟商店應用標識符
+4034	微軟學術編號
+4035	德勤足球俱樂部財富排名
+4036	德国市镇编号
+4037	德国当代作曲家大词典
+4038	德国水文编号
+4039	德国联邦议院传记
+4040	德國縣編號
+4041	心率
+4042	志願者數量
+4043	性别
+4044	性取向
+4045	总书记
+4046	总产量
+4047	总储备金
+4048	总出口量
+4049	总和生育率
+4050	总计花费
+4051	总部位置
+4052	恒星自转速度
+4053	意大利参议院ID
+4054	意大利国家大辞典
+4055	意大利地籍码
+4056	感染率
+4057	成员分类
+4058	成员数目
+4059	成立地点
+4060	成立或创建时间
+4061	成立文书
+4062	截面图
+4063	户役政资讯系统资料代码
+4064	户数
+4065	房屋数量
+4066	所占席次
+4067	所在统计领土实体
+4068	所在行政领土实体
+4069	所在街道地址
+4070	所处地理环境
+4071	所属山脉
+4072	所属组织
+4073	所属联盟
+4074	所犯罪名
+4075	所获奖项
+4076	扁率
+4077	手语手势
+4078	扩散方程
+4079	扬程
+4080	批准方
+4081	批准日期
+4082	批准自
+4083	投票权
+4084	投開票所編號
+4085	抗壓強度
+4086	折射率
+4087	报告码
+4088	拉脱维亚国家图书馆标识符
+4089	拉脱维亚抄本
+4090	拘留场所
+4091	拥有
+4092	拥有此类别的一部分
+4093	拥有特性
+4094	拥有者
+4095	拥有设施
+4096	拼贴图像
+4097	指挥者
+4098	挪威大百科全书编号
+4099	挪威组织编号
+4100	损害
+4101	据称相同词
+4102	捷克国家图书馆标识符
+4103	捷克斯洛伐克电影数据库个人编号
+4104	捷克注册ID
+4105	授予学位
+4106	排名
+4107	接壤
+4108	控罪
+4109	描绘作品
+4110	描绘内容
+4111	描绘的Iconclass符号
+4112	搜索格式化统一资源定位符
+4113	摄影师身份目录编码
+4114	摇滚乐名人堂ID
+4115	摧毁
+4116	摩天大楼中心编号
+4117	摩氏硬度
+4118	支持的运动队
+4119	支流
+4120	收入中位数
+4121	收藏大小
+4122	改编自
+4123	政党编号
+4124	政府基本形式
+4125	政府首脑
+4126	政府首脑职位
+4127	政治意识形态
+4128	政治立场
+4129	故事发生地
+4130	效力运动队
+4131	效忠对象
+4132	敌人
+4133	教父母
+4134	教育机构校友专用分类
+4135	教育阶段
+4136	敬语后缀
+4137	数值
+4138	数字瓦伦西亚图书馆作者编号
+4139	数学学科分类标准编号
+4140	数学评论数据库作者标识符
+4141	数学谱系计划标识符
+4142	数量
+4143	整合规范文档标识符
+4144	文件扩展名
+4145	文件格式Wiki页面ID
+4146	文化
+4147	文化观光部2000年式
+4148	文化运动
+4149	文化遗产保护状况
+4150	文盲人口
+4151	文织字母
+4152	文資局資料識別碼
+4153	斜率
+4154	斯高帕斯作者编码
+4155	斯高帕斯資料庫文獻作者所屬機構碼
+4156	新南威尔士州地名委员会ID
+4157	新浪微博用户账号
+4158	方位地图
+4159	方向说明
+4160	方言属于
+4161	旋律
+4162	旗帜
+4163	旗帜图像
+4164	无效票数
+4165	日期
+4166	日本国立国会图书馆标识符
+4167	日本地方公共团体编号
+4168	日语假名
+4169	时光网人物编号
+4170	时区
+4171	时区偏移量
+4172	时速限制
+4173	时长
+4174	时间周期
+4175	昆士兰生物群识别ID
+4176	星期中的日子
+4177	昵称
+4178	時裝模特兒指南模特標識符
+4179	景觀
+4180	智利国家图书馆标识符
+4181	最东点
+4182	最低合法性交年龄
+4183	最低工資
+4184	最低年龄
+4185	最低温度记录
+4186	最北点
+4187	最南点
+4188	最大容量
+4189	最大玩家数
+4190	最小玩家数
+4191	最早文獻記錄時間
+4192	最早日期
+4193	最晚日期
+4194	最深点
+4195	最西点
+4196	最高司法机关
+4197	最高拉达议员编号
+4198	最高温度记录
+4199	最高点
+4200	月面座標
+4201	有效溫度
+4202	有效票数
+4203	有線－衛星公共事務網絡人員標識符
+4204	服务条款URL
+4205	服务状态信息URL
+4206	服务终止日期
+4207	服务起始日期
+4208	末行
+4209	机场参考点
+4210	机构主管职位
+4211	杀害者
+4212	材料
+4213	杜威十进制图书分类法
+4214	染色体数量
+4215	标准摩尔熵
+4216	标准生成焓
+4217	标志图像
+4218	标本馆代码
+4219	标签女性化形式
+4220	标签男性化形式
+4221	标题
+4222	格莱美奖艺术家编号
+4223	格言
+4224	格里曆啓用日期
+4225	案件号码
+4226	案例数
+4227	梵蒂冈宗座图书馆标识符
+4228	植物学作者缩写
+4229	模型项
+4230	模式分类
+4231	模板主话题
+4232	歐洲議會議員目錄索引碼
+4233	正则表达式格式
+4234	正式关闭日期
+4235	正式开放日期
+4236	武器
+4237	死亡人数
+4238	死亡地
+4239	死亡地分类
+4240	死亡方式
+4241	死亡日期
+4242	死因
+4243	母亲
+4244	母组织
+4245	母语
+4246	母语人名
+4247	母语标签
+4248	每分钟节拍数
+4249	每千人拥有车辆
+4250	每年访客人数
+4251	比利时参议院人物编号
+4252	比利时皇家医学院成员编号
+4253	民主指数
+4254	水停留时间
+4255	水源
+4256	水足迹
+4257	水體面積百分比
+4258	汉语拼音转写
+4259	汽化焓
+4260	沙盒-外部标识符
+4261	沸点
+4262	法人机构识别编码
+4263	法人编号 (日本)
+4264	法兰德斯艺术研究所场馆ID
+4265	法国公共服务索引簿ID
+4266	法国医学科学院院士编号
+4267	法国国家图书馆标识符
+4268	法国国民议会ID
+4269	法国市镇EHESS ID
+4270	法国文化人物编号
+4271	法國Vikidia標識符
+4272	法定年龄
+4273	法定结婚年龄
+4274	法律形式
+4275	法鼓佛教学院地区编码
+4276	法鼓佛教學院人物碼
+4277	波兰国家图书馆标识符
+4278	波兰国家图书馆标识符(旧)
+4279	波兰国家联合图书目录标识符
+4280	注入水體
+4281	泰国中央行政区划代码
+4282	泰晤士高等教育世界大学标识符
+4283	洗礼日期
+4284	洛杉矶书评网站作者ID
+4285	活动距离
+4286	流入水域
+4287	流出河流
+4288	流媒体URL
+4289	流量
+4290	海事识别数字
+4291	海岸线
+4292	海拔
+4293	消费率
+4294	温度
+4295	源代码存储库
+4296	溶解度
+4297	滚石艺术家ID
+4298	澳大利亚国家图书馆人物标识符
+4299	澳大利亚国家图书馆标识符
+4300	澳大利亚国家海事博物馆人物ID
+4301	澳大利亚女性登记ID
+4302	澳大利亚教育词汇编号
+4303	澳大利亚科学百科全书ID
+4304	烂番茄编号
+4305	热容量
+4306	熔点
+4307	爆炸当量
+4308	爬行动物数据库ID
+4309	爱好
+4310	爱沙尼亚图书馆网络联盟标识符
+4311	父亲
+4312	版本
+4313	版本号
+4314	版本属于或翻译自
+4315	版权代表人
+4316	版权状态
+4317	牌照代码
+4318	牛津大学人物传记索引编码
+4319	物理量
+4320	犹他历史百科全书ID
+4321	犹太百科全书编号（俄文）
+4322	狭窄外部类
+4323	獎金
+4324	环境登记码（爱沙尼亚）
+4325	瑞典國會議員編號
+4326	瑞典墓碑编号
+4327	瑞典文化遗产数据库ID
+4328	瑞典郡县代码
+4329	瑞典都会区代码
+4330	瑞士企业识别号码
+4331	瑞士市镇编码
+4332	瑞士电影数据库人物标识
+4333	瑞士的外交文件標識符
+4334	瑞士联邦档案馆ID
+4335	環球百科全書識別碼
+4336	生产统计
+4337	生命之树网络项目 ID
+4338	生命大百科編號
+4339	生命宝藏ID
+4340	生效日期
+4341	生日
+4342	生活方式
+4343	生物俗名
+4344	生物门户编号
+4345	用于此语言电影的分类
+4346	用于美国州份的FIPS字符串代码
+4347	用于美国州份的FIPS数字代码
+4348	用于齐名分类的分类
+4349	用户手册链接
+4350	用藥
+4351	用途
+4352	电压
+4353	电子邮件地址
+4354	电话区号
+4355	电话号码
+4356	男性人口
+4357	略绶图片
+4358	疗法
+4359	疾病數據庫
+4360	疾病最短潜伏期
+4361	疾病最长潜伏期
+4362	疾病本体ID
+4363	病床数量
+4364	症状
+4365	登场作品
+4366	登记号码
+4367	白俄罗斯文拉丁化（2007）
+4368	百合池記譜
+4369	盐度
+4370	目录编号
+4371	目标
+4372	目标利率
+4373	直径
+4374	直接原因
+4375	直接结果
+4376	相互作用
+4377	相关人物分类
+4378	相关分类
+4379	相关列表
+4380	相关图片
+4381	相对概念
+4382	相接水体
+4383	盾牌图片
+4384	知乎用户名
+4385	知乎话题标识符
+4386	矩震级
+4387	研究学科
+4388	研究对象
+4389	破坏原因
+4390	碳足印
+4391	磁矩
+4392	社会科学研究网络作者标识符
+4393	票房
+4394	种族
+4395	科隆发音学
+4396	移动网络代码
+4397	移动设备国家代码
+4398	空白票数
+4399	空间重合实体
+4400	突尼斯地区代码
+4401	立法机构
+4402	立陶宛国家图书馆标识符
+4403	竞选
+4404	竞逐之职位
+4405	章程URL
+4406	等价类
+4407	等深线图
+4408	等高線位置地圖
+4409	签名
+4410	签署方
+4411	简称
+4412	管理機關
+4413	管理资产
+4414	管辖区
+4415	籍贯
+4416	米其林航行ID
+4417	类型
+4418	精确匹配
+4419	系列序号
+4420	紀念牌匾圖像
+4421	純利
+4422	結構體數據庫人物編號
+4423	統一碼區間
+4424	經濟學研究論文短標識符
+4425	維基亞維基標識符
+4426	維基藝術標識符
+4427	網路推理小說資料庫作者索引碼
+4428	網路社群追蹤者
+4429	網飛編號
+4430	線上目錄
+4431	纪念对象
+4432	纹章
+4433	纹章图像
+4434	纽约市地标保护委员会编号
+4435	纽约时报主题ID
+4436	线路图
+4437	组织员工专用分类
+4438	终于
+4439	经济损失
+4440	结婚姓名
+4441	统一社会信用代码
+4442	继父母
+4443	维基共享资源上的扫描文件
+4444	维基媒体主题的主要话题
+4445	维基媒体大纲
+4446	维基媒体用户名
+4447	维基媒体语言代码
+4448	维基媒体跨wiki链接前缀
+4449	维基媒体项目关注列表
+4450	维基孵育场链接
+4451	维基数据SPARQL查询等价物
+4452	维基数据上SPARQL中的亲属等价物
+4453	维基数据使用说明
+4454	维基树个人标识符
+4455	维基树类别
+4456	维多利亚国家美术馆艺术家ID
+4457	综合高等教育数据系统ID
+4458	网址
+4459	网络摄像头访问网址
+4460	罗曼地网络标识符
+4461	美国免税实体分类
+4462	美国公法
+4463	美国农业部植物识别码
+4464	美国国会图书馆书目控制号
+4465	美国国会图书馆图书分类法
+4466	美国国会图书馆规范标识符
+4467	美国国会议员编码
+4468	美国国家传记编号
+4469	美国国家大地测量ID
+4470	美国国家档案标识符
+4471	美国国家科学院成员编号
+4472	美国国家自然地标网站ID
+4473	美国国税局（IRS）雇主识别号码
+4474	美国数字公共图书馆主题ID
+4475	美国武装部队服役编号
+4476	美国法规大全引用
+4477	美国电影学院人物ID
+4478	美国联邦选举委员会编号
+4479	美國報紙鏈接標識符
+4480	義大利下議員ID
+4481	翼展
+4482	老师
+4483	职业
+4484	职业领域
+4485	职务
+4486	职务任期时长
+4487	联合国书目信息系统叙词表编号
+4488	联合国教科文组织同义词库ID
+4489	联合国条约汇编注册号
+4490	自杀率
+4491	自治系统号
+4492	自行运动
+4493	自轉週期
+4494	节日日期
+4495	芬兰广播公司话题编号
+4496	芬蘭國家傳記標識符
+4497	芬蘭鄉鎮市區索引碼
+4498	花费
+4499	苏格兰史迹编号
+4500	英国国家格网参考系统
+4501	英国国家档案馆ID
+4502	英国广播公司节目标识符
+4503	英国议会主题词表编号
+4504	英国选举委员会ID
+4505	英國襲產署編號
+4506	荷兰皇家图书馆标识符
+4507	莫比遊戲標識符
+4508	获奖理由
+4509	获胜者
+4510	菲律宾标准地理代码
+4511	萌娘百科标识符
+4512	营业收入
+4513	营业额
+4514	萨格勒布国家和大学图书馆标识符
+4515	葡萄牙国家图书馆标识符
+4516	董事会成员
+4517	蒙青格尔人物编号
+4518	蒸汽压
+4519	蓋蒂藝術與建築索引典標識符
+4520	藏書票
+4521	藝術百科全書藝術家標識符
+4522	藝術網創作者編號
+4523	虚值
+4524	虚拟国际规范文档标识符
+4525	行政中心
+4526	行政机构
+4527	表字
+4528	表格式人口
+4529	表演者
+4530	表现概念
+4531	表面重力
+4532	装置容量
+4533	裴卓菲文学博物馆权威ID
+4534	西班牙传记辞典标识符
+4535	西班牙国家图书馆标识符
+4536	西班牙统计局自治市代码
+4537	西班牙语Quora主题代码
+4538	視星等
+4539	观察到的最长寿命
+4540	规划图
+4541	视差
+4542	视觉小说数据库标识符
+4543	视频
+4544	角直径
+4545	解剖位置
+4546	解剖学术语98编码
+4547	解剖學的基礎模型編號
+4548	解散、废除或拆毁日
+4549	說唱天才藝術家標識符
+4550	識字率
+4551	订阅源网址
+4552	议会任期
+4553	议会记录标识符
+4554	记载于
+4555	设计运输
+4556	评论得分
+4557	识字人口
+4558	词干
+4559	诗歌基金会ID
+4560	话语录音
+4561	话题主分类
+4562	话题主模板
+4563	话题方面
+4564	话题的主要维基媒体主题
+4565	话题的经济
+4566	详情描述网址
+4567	详细地图
+4568	语义学者作者编号
+4569	语言管理机构
+4570	语言类型学
+4571	诺贝尔奖提名人编号
+4572	读音
+4573	谥号
+4574	豆瓣小站名
+4575	豆瓣影人编号
+4576	豆瓣电影编号
+4577	豆瓣读书作者标识符
+4578	豆瓣音乐艺术家编号
+4579	负债总额
+4580	财政/税收收入
+4581	货币
+4582	货币符号
+4583	质量
+4584	购买力平价GDP
+4585	贵族头衔
+4586	费用
+4587	资产净值
+4588	资产总值
+4589	赞助者
+4590	赤纬
+4591	赤经
+4592	起因
+4593	跑道
+4594	距离地球的距离
+4595	路线编号
+4596	軌道傾角
+4597	輿圖索引號
+4598	轨道周期
+4599	轨道离心率
+4600	转写
+4601	软件版本
+4602	软件错误报告页面
+4603	软科大学编号
+4604	载客量
+4605	运动黏度
+4606	运营者
+4607	近心點幅角
+4608	近拱点
+4609	退休年龄
+4610	选举人
+4611	选区数量
+4612	选民数
+4613	通用十进制图书分类法
+4614	通货膨胀率
+4615	通过定年法估算的年龄
+4616	速度
+4617	逮捕人数
+4618	道路通行方向
+4619	選秀上被指名
+4620	邦交国
+4621	邮政编码
+4622	部分重合物
+4623	配偶
+4624	醫學專科
+4625	重大事件
+4626	重要人物
+4627	量纲
+4628	金属性
+4629	铁路通行方向
+4630	铭文
+4631	长度
+4632	關鍵英語地名的標識符
+4633	队中位置
+4634	阿姆斯特丹编码
+4635	阿根廷国家图书馆标识符
+4636	阿联酋大学图书馆标识符
+4637	院长
+4638	隐私方针URL
+4639	雅虎知识堂分类
+4640	集水区
+4641	集水区国家
+4642	集水面积
+4643	雇主
+4644	雷根斯堡圖書分類碼
+4645	霍恩博斯特爾-薩克斯分類
+4646	非婚伴侣
+4647	非洲植物数据库ID
+4648	面积
+4649	韩国国立中央图书馆标识符
+4650	韩国民族文化大百科ID
+4651	音域
+4652	音速
+4653	音频
+4654	页码
+4655	页面横幅
+4656	顶级域名
+4657	项目目标
+4658	颁发者
+4659	颂歌
+4660	预期寿命
+4661	预算
+4662	领土主张
+4663	领导者
+4664	领英个人资料编号
+4665	领英公司编号
+4666	频道号码
+4667	颜色
+4668	风险因子
+4669	飞地从属于
+4670	飞机登记前缀
+4671	食物熱量
+4672	首席执行官
+4673	首演地点
+4674	首演日期
+4675	首航日期
+4676	首行
+4677	香港中文名稱規範數據庫識別碼
+4678	香港影库个人编号
+4679	马科恩-赖肖尔表记法
+4680	高度
+4681	魁北克国家图书档案馆作者标识符
+4682	魁北克文化遗产目录编号
+4683	魁北克电影资料馆个人编号
+4684	黎巴嫩国家图书馆标识符
+4685	（以类型分）属于
